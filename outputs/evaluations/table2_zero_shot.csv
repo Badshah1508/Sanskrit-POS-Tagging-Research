@@ -1,0 +1,6 @@
+model_id,model,literature_test_macro_f1,news_zero_shot_macro_f1,absolute_f1_drop,relative_f1_drop_pct,zero_shot_accuracy,zero_shot_weighted_f1
+M1,BiLSTM_CRF,0.3691,0.1015,0.2676,72.49,0.2358,0.2858
+M2,XLM_RoBERTa,0.5423,0.2047,0.3376,62.25,0.5457,0.595
+M3,IndicBERT_v2,0.5446,0.1933,0.3513,64.5,0.5427,0.5883
+M4,MuRIL,0.4677,0.1934,0.2743,58.65,0.5841,0.6193
+M5,Sanskrit_BERT,0.5078,0.1959,0.3119,61.43,0.5344,0.5832

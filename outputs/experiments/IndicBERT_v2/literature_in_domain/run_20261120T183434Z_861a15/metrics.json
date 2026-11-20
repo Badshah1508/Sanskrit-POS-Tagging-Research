@@ -1,0 +1,11 @@
+{
+  "accuracy": 0.9225235196458218,
+  "macro_precision": 0.5641157770122645,
+  "macro_recall": 0.5333585408142397,
+  "macro_f1": 0.5445746909518465,
+  "weighted_precision": 0.9222447861327682,
+  "weighted_recall": 0.9225235196458218,
+  "weighted_f1": 0.92208071177499,
+  "total_tokens": 1807,
+  "total_sentences": 227
+}

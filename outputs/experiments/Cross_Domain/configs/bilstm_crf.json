@@ -1,0 +1,13 @@
+{
+  "model": "bilstm_crf",
+  "embedding_dim": 128,
+  "hidden_size": 128,
+  "dropout": 0.2,
+  "learning_rate": 0.001,
+  "batch_size": 32,
+  "epochs": 20,
+  "weight_decay": 0.0001,
+  "early_stopping_patience": 3,
+  "seed": 42,
+  "selection_metric": "validation_macro_f1"
+}

@@ -1,0 +1,47 @@
+{
+  "literature": {
+    "group_column": "doc_id",
+    "train": {
+      "sentences": 904,
+      "tokens": 7292,
+      "unique_groups": 904
+    },
+    "validation": {
+      "sentences": 279,
+      "tokens": 2246,
+      "unique_groups": 279
+    },
+    "test": {
+      "sentences": 227,
+      "tokens": 1807,
+      "unique_groups": 227
+    }
+  },
+  "news": {
+    "group_column": "doc_id",
+    "adaptation_pool": {
+      "sentences": 1484,
+      "tokens": 13544,
+      "unique_documents": 1103
+    },
+    "validation": {
+      "sentences": 370,
+      "tokens": 3431,
+      "unique_documents": 276
+    },
+    "locked_test": {
+      "sentences": 791,
+      "tokens": 7324,
+      "unique_documents": 592
+    }
+  },
+  "leakage_verification": {
+    "literature_train_val_overlap": 0,
+    "literature_train_test_overlap": 0,
+    "literature_val_test_overlap": 0,
+    "news_adaptation_val_doc_overlap": 0,
+    "news_adaptation_test_doc_overlap": 0,
+    "news_val_test_doc_overlap": 0,
+    "news_adaptation_test_sent_overlap": 0
+  }
+}

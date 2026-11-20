@@ -1,0 +1,146 @@
+{
+  "Literature_Corpus": {
+    "columns": [
+      "sentence_id",
+      "word_number",
+      "word",
+      "lemma",
+      "tag",
+      "sentence"
+    ],
+    "dtypes": {
+      "sentence_id": "int64",
+      "word_number": "int64",
+      "word": "str",
+      "lemma": "float64",
+      "tag": "str",
+      "sentence": "str"
+    },
+    "null_counts": {
+      "sentence_id": 0,
+      "word_number": 0,
+      "word": 4,
+      "lemma": 11899,
+      "tag": 24,
+      "sentence": 0
+    },
+    "sample": {
+      "sentence_id": 1,
+      "word_number": 1,
+      "word": "गङ्गा",
+      "lemma": NaN,
+      "tag": "NP.fem.sg.0.i",
+      "sentence": "गङ्गा"
+    }
+  },
+  "News_Annotated": {
+    "columns": [
+      "doc_id",
+      "sentence_id",
+      "annotation_id",
+      "sentence_text",
+      "token_id",
+      "token",
+      "lemma",
+      "upos",
+      "stanza_upos",
+      "xpos",
+      "feats",
+      "gold_sanskrit_tag",
+      "annotation_status",
+      "annotation_note",
+      "verified_by",
+      "verified_at",
+      "comp_sent"
+    ],
+    "dtypes": {
+      "doc_id": "int64",
+      "sentence_id": "int64",
+      "annotation_id": "str",
+      "sentence_text": "str",
+      "token_id": "int64",
+      "token": "str",
+      "lemma": "float64",
+      "upos": "str",
+      "stanza_upos": "str",
+      "xpos": "float64",
+      "feats": "str",
+      "gold_sanskrit_tag": "str",
+      "annotation_status": "str",
+      "annotation_note": "float64",
+      "verified_by": "str",
+      "verified_at": "str"
+    },
+    "null_counts": {
+      "doc_id": 0,
+      "sentence_id": 0,
+      "annotation_id": 0,
+      "sentence_text": 0,
+      "token_id": 0,
+      "token": 0,
+      "lemma": 24299,
+      "upos": 0,
+      "stanza_upos": 0,
+      "xpos": 24299,
+      "feats": 1548,
+      "gold_sanskrit_tag": 0,
+      "annotation_status": 0,
+      "annotation_note": 24299,
+      "verified_by": 0,
+      "verified_at": 0
+    },
+    "sample": {
+      "doc_id": "1",
+      "sentence_id": "6",
+      "annotation_id": "1_6",
+      "sentence_text": "अस्याः उपयोगेन छात्राणां मतिः सर्वदा सर्वथा च क्रीडाज्वरे वर्तते।",
+      "token_id": "1",
+      "token": "अस्याः",
+      "lemma": "nan",
+      "upos": "NOUN",
+      "stanza_upos": "NOUN",
+      "xpos": "nan",
+      "feats": "Compound=Yes",
+      "gold_sanskrit_tag": "N",
+      "annotation_status": "verified",
+      "annotation_note": "nan",
+      "verified_by": "sanskrit_scholar",
+      "verified_at": "2026-10-13T10:08:28.341595"
+    }
+  },
+  "News_Unannotated": {
+    "columns": [
+      "doc_id",
+      "sentence_id",
+      "sentence",
+      "source_doc_id",
+      "sentence_in_doc",
+      "annotation_id",
+      "comp_sent"
+    ],
+    "dtypes": {
+      "doc_id": "int64",
+      "sentence_id": "int64",
+      "sentence": "str",
+      "source_doc_id": "int64",
+      "sentence_in_doc": "int64",
+      "annotation_id": "int64"
+    },
+    "null_counts": {
+      "doc_id": 0,
+      "sentence_id": 0,
+      "sentence": 0,
+      "source_doc_id": 0,
+      "sentence_in_doc": 0,
+      "annotation_id": 0
+    },
+    "sample": {
+      "doc_id": "3598",
+      "sentence_id": "0",
+      "sentence": "उपराष्ट्रपतिना एम.",
+      "source_doc_id": "1373",
+      "sentence_in_doc": "0",
+      "annotation_id": "7001"
+    }
+  }
+}

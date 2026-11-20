@@ -1,0 +1,4 @@
+dataset_name,filename,domain,total_rows,total_sentences,total_tokens,unique_document_ids,unique_sentence_ids,unique_composite_sentences,duplicate_rows,duplicate_sentence_texts,missing_tokens,missing_tags,unique_tags,min_tokens_per_sentence,max_tokens_per_sentence,mean_tokens_per_sentence
+Literature_Corpus,Literature_Corpus.csv,Source (Literature),11899,1461,11895,1461,1461,1461,0,49,4,24,560,1,37,8.14
+News_Annotated,News_Annotated.csv,Target Gold (News),24299,2645,24299,1971,45,2645,0,20,0,0,24,1,181,9.19
+News_Unannotated,News_Unannotated.csv,Target Unannotated (News),3000,3000,29872,1554,32,3000,0,23,0,3000,0,1,468,9.96

@@ -1,0 +1,21 @@
+# HPC & Local PyTorch with CUDA Acceleration (NVIDIA H100 / CUDA 12.x)
+--extra-index-url https://download.pytorch.org/whl/cu124
+torch>=2.2.0
+torchvision
+torchaudio
+transformers>=4.44.0,<5.0.0
+datasets
+accelerate
+seqeval
+pytorch-crf
+sentencepiece
+scikit-learn
+pandas
+numpy
+matplotlib
+seaborn
+jupyter
+nbformat
+nbclient
+ipykernel
+tqdm

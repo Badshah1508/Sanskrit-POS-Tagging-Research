@@ -1,0 +1,6 @@
+model_id,model_name,dataset,split,accuracy,macro_precision,macro_recall,macro_f1,weighted_f1,training_time,inference_time,checkpoint_path,experiment_status
+M1,BiLSTM-CRF,Sanskrit News,locked_test,0.6616602949208084,,,0.23192771259702374,0.6246284022085808,,,/home/badshah/Desktop/Cross_Domain/outputs/experiments/BiLSTM_CRF/news_in_domain/run_20261118T104845Z_c3ddb4/checkpoint,completed
+M2,XLM-RoBERTa,Sanskrit News,locked_test,0.7845439650464228,,,0.3490316646748681,0.7853046549230062,,,/home/siba/P25DS023/Cross-Domain-23/outputs/experiments/XLM_RoBERTa/news_in_domain/run_20261120T180629Z_134786/checkpoint,completed
+M3,IndicBERT-v2,Sanskrit News,locked_test,0.778399781540142,,,0.33676415795642445,0.7789848986011458,,,/home/siba/P25DS023/Cross-Domain-23/outputs/experiments/IndicBERT_v2/news_in_domain/run_20261120T183746Z_1fa97e/checkpoint,completed
+M4,MuRIL,Sanskrit News,locked_test,0.7849535772801748,,,0.27065783671033883,0.7481713154480553,,,/home/siba/P25DS023/Cross-Domain-23/outputs/experiments/MuRIL/news_in_domain/run_20261120T171152Z_da7ae0/checkpoint,completed
+M5,Sanskrit-BERT,Sanskrit News,locked_test,0.7587383943200436,,,0.3283142545060933,0.7561322701802228,,,/home/siba/P25DS023/Cross-Domain-23/outputs/experiments/Sanskrit_BERT/news_in_domain/run_20261120T174119Z_ee44ec/checkpoint,completed

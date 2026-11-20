@@ -1,0 +1,17 @@
+source_pattern,target_tag,mapping_type,confidence,description
+NC.*,N,prefix_rule,Deterministic/High,Direct syntactic mapping for prefix NC
+NP.*,NS,prefix_rule,Deterministic/High,Direct syntactic mapping for prefix NP
+JJ.*,A,prefix_rule,Deterministic/High,Direct syntactic mapping for prefix JJ
+V.*,KP,prefix_rule,Deterministic/High,Direct syntactic mapping for prefix V
+VBP.*,NV,prefix_rule,Deterministic/High,Direct syntactic mapping for prefix VBP
+VBG.*,NV,prefix_rule,Deterministic/High,Direct syntactic mapping for prefix VBG
+PU.*,PU,prefix_rule,Deterministic/High,Direct syntactic mapping for prefix PU
+CEM.*,AVN,prefix_rule,Deterministic/High,Direct syntactic mapping for prefix CEM
+CNG.*,AVN,prefix_rule,Deterministic/High,Direct syntactic mapping for prefix CNG
+CIN.*,AVU,prefix_rule,Deterministic/High,Direct syntactic mapping for prefix CIN
+CCD.*,SAMB,prefix_rule,Deterministic/High,Direct syntactic mapping for prefix CCD
+CSB.*,SAMB,prefix_rule,Deterministic/High,Direct syntactic mapping for prefix CSB
+ALC.*,AVP,prefix_rule,Deterministic/High,Direct syntactic mapping for prefix ALC
+AMN.*,AVP,prefix_rule,Deterministic/High,Direct syntactic mapping for prefix AMN
+PPR (contextual),"Varies (SN, SNV, A, AVP, etc.)",occurrence_level_review,High (Expert Reviewed),Manual contextual disambiguation for PPR occurrences
+JQ (contextual),"Varies (SN, SNV, A, AVP, etc.)",occurrence_level_review,High (Expert Reviewed),Manual contextual disambiguation for JQ occurrences

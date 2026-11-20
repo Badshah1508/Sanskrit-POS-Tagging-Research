@@ -1,0 +1,885 @@
+﻿sentence_id,Token_Position,Word,Source_Tag,Source_Family,Previous_Words,Next_Words,Full_Sentence,Target_Tag,Mapping_Reason,Mapping_Confidence
+3,0,एषा,PPR.fem.sg.3.nom.i.n.n.prx,PPR,,सर्वासु नदीषु,एषा सर्वासु नदीषु श्रेष्ठा पवित्रतमा च अस्ति ।,SN,Independent feminine demonstrative or personal pronoun,High
+5,10,सः,PPR.mas.sg.3.nom.i.n.n.dst,PPR,च प्रभावेण,गङ्गां स्वर्गात्,भगीरथः नाम नृपः पूर्वजानाम् उद्धाराय तपस्याम् अकरोत् तपस्यायाः च प्रभावेण सः गङ्गां स्वर्गात् धरायाम् अवतारयितुं समर्थः अभवत् ।,SN,Independent personal pronoun,High
+6,2,इमां,PPR.fem.sg.3.acc.ii.n.n.prx,PPR,अतः एव,जनाः भागीरथी,अतः एव इमां जनाः भागीरथी इति अपि कथयन्ति ।,SN,Demonstrative pronoun functioning independently as the object of कथयन्ति.,High
+7,0,ते,PPR.mas.pl.3.nom.i.n.n.dst,PPR,,अस्याः जलम्,ते अस्याः जलम् अत्यधिकं पावनं मन्यन्ते ।,SN,Independent masculine plural demonstrative pronoun used substantively.,High
+7,1,अस्याः,PPR.fem.sg.3.gen.vi.n.n.prx,PPR,ते,जलम् अत्यधिकं,ते अस्याः जलम् अत्यधिकं पावनं मन्यन्ते ।,SNV,Genitive demonstrative pronoun expressing possession or relation to a noun,High
+8,3,अस्यां,PPR.fem.sg.3.loc.vii.n.n.prx,PPR,श्रद्धालुजनाः प्रतिदिनम्,स्नानं कुर्वन्ति,बहवः श्रद्धालुजनाः प्रतिदिनम् अस्यां स्नानं कुर्वन्ति इमां च पूजयन्ति ।,SN,अस्यां functions independently as a locative pronoun referring to the river.,High
+8,6,इमां,PPR.fem.sg.3.acc.ii.n.n.prx,PPR,स्नानं कुर्वन्ति,च पूजयन्ति,बहवः श्रद्धालुजनाः प्रतिदिनम् अस्यां स्नानं कुर्वन्ति इमां च पूजयन्ति ।,SN,Demonstrative pronoun functioning independently as an object of पूजयन्ति.,Medium
+9,0,अस्याः,PPR.fem.sg.3.gen.vi.n.n.prx,PPR,,तटे हरिद्वार-ऋषिकेष-प्रयाग-वाराणसी-इत्यादीनि,अस्याः तटे हरिद्वार-ऋषिकेष-प्रयाग-वाराणसी-इत्यादीनि अनेकानि तीर्थस्थानानि सन्ति ।,SNV,Genitive demonstrative pronoun expressing possession or relation to a noun,High
+10,8,अस्याः,PPR.fem.sg.3.gen.vi.n.n.prx,PPR,तीर्थस्थानेषु आगत्य,पावनजलेन स्नानं,प्रतिवर्षं पुण्येषु पर्वसु लक्षाणि जनाः एषु तीर्थस्थानेषु आगत्य अस्याः पावनजलेन स्नानं कृत्वा दुरितानि दूरीकुर्वन्ति ।,SNV,Genitive demonstrative pronoun expressing possession or relation to a noun,High
+11,1,अस्याः,PPR.fem.sg.3.gen.vi.n.n.prx,PPR,यन्त्रकाराः,जलमवरुद्ध्य सेतुं,यन्त्रकाराः अस्याः जलमवरुद्ध्य सेतुं बद्ध्वा महाजलाषयेषु जलसञ्चयं कुर्वन्ति ।,SNV,Genitive demonstrative pronoun expressing possession or relation to a noun,High
+13,0,अनेन,PPR.neu.sg.3.ins.iii.n.n.prx,PPR,,भूमिः उर्वरा,अनेन भूमिः उर्वरा भवति प्रभूतं च अन्नम् उत्पादयति ।,SN,"Instrumental demonstrative pronoun functions independently, indicating means.",High
+15,0,अस्याः,PPR.fem.sg.3.gen.vi.n.n.prx,PPR,,जलेन विद्युत्,अस्याः जलेन विद्युत् अपि उत्पन्ना भवति ।,SNV,Genitive demonstrative pronoun expressing possession or relation to a noun,High
+16,0,इयं,PPR.fem.sg.3.nom.i.n.n.prx,PPR,,दूरदर्शन-ध्वनिविक्षेपक-शीतकैत्यादीनि यन्त्राणि,इयं दूरदर्शन-ध्वनिविक्षेपक-शीतकैत्यादीनि यन्त्राणि सञ्चालयति विविधानां च पण्यानां वस्तूनां निर्माणे सहायिका भवति ।,SN,Independent feminine demonstrative or personal pronoun,High
+20,0,अस्य,PPR.mas.sg.3.gen.vi.n.n.prx,PPR,,जनकस्य नाम,अस्य जनकस्य नाम कर्षणलालः आसीत् ।,SNV,Possessive/pronominal modifier,High
+22,0,अस्य,PPR.mas.sg.3.gen.vi.n.n.prx,PPR,,स्मरणशक्तिः अद्भुता,अस्य स्मरणशक्तिः अद्भुता आसीत् ।,SNV,Possessive/pronominal modifier,High
+23,2,सः,PPR.mas.sg.3.nom.i.n.n.dst,PPR,चतुर्दशे वर्षे,यजुर्वेदसंहिताम् कण्ठस्थाम्,चतुर्दशे वर्षे सः यजुर्वेदसंहिताम् कण्ठस्थाम् अकरोत् ।,SN,Independent personal pronoun,High
+24,3,सः,PPR.mas.sg.3.nom.i.n.n.dst,PPR,महत्तां श्रुत्वा,शिवरात्रौ व्रतम्,शिवस्य महत्तां श्रुत्वा सः शिवरात्रौ व्रतम् अकरोत् ।,SN,Independent personal pronoun,High
+25,0,सः,PPR.mas.sg.3.nom.i.n.n.dst,PPR,,तस्यां रात्रौ,सः तस्यां रात्रौ न सुप्तः ।,SN,Independent personal pronoun,High
+25,1,तस्यां,PPR.fem.sg.3.loc.vii.n.n.dst,PPR,सः,रात्रौ न,सः तस्यां रात्रौ न सुप्तः ।,SNV,तस्यां directly modifies the locative feminine noun रात्रौ.,High
+26,2,सः,PPR.mas.sg.3.nom.i.n.n.dst,PPR,तदा देवालये,अपश्यत् यत्,तदा देवालये सः अपश्यत् यत् शिवमूर्तिं परितः मूषकाः अकूर्दन् तत्र च पतितान् तण्डुलान् अखादन् ।,SN,Independent personal pronoun,High
+27,0,एतत्,PPR.neu.sg.3.0.i.n.n.prx,PPR,,दृष्ट्वा मूलशंकरस्य,एतत् दृष्ट्वा मूलशंकरस्य श्रद्धा अनश्यत् ।,SN,Independent neuter demonstrative pronoun used substantively.,High
+28,2,तस्य,PPR.mas.sg.3.gen.vi.n.n.dst,PPR,अयम् वृत्तान्तः,जीवने महत्त्वपूर्णः,अयम् वृत्तान्तः तस्य जीवने महत्त्वपूर्णः आसीत् ।,SNV,Third-person genitive demonstrative used possessively with a noun,High
+29,5,तस्य,PPR.mas.sg.3.gen.vi.n.n.dst,PPR,आसीत् तदा,चतुर्दशवर्षीया अनुजा,यदा मूलशंकरः षोडशवर्शीयः आसीत् तदा तस्य चतुर्दशवर्षीया अनुजा रुग्णा अभवत् ।,SNV,Third-person genitive demonstrative used possessively with a noun,High
+30,2,सा,PPR.fem.sg.3.nom.i.n.n.dst,PPR,शीघ्रम् एव,प्राणान् अत्यजत्,शीघ्रम् एव सा प्राणान् अत्यजत् ।,SN,Independent feminine demonstrative pronoun,High
+31,1,सः,PPR.mas.sg.3.nom.i.n.n.dst,PPR,यदा,नवदशवर्शीयः अभवत्,यदा सः नवदशवर्शीयः अभवत् तदा तस्य पितृव्यः विषूचिकानामकेन रोगेण आक्रान्तः अभवत् मृतः च ।,SN,Independent personal pronoun,High
+31,5,तस्य,PPR.mas.sg.3.gen.vi.n.n.dst,PPR,अभवत् तदा,पितृव्यः विषूचिकानामकेन,यदा सः नवदशवर्शीयः अभवत् तदा तस्य पितृव्यः विषूचिकानामकेन रोगेण आक्रान्तः अभवत् मृतः च ।,SNV,Third-person genitive demonstrative used possessively with a noun,High
+33,0,अस्य,PPR.mas.sg.3.gen.vi.n.n.prx,PPR,,वैराग्यस्य भावनां,अस्य वैराग्यस्य भावनां ज्ञात्वा परिवारस्य सदस्याः मूलशंकरस्य विवाहस्य चिन्तां अकुर्वन् ।,SNV,Possessive/pronominal modifier,High
+34,0,एतत्,PPR.neu.sg.3.0.i.n.n.prx,PPR,,ज्ञात्वा एकविंशतिवर्षीयः,एतत् ज्ञात्वा एकविंशतिवर्षीयः मूलशंकरः गृहम् अत्यजत् ।,SN,Independent neuter demonstrative pronoun used substantively.,High
+35,4,सः,PPR.mas.sg.3.nom.i.n.n.dst,PPR,नवम्बरमासस्य चतुर्दशतारिकायाम्,मथुरानगरे गुरोः,१८६०तमे वर्षे नवम्बरमासस्य चतुर्दशतारिकायाम् सः मथुरानगरे गुरोः विरजानन्दस्य समीपम् अगच्छत् विद्याध्ययनं च अकरोत् ।,SN,Independent personal pronoun,High
+39,7,सर्वे,PPR.mas.pl.3.nom.i.n.n.0,PPR,अकरोत् ते,सत्यार्थप्रकाशनामके ग्रन्थे,महर्षिः दयानन्दः येषाम् सिद्धान्तानाम् प्रचारम् अकरोत् ते सर्वे सत्यार्थप्रकाशनामके ग्रन्थे उल्लिखिताः सन्ति ।,SNV,Quantifier सर्वे qualifies an accompanying pronoun.,High
+40,0,सः,PPR.mas.sg.3.nom.i.n.n.dst,PPR,,संस्कारविधिम् अपि,सः संस्कारविधिम् अपि अलिखत् ।,SN,Independent personal pronoun,High
+41,0,एतावत्,PPR.neu.sg.3.0.i.n.n.prx,PPR,,महत् कार्यं,एतावत् महत् कार्यं कृत्वा १८८३तमे वर्षे एषः महर्षिः ईश्वरं स्मरन् स्वदेहम् अत्यजत् ।,SNV,एतावत् qualifies the noun phrase महत् कार्यम्.,High
+43,0,त्वम्,PPR.0.sg.2.nom.i.n.n.prx,PPR,,एव माता,"त्वम् एव माता च पिता त्वम् एव, त्वम् एव बन्धुः च सखा त्वम् एव ।",SN,Independent second-person personal pronoun,High
+43,5,त्वम्,PPR.0.sg.2.0.i.n.n.prx,PPR,च पिता,"एव, त्वम्","त्वम् एव माता च पिता त्वम् एव, त्वम् एव बन्धुः च सखा त्वम् एव ।",SN,Independent second-person pronoun used substantively.,High
+43,7,त्वम्,PPR.0.sg.2.0.i.n.n.prx,PPR,"त्वम् एव,",एव बन्धुः,"त्वम् एव माता च पिता त्वम् एव, त्वम् एव बन्धुः च सखा त्वम् एव ।",SN,Independent second-person pronoun used substantively.,High
+43,12,त्वम्,PPR.0.sg.2.0.i.n.n.prx,PPR,च सखा,एव ।,"त्वम् एव माता च पिता त्वम् एव, त्वम् एव बन्धुः च सखा त्वम् एव ।",SN,Independent second-person pronoun used substantively.,High
+44,0,त्वम्,PPR.0.sg.2.0.i.n.n.prx,PPR,,एव विद्या,"त्वम् एव विद्या द्रविणं त्वम् एव, त्वम् एव सर्वं मम देव देव ॥",SN,Independent second-person pronoun used substantively.,High
+44,4,त्वम्,PPR.0.sg.2.0.i.n.n.prx,PPR,विद्या द्रविणं,"एव, त्वम्","त्वम् एव विद्या द्रविणं त्वम् एव, त्वम् एव सर्वं मम देव देव ॥",SN,Independent second-person pronoun used substantively.,High
+44,6,त्वम्,PPR.0.sg.2.0.i.n.n.prx,PPR,"त्वम् एव,",एव सर्वं,"त्वम् एव विद्या द्रविणं त्वम् एव, त्वम् एव सर्वं मम देव देव ॥",SN,Independent second-person pronoun used substantively.,High
+44,8,सर्वं,PPR.neu.sg.3.0.i.n.n.prx,PPR,त्वम् एव,मम देव,"त्वम् एव विद्या द्रविणं त्वम् एव, त्वम् एव सर्वं मम देव देव ॥",SN,Independent neuter demonstrative pronoun used substantively.,High
+44,9,मम,PPR.0.sg.1.gen.vi.n.n.prx,PPR,एव सर्वं,देव देव,"त्वम् एव विद्या द्रविणं त्वम् एव, त्वम् एव सर्वं मम देव देव ॥",SNV,First-person genitive pronoun qualifying a noun,High
+51,0,सर्वे,PPR.mas.pl.3.nom.i.n.n.0,PPR,,भवन्तु सुखिनः,सर्वे भवन्तु सुखिनः सर्वे सन्तु निरामयाः ।,SN,Independent quantifier pronoun used substantively.,High
+51,3,सर्वे,PPR.mas.pl.3.nom.i.n.n.0,PPR,भवन्तु सुखिनः,सन्तु निरामयाः,सर्वे भवन्तु सुखिनः सर्वे सन्तु निरामयाः ।,SN,Independent quantifier pronoun used substantively.,High
+52,0,सर्वे,PPR.mas.pl.3.nom.i.n.n.0,PPR,,भद्राणि पश्यन्तु,सर्वे भद्राणि पश्यन्तु मा कश्चित् दुःखभाग् भवेत् ॥,SN,Independent quantifier pronoun used substantively.,High
+54,0,त्वम्,PPR.0.sg.2.nom.i.n.n.prx,PPR,,किम् करोषि,त्वम् किम् करोषि ?,SN,Independent second-person personal pronoun,High
+55,0,अहम्,PPR.0.sg.1.nom.i.n.n.prx,PPR,,भोजनम् करोमि,अहम् भोजनम् करोमि ।,SN,First-person nominative pronoun functioning as sentence subject,High
+56,0,त्वम्,PPR.0.sg.2.nom.i.n.n.prx,PPR,,प्रतिदिनं कदा,त्वम् प्रतिदिनं कदा भोजनं करोषि ?,SN,Independent second-person personal pronoun,High
+57,0,अहम्,PPR.0.sg.1.nom.i.n.n.prx,PPR,,प्रतिदिनं एकवादने,अहम् प्रतिदिनं एकवादने भोजनं करोमि ।,SN,First-person nominative pronoun functioning as sentence subject,High
+58,0,त्वम्,PPR.0.sg.2.nom.i.n.n.prx,PPR,,कीदृशम् भोजनम्,त्वम् कीदृशम् भोजनम् करोषि ?,SN,Independent second-person personal pronoun,High
+59,0,अहम्,PPR.0.sg.1.nom.i.n.n.prx,PPR,,सरसम् सात्विकम्,अहम् सरसम् सात्विकम् च भोजनम् करोमि ।,SN,First-person nominative pronoun functioning as sentence subject,High
+63,1,अहं,PPR.0.sg.1.nom.i.n.n.prx,PPR,विशेषतः,"करपट्टिकां(रोटी), सूपं","विशेषतः अहं करपट्टिकां(रोटी), सूपं ओदनं च भक्षयामि ।",SN,First-person nominative pronoun functioning as sentence subject,High
+65,2,अहम्,PPR.0.sg.1.nom.i.n.n.prx,PPR,"न ,",सायम् पञ्चवादने,"न , अहम् सायम् पञ्चवादने दुग्धम् पिबामि फलानि च भक्षयामि ।",SN,First-person nominative pronoun functioning as sentence subject,High
+68,1,त्वम्,PPR.0.sg.2.nom.i.n.n.prx,PPR,किम्,"'पीजा, नूडल्स्,","किम् त्वम् 'पीजा, नूडल्स्, बरगर' इत्यादि शीघ्रंपक्वं भोजनं न करोषि ?",SN,Independent second-person personal pronoun,High
+69,3,अहम्,PPR.0.sg.1.nom.i.n.n.prx,PPR,- कदा,ईदृशं भोजनम्,"यदा - कदा अहम् ईदृशं भोजनम् करोमि, न प्रतिदिनम् ।",SN,First-person nominative pronoun functioning as sentence subject,High
+70,0,एतत्,PPR.neu.sg.3.nom.i.n.n.prx,PPR,,तु न,एतत् तु न स्वास्थ्यकरम् ।,SN,Independent neuter demonstrative pronoun used substantively.,High
+78,0,तव,PPR.0.sg.2.gen.vi.n.n.prx,PPR,,गीतम् अति-मधुरम्,"तव गीतम् अति-मधुरम् ।""",SNV,Second-person genitive pronoun functioning as a possessive modifier of a noun.,High
+86,0,अहम्,PPR.0.sg.1.nom.i.n.n.prx,PPR,,आम्रम् अस्मि,अहम् आम्रम् अस्मि ।,SN,First-person nominative pronoun functioning as sentence subject,High
+87,0,अहम्,PPR.0.sg.1.nom.i.n.n.prx,PPR,,जनप्रियम् विश्वप्रसिद्धं,अहम् जनप्रियम् विश्वप्रसिद्धं च फलम् अस्मि ।,SN,First-person nominative pronoun functioning as sentence subject,High
+88,4,मम,PPR.0.sg.1.gen.vi.n.n.prx,PPR,च समरूपेण,स्वादम् अनुभवन्ति,वृद्धाः बालाः च समरूपेण मम स्वादम् अनुभवन्ति ।,SNV,First-person genitive pronoun qualifying a noun,High
+89,0,मम,PPR.0.sg.1.gen.vi.n.n.prx,PPR,,अभ्यन्तरे कठोरबीजं,मम अभ्यन्तरे कठोरबीजं भवति ।,SNV,First-person genitive pronoun qualifying a noun,High
+90,2,मम,PPR.0.sg.1.gen.vi.n.n.prx,PPR,बीजेन एव,पादपः भवति,बीजेन एव मम पादपः भवति ।,SNV,First-person genitive pronoun qualifying a noun,High
+93,0,इदं,PPR.neu.sg.3.0.i.n.n.prx,PPR,,मम आगमनस्य,इदं मम आगमनस्य सूचना अस्ति ।,SN,Independent neuter demonstrative pronoun used substantively.,High
+93,1,मम,PPR.0.sg.1.gen.vi.n.n.prx,PPR,इदं,आगमनस्य सूचना,इदं मम आगमनस्य सूचना अस्ति ।,SNV,First-person genitive pronoun qualifying a noun,High
+94,0,मम,PPR.0.sg.1.gen.vi.n.n.prx,PPR,,वृक्षाः तु,मम वृक्षाः तु सघनाः भवन्ति ।,SNV,First-person genitive pronoun qualifying a noun,High
+95,0,तेषाम्,PPR.mas.pl.3.gen.vi.n.n.prx,PPR,,छायायाम् जनाः,तेषाम् छायायाम् जनाः विश्रामं कुर्वन्ति ।,SNV,"Genitive pronoun qualifies छायायाम्, expressing possession.",High
+96,5,अहम्,PPR.0.sg.1.nom.i.n.n.prx,PPR,अपि रूपेण,सर्वदा गुणकरम्,पक्वम् अपक्वम् केन अपि रूपेण अहम् सर्वदा गुणकरम् अस्मि ।,SN,First-person nominative pronoun functioning as sentence subject,High
+97,1,अहम्,PPR.0.sg.1.0.i.n.n.prx,PPR,अपक्वम्,बालेभ्यः रोचे,अपक्वम् अहम् बालेभ्यः रोचे ।,SN,First-person pronoun functions independently as the subject.,High
+98,0,मम,PPR.0.sg.1.gen.vi.n.n.prx,PPR,,'अचारं' तु,मम 'अचारं' तु सर्वेभ्यः सदैव रोचते ।,SNV,First-person genitive pronoun qualifying a noun,High
+98,3,सर्वेभ्यः,PPR.mas.pl.3.dat.iv.n.n.prx,PPR,'अचारं' तु,सदैव रोचते,मम 'अचारं' तु सर्वेभ्यः सदैव रोचते ।,SN,सर्वेभ्यः is used substantivally to mean everyone; it does not directly modify an expressed noun.,High
+99,0,मम,PPR.0.sg.1.gen.vi.n.n.prx,PPR,,पत्राणि वन्दनवाररूपेण,मम पत्राणि वन्दनवाररूपेण गृहाणाम् शोभां वर्धयन्ति ।,SNV,First-person genitive pronoun qualifying a noun,High
+100,1,मम,PPR.0.sg.1.gen.vi.n.n.prx,PPR,मङ्गलकार्येषु,पत्राणि कलशस्य,"मङ्गलकार्येषु मम पत्राणि कलशस्य शोभां वर्धयन्ति ।""",SNV,First-person genitive pronoun qualifying a noun,High
+101,2,अहम्,PPR.0.sg.1.nom.i.n.n.prx,PPR,पक्वं तु,सर्वेषाम् मुखम्,पक्वं तु अहम् सर्वेषाम् मुखम् रसमयं करोमि ।,SN,First-person nominative pronoun functioning as sentence subject,High
+101,3,सर्वेषाम्,PPR.mas.pl.3.gen.vi.n.n.prx,PPR,तु अहम्,मुखम् रसमयं,पक्वं तु अहम् सर्वेषाम् मुखम् रसमयं करोमि ।,SNV,Genitive pronoun सर्वेषाम् qualifies मुखम्.,High
+102,1,मम,PPR.0.sg.1.gen.vi.n.n.prx,PPR,अतः,अपरं नाम,अतः मम अपरं नाम 'रसालम्' अपि अस्ति ।,SNV,First-person genitive pronoun qualifying a noun,High
+103,0,मम,PPR.0.sg.1.gen.vi.n.n.prx,PPR,,"आकाराः, वर्णाः,","मम आकाराः, वर्णाः, स्वादाः च विविधाः सन्ति ।",SNV,First-person genitive pronoun qualifying a noun,High
+105,0,अहम्,PPR.0.sg.1.nom.i.n.n.prx,PPR,,एव फलानाम्,अहम् एव फलानाम् राजा अस्मि ।,SN,First-person nominative pronoun functioning as sentence subject,High
+106,3,मम,PPR.0.sg.1.gen.vi.n.n.prx,PPR,एव अस्ति,जीवनम् ।,परोपकाराय एव अस्ति मम जीवनम् ।,SNV,First-person genitive pronoun qualifying a noun,High
+108,0,तव,PPR.0.sg.2.gen.vi.n.n.prx,PPR,,गुणान् जानन्ति,"तव गुणान् जानन्ति राज्ञां गृहे, ये दीनाः धनवर्जिताः च कृपणाः स्वप्ने अपि पश्यन्ति न ।",SNV,Second-person genitive pronoun functioning as a possessive modifier of a noun.,High
+109,1,अहम्,PPR.0.sg.1.0.i.n.n.prx,PPR,आम्रः,मधुकूपकैः मम,"आम्रः अहम् मधुकूपकैः मम फलैः तृप्ताः हि सर्वे जनाः, हे दग्धे !",SN,First-person pronoun functions independently as the subject.,High
+109,3,मम,PPR.0.sg.1.gen.vi.n.n.prx,PPR,अहम् मधुकूपकैः,फलैः तृप्ताः,"आम्रः अहम् मधुकूपकैः मम फलैः तृप्ताः हि सर्वे जनाः, हे दग्धे !",SNV,First-person genitive pronoun qualifying a noun,High
+109,7,सर्वे,PPR.mas.pl.3.0.i.n.n.0,PPR,तृप्ताः हि,"जनाः, हे","आम्रः अहम् मधुकूपकैः मम फलैः तृप्ताः हि सर्वे जनाः, हे दग्धे !",SNV,सर्वे directly qualifies the plural noun जनाः.,High
+110,0,तव,PPR.0.sg.2.gen.vi.n.n.prx,PPR,,किं गुणैः,तव किं गुणैः मम फलैः तुल्यं न किञ्चित् फलम् ॥,SNV,Second-person genitive pronoun functioning as a possessive modifier of a noun.,High
+110,3,मम,PPR.0.sg.1.gen.vi.n.n.prx,PPR,किं गुणैः,फलैः तुल्यं,तव किं गुणैः मम फलैः तुल्यं न किञ्चित् फलम् ॥,SNV,First-person genitive pronoun qualifying a noun,High
+112,12,ते,PPR.mas.pl.3.nom.i.n.n.dst,PPR,वा सन्ति,स्वप्ने अपि,"अभिमानं न कुरु, ये जनाः कृपणाः ( कंजूस ) दरिद्राः वा सन्ति ते स्वप्ने अपि तव स्वादं न अनुभवन्ति ।",SN,Independent masculine plural demonstrative pronoun used substantively.,High
+112,15,तव,PPR.0.sg.2.gen.vi.n.n.prx,PPR,स्वप्ने अपि,स्वादं न,"अभिमानं न कुरु, ये जनाः कृपणाः ( कंजूस ) दरिद्राः वा सन्ति ते स्वप्ने अपि तव स्वादं न अनुभवन्ति ।",SNV,Second-person genitive pronoun functioning as a possessive modifier of a noun.,High
+113,0,अहम्,PPR.0.sg.1.nom.i.n.n.prx,PPR,,तु जनसाधारणस्य,अहम् तु जनसाधारणस्य फलम् अस्मि ।,SN,First-person nominative pronoun functioning as sentence subject,High
+114,0,मम,PPR.0.sg.1.gen.vi.n.n.prx,PPR,,स्वादेन सर्वे,मम स्वादेन सर्वे प्रसन्नाः सन्तुष्टाः च भवन्ति ।,SNV,First-person genitive pronoun qualifying a noun,High
+114,2,सर्वे,PPR.mas.pl.3.nom.i.n.n.prx,PPR,मम स्वादेन,प्रसन्नाः सन्तुष्टाः,मम स्वादेन सर्वे प्रसन्नाः सन्तुष्टाः च भवन्ति ।,SN,सर्वे functions substantivally as an independent pronoun; it does not modify a noun.,High
+115,1,मम,PPR.0.sg.1.gen.vi.n.n.prx,PPR,अतः,तुल्यम् न,अतः मम तुल्यम् न अस्ति किमपि फलम् ।,SNV,First-person genitive pronoun qualifying a noun,High
+118,2,एतत्,PPR.neu.sg.3.nom.i.n.n.prx,PPR,कस्य अस्ति,चित्रम् ?,कस्य अस्ति एतत् चित्रम् ?,SNV,Demonstrative pronoun एतत् modifies the noun चित्रम्.,High
+120,0,एषः,PPR.mas.sg.3.nom.i.n.n.prx,PPR,,बालानाम् प्रियः,एषः बालानाम् प्रियः 'चाचा नेहरूः अस्ति ।,SN,Independent demonstrative pronoun functioning without a modified noun.,High
+121,0,एषः,PPR.mas.sg.3.nom.i.n.n.prx,PPR,,महापुरुषः स्वतन्त्र-भारतस्य,एषः महापुरुषः स्वतन्त्र-भारतस्य प्रथमः प्रधानमन्त्री अभवत् ।,SN,Independent demonstrative pronoun functioning without a modified noun.,High
+122,0,अस्य,PPR.mas.sg.3.gen.vi.n.n.prx,PPR,,परिधाने रक्तः,अस्य परिधाने रक्तः शतपत्री(गुलाब) पुष्पम् शोभते ।,SNV,Possessive/pronominal modifier,High
+124,1,तस्य,PPR.mas.sg.3.gen.vi.n.n.prx,PPR,बाल्यात्,रुचिः स्वाध्याये,बाल्यात् तस्य रुचिः स्वाध्याये आसीत् ।,SNV,Genitive pronoun used possessively or modifying another expression,High
+125,0,सः,PPR.mas.sg.3.nom.i.n.n.dst,PPR,,बाल्यावस्थायाम् एव,सः बाल्यावस्थायाम् एव इंग्लैंडदेशं अगच्छत् ।,SN,Independent personal pronoun,High
+128,1,सर्वेषु,PPR.neu.pl.3.loc.vii.n.n.prx,PPR,स्वतन्त्रतायाः,कार्येषु तस्याः,स्वतन्त्रतायाः सर्वेषु कार्येषु तस्याः सहयोगः आसीत् ।,SNV,सर्वेषु directly modifies the locative plural noun कार्येषु.,High
+128,3,तस्याः,PPR.fem.sg.3.gen.vi.n.n.dst,PPR,सर्वेषु कार्येषु,सहयोगः आसीत्,स्वतन्त्रतायाः सर्वेषु कार्येषु तस्याः सहयोगः आसीत् ।,SNV,Feminine genitive demonstrative pronoun modifying or possessing a noun.,High
+131,0,सः,PPR.mas.sg.3.nom.i.n.n.dst,PPR,,कर्मवीरः आसीत्,सः कर्मवीरः आसीत् ।,SN,Independent personal pronoun,High
+132,0,सः,PPR.mas.sg.3.nom.i.n.n.dst,PPR,,वस्तुतः स्वतन्त्रता-सैनिकः,सः वस्तुतः स्वतन्त्रता-सैनिकः आसीत् ।,SN,Independent personal pronoun,High
+133,2,सः,PPR.mas.sg.3.nom.i.n.n.dst,PPR,कारागारे अपि,समयस्य सदुपयोगम्,कारागारे अपि सः समयस्य सदुपयोगम् अकरोत् ।,SN,Independent personal pronoun,High
+134,1,सः,PPR.mas.sg.3.nom.i.n.n.dst,PPR,कारागारात्,स्वपुत्रीं इन्दिरां,कारागारात् सः स्वपुत्रीं इन्दिरां प्रति अनेकानि पत्राणि अलिखत् ।,SN,Independent personal pronoun,High
+135,0,सर्वेषु,PPR.neu.pl.3.loc.vii.n.n.prx,PPR,,पत्रेषु भारतस्य,सर्वेषु पत्रेषु भारतस्य इतिहासस्य सभ्यतायाः च विषये चर्चा अस्ति ।,SNV,सर्वेषु directly modifies the locative plural noun पत्रेषु.,High
+137,2,सः,PPR.mas.sg.3.nom.i.n.n.dst,PPR,कारागारे एव,स्वाम् आत्मकथाम्,कारागारे एव सः स्वाम् आत्मकथाम् अलिखत् ।,SN,Independent personal pronoun,High
+140,9,सः,PPR.mas.sg.3.nom.i.n.n.dst,PPR,प्रथमे सन्देशे,"अकथयत्- ""अहम्","१५ अगस्त १९४७ तमे वर्षे राष्ट्रम् प्रति प्रथमे सन्देशे सः अकथयत्- ""अहम् स्वतन्त्र-भारतस्य प्रथमः सेवकः अस्मि ।""",SN,Independent personal pronoun,High
+140,11,"""अहम्",PPR.0.sg.1.nom.i.n.n.prx,PPR,सः अकथयत्-,स्वतन्त्र-भारतस्य प्रथमः,"१५ अगस्त १९४७ तमे वर्षे राष्ट्रम् प्रति प्रथमे सन्देशे सः अकथयत्- ""अहम् स्वतन्त्र-भारतस्य प्रथमः सेवकः अस्मि ।""",SN,First-person nominative pronoun functioning as sentence subject,High
+141,1,सः,PPR.mas.sg.3.nom.i.n.n.dst,PPR,संसारे,भारतस्य प्रतिनिधिः,संसारे सः भारतस्य प्रतिनिधिः आसीत् ।,SN,Independent personal pronoun,High
+143,0,तस्य,PPR.mas.sg.3.gen.vi.n.n.dst,PPR,,भाषणेषु सर्वदा,तस्य भाषणेषु सर्वदा देशप्रेमस्य धारा अवहत् ।,SNV,Third-person genitive demonstrative used possessively with a noun,High
+144,2,तस्य,PPR.mas.sg.3.gen.vi.n.n.dst,PPR,बालेषु आसीत्,विशेषः स्नेहः,बालेषु आसीत् तस्य विशेषः स्नेहः ।,SNV,Third-person genitive demonstrative used possessively with a noun,High
+145,2,तस्य,PPR.mas.sg.3.gen.vi.n.n.dst,PPR,अनेन कारणेन,जन्मदिवसः अद्य,अनेन कारणेन तस्य जन्मदिवसः अद्य अपि बालदिवसरूपे प्रसिद्धः भवति ।,SNV,Third-person genitive demonstrative used possessively with a noun,High
+147,3,ते,PPR.mas.pl.3.nom.i.n.n.dst,PPR,१४ तारिकायाः,प्रतीक्षां कुर्वन्ति,नवम्बर-मासस्य १४ तारिकायाः ते प्रतीक्षां कुर्वन्ति ।,SN,Independent masculine plural demonstrative pronoun used substantively.,High
+150,5,तम्,PPR.mas.sg.3.acc.ii.n.n.dst,PPR,नेहरू-महोदयः अपश्यत्,पूरयत ।,भारतस्य यम् स्वप्नम् नेहरू-महोदयः अपश्यत् तम् पूरयत ।,SN,Correlative pronoun referring to स्वप्नम्,High
+151,1,अहम्,PPR.0.sg.1.nom.i.n.n.prx,PPR,यदा,उद्यानं गच्छामि,यदा अहम् उद्यानं गच्छामि तदा जानामि एकः पक्षिराजः मयूरः ।,SN,First-person nominative pronoun functioning as sentence subject,High
+166,0,अहम्,PPR.0.sg.1.nom.i.n.n.prx,PPR,,अधुना गृहकार्यं,अहम् अधुना गृहकार्यं करोमि ।,SN,First-person nominative pronoun functioning as sentence subject,High
+168,4,सः,PPR.mas.sg.3.nom.i.n.n.dst,PPR,कुत्र अस्ति,?,रविः - कुत्र अस्ति सः ?,SN,Independent personal pronoun,High
+169,1,तम्,PPR.mas.sg.3.acc.ii.n.n.dst,PPR,अत्र,न पश्यामि,अत्र तम् न पश्यामि ।,SN,Independent demonstrative object pronoun,High
+171,0,सः,PPR.mas.sg.3.nom.i.n.n.dst,PPR,,शनैः शनैः,सः शनैः शनैः चलति ।,SN,Independent personal pronoun,High
+178,0,आवां,PPR.0.du.1.nom.i.n.n.prx,PPR,,परस्परं कन्दुकं,"आवां परस्परं कन्दुकं क्षिपावः, कन्दुकः तु नीचैः न पततु ।",SN,आवां functions independently as the dual first-person subject.,High
+180,1,तौ,PPR.mas.du.3.nom.i.n.n.dst,PPR,(,परस्परं खेलतः,( तौ परस्परं खेलतः ) रामः - आः !,SN,तौ functions independently as the dual subject of खेलतः.,High
+181,0,तव,PPR.0.sg.2.gen.vi.n.n.prx,PPR,,हस्तात् कन्दुकः,तव हस्तात् कन्दुकः नीचैः पतति ।,SNV,Second-person genitive pronoun functioning as a possessive modifier of a noun.,High
+182,1,मम,PPR.0.sg.1.gen.vi.n.n.prx,PPR,अतः,एकः गुणः,अतः मम एकः गुणः ।,SNV,First-person genitive pronoun qualifying a noun,High
+184,0,तव,PPR.0.sg.2.gen.vi.n.n.prx,PPR,,हस्तात् अपि,तव हस्तात् अपि कन्दुकः पतति ।,SNV,Second-person genitive pronoun functioning as a possessive modifier of a noun.,High
+185,0,मम,PPR.0.sg.1.gen.vi.n.n.prx,PPR,,अपि एकः,मम अपि एकः गुणः ।,SNV,First-person genitive pronoun qualifying a noun,High
+186,5,आवयोः,PPR.0.du.1.gen.vi.n.n.prx,PPR,समम् एव,गुणाः सन्ति,रामः - अधुना समम् एव आवयोः गुणाः सन्ति ।,SNV,आवयोः is a genitive dual pronoun directly associated with the noun गुणाः.,High
+203,0,एतत्,PPR.neu.sg.3.nom.i.n.n.prx,PPR,,भारतवर्षस्य गौरवम्,एतत् भारतवर्षस्य गौरवम् अस्ति ।,SN,Independent neuter demonstrative pronoun used substantively.,High
+204,0,अस्य,PPR.neu.sg.3.gen.vi.n.n.prx,PPR,,उत्तरपूर्वभागे 'लद्दाख',अस्य उत्तरपूर्वभागे 'लद्दाख' अस्ति ।,SNV,Possessive/pronominal modifier,High
+205,0,एषः,PPR.mas.sg.3.nom.i.n.n.prx,PPR,,देशस्य सीमाप्रदेशः,एषः देशस्य सीमाप्रदेशः ।,SN,Independent demonstrative pronoun functioning without a modified noun.,High
+207,4,अस्य,PPR.mas.sg.3.gen.vi.n.n.prx,PPR,सैनिकः इव,रक्षां करोति,हिमालयः अपि सैनिकः इव अस्य रक्षां करोति ।,SNV,Possessive/pronominal modifier,High
+219,4,तान्,PPR.mas.pl.3.acc.ii.n.n.dst,PPR,सगरपुत्रान् शपन्,भस्मसात् अकरोत्,क्रुध्दः कपिलः सगरपुत्रान् शपन् तान् भस्मसात् अकरोत् ।,SN,Anaphoric pronoun referring independently to सगरपुत्रान्.,High
+223,4,सा,PPR.fem.sg.3.nom.i.n.n.dst,PPR,प्रेदेशेषु स्वजलेन,सामान्यानाम् अघनाशनं,एषु तेषु प्रेदेशेषु स्वजलेन सा सामान्यानाम् अघनाशनं समपादयत् ।,SN,Independent feminine demonstrative pronoun,High
+225,0,सः,PPR.mas.sg.3.nom.i.n.n.dst,PPR,,प्रजाहिते दक्षः,"सः प्रजाहिते दक्षः ,सत्यप्रियः, पराक्रमसम्पन्नः च आसित् ।",SN,Independent personal pronoun,High
+227,2,तेन,PPR.mas.sg.3.ins.iii.n.n.dst,PPR,धोरं तपः,आचरितम् ।,धोरं तपः तेन आचरितम् ।,SN,Independent instrumental pronoun,High
+228,0,तस्य,PPR.mas.sg.3.gen.vi.n.n.dst,PPR,,तपसा भगवान्,तस्य तपसा भगवान् शङ्करः प्रसन्नः अभवत् ।,SNV,Third-person genitive demonstrative used possessively with a noun,High
+229,0,सः,PPR.mas.sg.3.nom.i.n.n.dst,PPR,,राजानम् अपृच्छ्त्,"सः राजानम् अपृच्छ्त् - ""किं यच्छानि ?",SN,Independent personal pronoun,High
+231,7,भवतः,PPR.mas.sg.3.gen.vi.n.n.prx,PPR,"""पुण्यसलिला भागीरथी",जटासम्भारात् निर्गत्य,"सुकेशी निमिषमात्रं विचिन्त्य भाषितवान् - ""पुण्यसलिला भागीरथी भवतः जटासम्भारात् निर्गत्य पाटलीपुत्रपर्यन्तं तीरवासिनां पपनि नाशयति ।",SNV,Genitive pronoun used possessively or modifying another expression,High
+232,1,सा,PPR.fem.sg.3.nom.i.n.n.dst,PPR,पश्र्चात्,वामतः वलति,पश्र्चात् सा वामतः वलति ।,SN,Independent feminine demonstrative pronoun,High
+234,1,अहं,PPR.0.sg.1.nom.i.n.n.prx,PPR,अतः,प्रार्थये -'गङ्गामातुः,अतः अहं प्रार्थये -'गङ्गामातुः पादतीर्थं दक्षिणभारते अपि उपलब्धं भवेत्' इति ।,SN,First-person nominative pronoun functioning as sentence subject,High
+235,2,वयं,PPR.0.pl.1.nom.i.n.n.prx,PPR,तेन तीर्थेन,सर्वे दक्षिणभारतीयाः,"तेन तीर्थेन वयं सर्वे दक्षिणभारतीयाः अपि पापविमुक्ताः भवेम "" इति\CX।",SN,Independent first-person plural pronoun used as sentence subject.,High
+235,3,सर्वे,PPR.mas.pl.3.nom.i.n.n.0,PPR,तीर्थेन वयं,दक्षिणभारतीयाः अपि,"तेन तीर्थेन वयं सर्वे दक्षिणभारतीयाः अपि पापविमुक्ताः भवेम "" इति\CX।",SNV,Quantifier सर्वे qualifies an accompanying pronoun.,High
+236,6,स,PPR.mas.sg.3.nom.i.n.n.dst,PPR,हस्तम् उध्दत्य,अवदत् ।,"शङ्करः भक्तप्रियः ""तथाऽस्तु"" इति हस्तम् उध्दत्य स अवदत् ।",SN,Independent masculine singular demonstrative pronoun used substantively.,High
+237,10,स,PPR.mas.sg.3.nom.i.n.n.dst,PPR,समग्रे दक्षिनभारते,प्रसृतः भवेत्,"हर्षोत्फ़ुल्लः सुकेशी अभाषत - ""गङ्गायाः प्रवाहमार्गः परिवर्तितः भवेत्, समग्रे दक्षिनभारते स प्रसृतः भवेत् च इति अपेक्षे अहम् "" इति ।",SN,Independent masculine singular demonstrative pronoun used substantively.,High
+237,16,अहम्,PPR.mas.sg.1.nom.i.n.n.prx,PPR,इति अपेक्षे,""" इति","हर्षोत्फ़ुल्लः सुकेशी अभाषत - ""गङ्गायाः प्रवाहमार्गः परिवर्तितः भवेत्, समग्रे दक्षिनभारते स प्रसृतः भवेत् च इति अपेक्षे अहम् "" इति ।",SN,अहम् functions independently as the first-person subject.,High
+245,4,सा,PPR.fem.sg.3.nom.i.n.n.dst,PPR,आराधनस्य अनन्तरं,"व्यक्ता भवेत्""","""अव्यक्तायाः गङ्गायाः आराधनस्य अनन्तरं सा व्यक्ता भवेत्"" इति तीर्थलाभोपायं सूचितवान् शङ्करः . ""कथं कर्तव्या आराधना ?",SN,Independent feminine demonstrative pronoun,High
+248,4,मम,PPR.0.sg.1.gen.vi.n.n.prx,PPR,"""एतत् फलं",प्रतीकम् ।,"अवदत् च ""एतत् फलं मम प्रतीकम् ।",SNV,First-person genitive pronoun qualifying a noun,High
+252,1,तत्,PPR.neu.sg.3.acc.ii.n.n.dst,PPR,मृत्तिकया,आवरय ।,मृत्तिकया तत् आवरय ।,SN,Demonstrative pronoun functioning independently as the object of आवरय.,High
+259,7,मम,PPR.0.sg.1.gen.vi.n.n.prx,PPR,तत् फलं,अंशः एव,"रे वत्स, तत् फलं न तत् फलं मम अंशः एव ।",SNV,First-person genitive pronoun qualifying a noun,High
+260,2,अहम्,PPR.0.sg.1.nom.i.n.n.prx,PPR,अंशमात्रेण स्वयम्,एव उच्चस्थाने,अंशमात्रेण स्वयम् अहम् एव उच्चस्थाने आत्मानं प्रकटिकरिष्यामि ।,SN,First-person nominative pronoun functioning as sentence subject,High
+261,4,भवतः,PPR.mas.sg.3.gen.vi.n.n.prx,PPR,किं भवेत्,स्वरुपस्य दर्शनम्,""" "" किं भवेत् भवतः स्वरुपस्य दर्शनम् ?",SNV,Genitive pronoun used possessively or modifying another expression,High
+264,5,मम,PPR.0.sg.1.gen.vi.n.n.prx,PPR,तत् फलं,एव प्रतिकृतिः,""" रे , तत् फलं मम एव प्रतिकृतिः ।",SNV,First-person genitive pronoun qualifying a noun,High
+265,1,मे,PPR.0.sg.1.gen.vi.n.n.prx,PPR,यथा,मस्तके जटासम्भारः,यथा मे मस्तके जटासम्भारः तथा फलस्य मस्तके जटासम्भारः ।,SNV,First-person genitive pronoun qualifying a noun,High
+266,1,मे,PPR.0.sg.1.gen.vi.n.n.prx,PPR,यथा,त्रीणि नेत्राणि,यथा मे त्रीणि नेत्राणि तथैव तस्य अपि भविष्यन्ति त्रीणि नेत्राणि मे जटाभ्यः गङ्गा यथा स्त्रुता तथा पलमध्ये जटाभ्यः स्त्रुतं भवेत् गङ्गाजलम् ।,SNV,First-person genitive pronoun qualifying a noun,High
+266,5,तस्य,PPR.mas.sg.3.gen.vi.n.n.dst,PPR,नेत्राणि तथैव,अपि भविष्यन्ति,यथा मे त्रीणि नेत्राणि तथैव तस्य अपि भविष्यन्ति त्रीणि नेत्राणि मे जटाभ्यः गङ्गा यथा स्त्रुता तथा पलमध्ये जटाभ्यः स्त्रुतं भवेत् गङ्गाजलम् ।,SNV,Third-person genitive demonstrative used possessively with a noun,High
+266,10,मे,PPR.0.sg.1.gen.vi.n.n.prx,PPR,त्रीणि नेत्राणि,जटाभ्यः गङ्गा,यथा मे त्रीणि नेत्राणि तथैव तस्य अपि भविष्यन्ति त्रीणि नेत्राणि मे जटाभ्यः गङ्गा यथा स्त्रुता तथा पलमध्ये जटाभ्यः स्त्रुतं भवेत् गङ्गाजलम् ।,SNV,First-person genitive pronoun qualifying a noun,High
+270,2,तम्,PPR.mas.sg.3.acc.ii.n.n.dst,PPR,शङ्करः कृपालुः,अवदत् -,"शङ्करः कृपालुः तम् अवदत् - "" चिन्तां मा कुरु ।",SN,Independent demonstrative object pronoun,High
+272,1,तेषां,PPR.mas.pl.3.gen.vi.n.n.dst,PPR,सागरतटे,सम्मर्दः सर्वत्र,सागरतटे तेषां सम्मर्दः सर्वत्र दृश्येत् ।,SNV,Genitive demonstrative pronoun dependent on a noun.,High
+274,1,तस्य,PPR.mas.sg.3.gen.vi.n.n.dst,PPR,शुभकार्यारम्भे,उपस्थितिः अनिवार्या,"शुभकार्यारम्भे तस्य उपस्थितिः अनिवार्या भवेत् "" इति ।",SNV,Third-person genitive demonstrative used possessively with a noun,High
+277,0,सः,PPR.mas.sg.3.nom.i.n.n.dst,PPR,,इच्छति स्म,"सः इच्छति स्म यत् प्रभोः वाक् निरन्तरं शब्दामृतं स्त्रावयेत् इति "" भवतः एतस्य अवतारविशेषस्य रहस्यं कृपया विशदीकरोतु "" इति प्रार्थयत् सुकेशी ।",SN,Independent personal pronoun,High
+277,11,भवतः,PPR.mas.sg.3.gen.vi.n.n.prx,PPR,"इति """,एतस्य अवतारविशेषस्य,"सः इच्छति स्म यत् प्रभोः वाक् निरन्तरं शब्दामृतं स्त्रावयेत् इति "" भवतः एतस्य अवतारविशेषस्य रहस्यं कृपया विशदीकरोतु "" इति प्रार्थयत् सुकेशी ।",SNV,Genitive pronoun used possessively or modifying another expression,High
+279,0,एतस्मिन्,PPR.neu.sg.3.loc.vii.n.n.prx,PPR,,जगति जलेन,एतस्मिन् जगति जलेन सह तैलस्य मिश्रणं कदापि न शक्यम् ।,SNV,एतस्मिन् directly modifies the locative noun जगति.,High
+281,5,भवतः,PPR.mas.sg.3.gen.vi.n.n.prx,PPR,साधकानां कृते,सन्देशः ?,""" किम् अस्ति साधकानां कृते भवतः सन्देशः ?",SNV,Genitive pronoun used possessively or modifying another expression,High
+282,21,सः,PPR.mas.sg.3.nom.i.n.n.dst,PPR,इव व्यवहरेत्,।,""" "" यथा फले जलं तैलं च सुखेन वसतः तथा मानवः अपि संसारे निवसेत् संसारे वसन् अपि संसारे अवसन् इव व्यवहरेत् सः ।",SN,Independent personal pronoun,High
+300,9,मम,PPR.0.sg.1.gen.vi.n.n.prx,PPR,अस्मिन् वर्षे,राज्ये वृष्टिः,"उत्तराज्यस्य राजा गर्वेण अवदत् - "" प्रभो अस्मिन् वर्षे मम राज्ये वृष्टिः , सस्यसमृध्दिः च सम्यक् अस्ति ।",SNV,First-person genitive pronoun qualifying a noun,High
+302,2,मम,PPR.0.sg.1.gen.vi.n.n.prx,PPR,एतस्मात् कारणात्,राज्यस्य आयः,"एतस्मात् कारणात् मम राज्यस्य आयः त्रिगुणितः भविष्यति "" इति ।",SNV,First-person genitive pronoun qualifying a noun,High
+303,4,मम,PPR.0.sg.1.gen.vi.n.n.prx,PPR,नृपः -,राज्ये अहं,अनन्तरं दक्षिणराज्यस्य नृपः - मम राज्ये अहं शुल्कस्य संग्रहणं सुवर्नरुपेण कृतवान् ।,SNV,First-person genitive pronoun qualifying a noun,High
+303,6,अहं,PPR.0.sg.1.nom.i.n.n.prx,PPR,मम राज्ये,शुल्कस्य संग्रहणं,अनन्तरं दक्षिणराज्यस्य नृपः - मम राज्ये अहं शुल्कस्य संग्रहणं सुवर्नरुपेण कृतवान् ।,SN,First-person nominative pronoun functioning as sentence subject,High
+304,2,मम,PPR.0.sg.1.gen.vi.n.n.prx,PPR,अस्मिन् वर्षे,राज्ये भण्डारे,"अस्मिन् वर्षे मम राज्ये भण्डारे द्विगुणितं सुवर्णं सङ्गृहीतम् अस्ति "" इति अवदत् ।",SNV,First-person genitive pronoun qualifying a noun,High
+305,4,अस्माकं,PPR.0.pl.1.gen.vi.n.n.prx,PPR,"- """,राज्यस्य सीमायाः,"पूर्वराज्यस्य राजा - "" अस्माकं राज्यस्य सीमायाः समीपे केचन दुष्टाः जनेभ्यः कष्टं यच्छन्ति स्म ।",SNV,First-person plural genitive pronoun modifying a noun,High
+306,2,मया,PPR.0.sg.1.0.iii.n.n.prx,PPR,ते दुष्टाः,सह कोऽपि,"ते दुष्टाः मया सह कोऽपि युध्दं न करिष्यति "" इति उक्तवान् ।",SN,मया is an independent first-person singular instrumental pronoun used with सह.,High
+307,5,मया,PPR.0.sg.1.ins.iii.n.n.prx,PPR,"- """,कर्मकराणां वेतनं,"पश्र्चिमराज्यस्य राजा गर्वेण - "" मया कर्मकराणां वेतनं न्युनं कृतम् ।",SN,First-person instrumental pronoun functioning independently as agent or complement,High
+309,0,एतस्मात्,PPR.neu.sg.3.abl.v.n.n.prx,PPR,,मम आयः,एतस्मात् मम आयः अधिकः जातः ।,SN,एतस्मात् is an independent demonstrative pronoun in the ablative case.,High
+309,1,मम,PPR.0.sg.1.gen.vi.n.n.prx,PPR,एतस्मात्,आयः अधिकः,एतस्मात् मम आयः अधिकः जातः ।,SNV,First-person genitive pronoun qualifying a noun,High
+310,20,मम,PPR.0.sg.1.gen.vi.n.n.prx,PPR,राजा ',राज्यस्य आयः,"अग्रिमे वर्षे अधिकम् आयं सम्पादयितुं कः मार्गः आश्रयणीयः इति मन्त्रिनः प्रुष्टवान् अस्मि "" इति उक्तवान् एवं एकैकः अपि राजा ' मम राज्यस्य आयः द्विगुणितः जातः , ' त्रिगुणितः जातः इति अभिमानेन अवदत् ।",SNV,First-person genitive pronoun qualifying a noun,High
+311,0,सर्वेषां,PPR.mas.pl.3.gen.vi.n.n.0,PPR,,कथनं समाप्तम्,सर्वेषां कथनं समाप्तम् ।,SNV,सर्वेषां is a genitive plural pronoun expressing possession or association with कथनम्.,High
+312,10,अहं,PPR.0.sg.1.0.i.n.n.prx,PPR,महाप्रभो कृपया,क्षन्तव्यः ।,"तदा मगधराजः अशोकं नमस्कृत्य विनयेन अवदत् - "" महाप्रभो कृपया अहं क्षन्तव्यः ।",SN,First-person pronoun functions independently as the subject in reported speech.,High
+313,0,मम,PPR.0.sg.1.gen.vi.n.n.prx,PPR,,धनागारे गतवर्षे,"मम धनागारे गतवर्षे यावत् आसीत् तस्य अर्धम् अपि न अस्ति इति वक्तुं लज्जाम् अनुभवामि "" इति "" तत् कथं सञ्जातम् ?",SNV,First-person genitive pronoun qualifying a noun,High
+313,5,तस्य,PPR.mas.sg.3.gen.vi.n.n.dst,PPR,यावत् आसीत्,अर्धम् अपि,"मम धनागारे गतवर्षे यावत् आसीत् तस्य अर्धम् अपि न अस्ति इति वक्तुं लज्जाम् अनुभवामि "" इति "" तत् कथं सञ्जातम् ?",SNV,Third-person genitive demonstrative used possessively with a noun,High
+313,17,तत्,PPR.neu.sg.3.0.i.n.n.dst,PPR,"इति """,कथं सञ्जातम्,"मम धनागारे गतवर्षे यावत् आसीत् तस्य अर्धम् अपि न अस्ति इति वक्तुं लज्जाम् अनुभवामि "" इति "" तत् कथं सञ्जातम् ?",SN,Independent demonstrative pronoun used substantively.,High
+315,3,अस्माकम्,PPR.0.pl.1.gen.vi.n.n.prx,PPR,गते वर्षे,आस्थान्स्य कर्मकेभ्यः,""" गते वर्षे अस्माकम् आस्थान्स्य कर्मकेभ्यः कानिचन आनुकूल्यानि मया कल्पितानि ।",SNV,First-person plural genitive pronoun modifying a noun,High
+315,8,मया,PPR.0.sg.1.ins.iii.n.n.prx,PPR,कानिचन आनुकूल्यानि,कल्पितानि ।,""" गते वर्षे अस्माकम् आस्थान्स्य कर्मकेभ्यः कानिचन आनुकूल्यानि मया कल्पितानि ।",SN,First-person instrumental pronoun functioning independently as agent or complement,High
+316,2,ते,PPR.mas.pl.3.nom.i.n.n.dst,PPR,एतस्मात् कारणात्,अधुना निष्कपटतया,"एतस्मात् कारणात् ते अधुना निष्कपटतया , निष्ठया , परिश्र्मेन च कार्यं कुर्वन्ति प्रजाः पुत्राः इव ।",SN,Independent masculine plural demonstrative pronoun used substantively.,High
+317,1,तान्,PPR.mas.pl.3.acc.ii.n.n.dst,PPR,तदर्थ,कष्टं मा,तदर्थ तान् कष्टं मा भूत् इति धिया मया करशुल्कं न्यूनीकृतम् ।,SN,Accusative pronoun referring independently to the people concerned.,Medium
+317,7,मया,PPR.0.sg.1.ins.iii.n.n.prx,PPR,इति धिया,करशुल्कं न्यूनीकृतम्,तदर्थ तान् कष्टं मा भूत् इति धिया मया करशुल्कं न्यूनीकृतम् ।,SN,First-person instrumental pronoun functioning independently as agent or complement,High
+318,6,तेभ्यः,PPR.mas.pl.3.dat.iv.n.n.dst,PPR,", यत्र",निश्शुल्कभोजनव्यवस्था अपि,"यात्रिकेभ्यः वसतिशालानां निर्माणं कारितं , यत्र तेभ्यः निश्शुल्कभोजनव्यवस्था अपि अस्ति ।",SN,तेभ्यः is an independent dative plural pronoun referring to the travellers mentioned in the sentence.,Medium
+322,6,मम,PPR.0.sg.1.gen.vi.n.n.prx,PPR,प्रवृध्दा अस्ति,दृष्टया धनात्,"एतस्मात् कारणात् जनेषु धर्मश्रध्दा प्रवृध्दा अस्ति मम दृष्टया धनात् ऎश्र्वर्यात् च अपि प्रजानाम् हितम् एव प्रमुखम् एतस्मात् कारणात् धनागारे धनं न्यूनं जातम् "" इति विवरीतवान् मगधराजः ।",SNV,First-person genitive pronoun qualifying a noun,High
+323,0,एतत्,PPR.neu.sg.3.0.i.n.n.prx,PPR,,श्रुत्वा सम्राट,एतत् श्रुत्वा सम्राट अशोकः आनन्दितः ।,SN,Independent neuter demonstrative pronoun used substantively.,High
+324,0,स,PPR.mas.sg.3.nom.i.n.n.dst,PPR,,तं राजानं,"स तं राजानं आलिङ्गय अवदत् - जनानां रक्षणार्थं , तेषां सुखदु:खानि अवगन्तुं च देवः अस्मभ्यम् एकम् उत्तमम् अवसरं कल्पितवान् अस्ति ।",SN,Independent masculine singular demonstrative pronoun used substantively.,High
+324,9,तेषां,PPR.mas.pl.3.gen.vi.n.n.prx,PPR,"रक्षणार्थं ,",सुखदु:खानि अवगन्तुं,"स तं राजानं आलिङ्गय अवदत् - जनानां रक्षणार्थं , तेषां सुखदु:खानि अवगन्तुं च देवः अस्मभ्यम् एकम् उत्तमम् अवसरं कल्पितवान् अस्ति ।",SNV,Genitive pronoun qualifies सुखदुःखानि.,High
+324,14,अस्मभ्यम्,PPR.0.pl.1.dat.iv.n.n.prx,PPR,च देवः,एकम् उत्तमम्,"स तं राजानं आलिङ्गय अवदत् - जनानां रक्षणार्थं , तेषां सुखदु:खानि अवगन्तुं च देवः अस्मभ्यम् एकम् उत्तमम् अवसरं कल्पितवान् अस्ति ।",SN,अस्मभ्यम् functions independently as a dative pronoun.,Medium
+326,9,अस्माकं,PPR.0.pl.1.gen.vi.n.n.prx,PPR,संरक्षितं भवति,जन्म सफलीक्रतुं,यदि प्रजाः सुखेन जीवन्ति तर्हि एव राज्यं संरक्षितं भवति अस्माकं जन्म सफलीक्रतुं किं करणीयं इति मगद्गराजः दर्शितवान् अस्ति ।,SNV,First-person plural genitive pronoun modifying a noun,High
+327,0,भवन्तः,PPR.mas.pl.3.nom.i.n.n.prx,PPR,,सर्वे एतत्,"भवन्तः सर्वे एतत् मार्गं अनुसृत्य धर्मं , राज्यं , प्रजां च रक्षन्तु "" इति ।",SN,भवन्तः is an independent honorific second-person pronoun functioning as the subject.,High
+327,1,सर्वे,PPR.mas.pl.3.nom.i.n.n.0,PPR,भवन्तः,एतत् मार्गं,"भवन्तः सर्वे एतत् मार्गं अनुसृत्य धर्मं , राज्यं , प्रजां च रक्षन्तु "" इति ।",SNV,Quantifier सर्वे qualifies an accompanying pronoun.,High
+328,1,सः,PPR.mas.sg.3.nom.i.n.n.dst,PPR,ततः,"- ""","ततः सः - "" एष एव श्रेष्ठः राजा इति मया निर्णितम् अस्ति "" इति उक्त्वा स्वस्य धनागारात् लक्षं सुवर्णनाणकानि मगधराजाय उपायनीकृत्य तस्य सम्मानं कृतवान् ।",SN,Independent personal pronoun,High
+328,9,मया,PPR.0.sg.1.ins.iii.n.n.prx,PPR,राजा इति,निर्णितम् अस्ति,"ततः सः - "" एष एव श्रेष्ठः राजा इति मया निर्णितम् अस्ति "" इति उक्त्वा स्वस्य धनागारात् लक्षं सुवर्णनाणकानि मगधराजाय उपायनीकृत्य तस्य सम्मानं कृतवान् ।",SN,First-person instrumental pronoun functioning independently as agent or complement,High
+328,21,तस्य,PPR.mas.sg.3.gen.vi.n.n.dst,PPR,मगधराजाय उपायनीकृत्य,सम्मानं कृतवान्,"ततः सः - "" एष एव श्रेष्ठः राजा इति मया निर्णितम् अस्ति "" इति उक्त्वा स्वस्य धनागारात् लक्षं सुवर्णनाणकानि मगधराजाय उपायनीकृत्य तस्य सम्मानं कृतवान् ।",SNV,Third-person genitive demonstrative used possessively with a noun,High
+334,1,अहं,PPR.0.sg.1.nom.i.n.n.prx,PPR,"""",तेन सह,""" अहं तेन सह सम्भाषणं कर्तुम् इच्छामि "" इति वध्वा माधुर्या उक्तं श्रुत्वा सर्वे आश्र्चर्य प्राप्तवन्तः ।",SN,First-person nominative pronoun functioning as sentence subject,High
+334,2,तेन,PPR.mas.sg.3.ins.iii.n.n.dst,PPR,""" अहं",सह सम्भाषणं,""" अहं तेन सह सम्भाषणं कर्तुम् इच्छामि "" इति वध्वा माधुर्या उक्तं श्रुत्वा सर्वे आश्र्चर्य प्राप्तवन्तः ।",SN,Independent instrumental pronoun,High
+335,0,मम,PPR.0.sg.1.gen.vi.n.n.prx,PPR,,न कोऽपि,"मम न कोऽपि प्रतिरोधः वर्तते "" इति उक्तवान् वर्तते "" ।",SNV,First-person genitive pronoun qualifying a noun,High
+338,4,तेन,PPR.mas.sg.3.ins.iii.n.n.dst,PPR,न कृतं,कस्याञ्चित् स्वायत्तसंस्थायां,अग्रे अध्ययनं न कृतं तेन कस्याञ्चित् स्वायत्तसंस्थायां सः नियुक्तं सम्पादितवान् ।,SN,Independent instrumental pronoun,High
+338,7,सः,PPR.mas.sg.3.nom.i.n.n.dst,PPR,कस्याञ्चित् स्वायत्तसंस्थायां,नियुक्तं सम्पादितवान्,अग्रे अध्ययनं न कृतं तेन कस्याञ्चित् स्वायत्तसंस्थायां सः नियुक्तं सम्पादितवान् ।,SN,Independent personal pronoun,High
+339,0,तस्य,PPR.mas.sg.3.gen.vi.n.n.dst,PPR,,पिता सामान्यः,तस्य पिता सामान्यः उद्योगी ।,SNV,Third-person genitive demonstrative used possessively with a noun,High
+340,5,तेन,PPR.mas.sg.3.ins.iii.n.n.dst,PPR,निर्मितम् आसीत्,।,एकं गृहं कष्टेन निर्मितम् आसीत् तेन ।,SN,Independent instrumental pronoun,High
+344,0,तं,PPR.mas.sg.3.acc.ii.n.n.dst,PPR,,पितरम् अपि,तं पितरम् अपि उक्तवान् ।,SNV,Demonstrative modifier of पितरम्,High
+346,0,भवतः,PPR.mas.sg.3.gen.vi.n.n.prx,PPR,,वरशुल्कधनेन किमपि,"भवतः वरशुल्कधनेन किमपि करणीयम् इति मम कापि अपेक्षा न अस्ति "" इति उक्तवान् पिता ।",SNV,Genitive pronoun used possessively or modifying another expression,High
+346,5,मम,PPR.mas.sg.1.gen.vi.n.n.prx,PPR,करणीयम् इति,कापि अपेक्षा,"भवतः वरशुल्कधनेन किमपि करणीयम् इति मम कापि अपेक्षा न अस्ति "" इति उक्तवान् पिता ।",SNV,First-person genitive pronoun in a possessive or dependent construction.,High
+348,8,तस्मिन्,PPR.mas.sg.3.loc.vii.n.n.dst,PPR,"वदति ,",कापि न्यूनता,"' वरः स्वयं शुल्कं मास्तु इति वदति , तस्मिन् कापि न्यूनता स्यात् ' इति केचन चिन्तितवान् ।",SN,तस्मिन् is an independent demonstrative pronoun in the locative case.,High
+350,2,अस्माकं,PPR.0.pl.1.gen.vi.n.n.prx,PPR,पितरौ विहाय,कन्यया सह,पितरौ विहाय अस्माकं कन्यया सह आगच्छ्तु ' इति अन्ये केचन उक्तवन्तः ।,SNV,First-person plural genitive pronoun modifying a noun,High
+350,8,अन्ये,PPR.mas.pl.3.nom.i.n.n.dst,PPR,' इति,केचन उक्तवन्तः,पितरौ विहाय अस्माकं कन्यया सह आगच्छ्तु ' इति अन्ये केचन उक्तवन्तः ।,SN,Independent masculine plural demonstrative pronoun used substantively.,High
+351,1,एतत्,PPR.neu.sg.3.0.i.n.n.dst,PPR,केचन,न दृष्टवन्तः,केचन एतत् न दृष्टवन्तः ।,SN,Independent demonstrative pronoun used substantively.,High
+352,1,एषः,PPR.mas.sg.3.nom.i.n.n.prx,PPR,काश्र्चन,न इष्टवान्,काश्र्चन एषः न इष्टवान् ।,SN,Independent demonstrative pronoun functioning without a modified noun.,Medium
+353,5,सः,PPR.mas.sg.3.nom.i.n.n.dst,PPR,सम्बन्धप्रस्तावः आगतः,तु उभयपक्षाभ्याम्,परन्तु इदानीं यः सम्बन्धप्रस्तावः आगतः सः तु उभयपक्षाभ्याम् अपि अरोचत ।,SN,Independent personal pronoun,High
+355,1,अहं,PPR.0.sg.1.nom.i.n.n.prx,PPR,"""",भवन्तं किञ्चित्,""" अहं भवन्तं किञ्चित् वदामि ।",SN,First-person nominative pronoun functioning as sentence subject,High
+355,2,भवन्तं,PPR.mas.sg.3.acc.ii.n.n.prx,PPR,""" अहं",किञ्चित् वदामि,""" अहं भवन्तं किञ्चित् वदामि ।",SN,भवन्तं functions independently as the object of वदामि.,High
+357,0,भवान्,PPR.mas.sg.3.nom.i.n.n.prx,PPR,,वरशुल्कं नीराकृतवान्,भवान् वरशुल्कं नीराकृतवान् ।,SN,"Independent honorific personal pronoun, not modifying a noun.",High
+358,0,भवान्,PPR.mas.sg.3.nom.i.n.n.prx,PPR,,वरशुल्कं निराकृतवान्,भवान् वरशुल्कं निराकृतवान् ।,SN,"Independent honorific personal pronoun, not modifying a noun.",High
+361,0,तस्याः,PPR.fem.sg.3.gen.vi.n.n.dst,PPR,,नीस्सङ्कोचवार्तालापं श्रुत्वा,तस्याः नीस्सङ्कोचवार्तालापं श्रुत्वा चन्द्रः आश्र्चर्यचकितः ।,SNV,Feminine genitive demonstrative pronoun modifying or possessing a noun.,High
+362,1,भवतां,PPR.mas.sg.3.gen.vi.n.n.prx,PPR,"""",सम्पतिः कियत्,""" भवतां सम्पतिः कियत् अस्ति ?",SNV,Genitive pronoun used possessively or modifying another expression,High
+364,10,सः,PPR.mas.sg.3.nom.i.n.n.dst,PPR,धैर्येण उक्तवान्,"- """,""" वेगेन प्रयुक्तः शरः इव आगतवतः प्रश्र्नस्य उतरं धैर्येण उक्तवान् सः - "" विशिष्टा सम्पत् कापि नास्ति ।",SN,Independent personal pronoun,High
+365,7,अहं,PPR.0.sg.1.nom.i.n.n.prx,PPR,महत् इति,भावयामि ।,अभिमानेन सानन्दं पित्रोः संरक्षणम् एव महत् इति अहं भावयामि ।,SN,First-person nominative pronoun functioning as sentence subject,High
+368,7,अहं,PPR.0.sg.1.nom.i.n.n.prx,PPR,न इति,न वदामि,""" पश्यतु वरशुल्कस्वीकरणम् अपराधः एव न इति अहं न वदामि ।",SN,First-person nominative pronoun functioning as sentence subject,High
+369,4,भवतः,PPR.mas.sg.3.gen.vi.n.n.prx,PPR,आर्थिकसामर्थ्यम् अपि,न अस्ति,परन्तु पर्याप्तमात्रम् आर्थिकसामर्थ्यम् अपि भवतः न अस्ति ।,SN,Independent genitive pronoun,Medium
+370,4,तेभ्यः,PPR.mas.pl.3.abl.v.n.n.dst,PPR,दातुं समर्थाः,तस्य स्वीकरणं,ये वरशुल्कं दातुं समर्थाः तेभ्यः तस्य स्वीकरणं न दोषाय ।,SN,तेभ्यः is an independent demonstrative pronoun referring to those capable of paying the bride price.,High
+370,5,तस्य,PPR.mas.sg.3.gen.vi.n.n.dst,PPR,समर्थाः तेभ्यः,स्वीकरणं न,ये वरशुल्कं दातुं समर्थाः तेभ्यः तस्य स्वीकरणं न दोषाय ।,SNV,Third-person genitive demonstrative used possessively with a noun,High
+373,0,मम,PPR.0.sg.1.gen.vi.n.n.prx,PPR,,पिता वरशुल्करूपेण,मम पिता वरशुल्करूपेण धनं दातुं समर्थः अस्ति ।,SNV,First-person genitive pronoun qualifying a noun,High
+375,22,एताभ्याम्,PPR.neu.du.3.dat.iv.n.n.prx,PPR,क्रियते तथा,अपि कथमपि,""" निषेधः कर्तव्यः ' इति चिन्तनं करोति चन्द्रः गतान् अनुभवान् स्मरन् .... उभयदेशयोः वित्तमन्त्रिणो सुदीर्घायाः चर्चायाः अनन्तरं पत्रे हस्ताक्षरं यथा क्रियते तथा एताभ्याम् अपि कथमपि एकाभिप्रायः समालम्बितः ।",SN,एताभ्याम् is an independent demonstrative dual pronoun in the instrumental/dative case.,Medium
+376,7,मम,PPR.0.sg.1.gen.vi.n.n.prx,PPR,- ',निर्णयं श्रुत्वा,तस्मिन् दिने रात्रौ शयनात् पूर्व - ' मम निर्णयं श्रुत्वा मित्राणि परिहासं कुर्वन्ति किम् ?,SNV,First-person genitive pronoun qualifying a noun,High
+379,8,सः,PPR.mas.sg.3.nom.i.n.n.dst,PPR,सात्वनं कृत्वा,निद्रां कृतवान्,अत्र किम् अस्ति ' इति मनसः सात्वनं कृत्वा सः निद्रां कृतवान् ।,SN,Independent personal pronoun,High
+382,1,तत्,PPR.neu.sg.3.nom.i.n.n.dst,PPR,कदाचित्,असाध्यम् अपि,"कदाचित् तत् असाध्यम् अपि ' इति चिन्तयन्ती , वर्षेभ्यः विद्यमानं क्षणान्तरे परिवर्तितवन्तं चन्द्रम् अपि मनसि स्मरन्ती ' अयं निश्र्चयेन अस्ति उक्तग्राहि ' इति निश्र्चित्य ' सुखेन निद्रां कृतवती माधुरी ।",SN,Independent neuter demonstrative pronoun used substantively.,High
+382,17,अयं,PPR.mas.sg.3.nom.i.n.n.prx,PPR,स्मरन्ती ',निश्र्चयेन अस्ति,"कदाचित् तत् असाध्यम् अपि ' इति चिन्तयन्ती , वर्षेभ्यः विद्यमानं क्षणान्तरे परिवर्तितवन्तं चन्द्रम् अपि मनसि स्मरन्ती ' अयं निश्र्चयेन अस्ति उक्तग्राहि ' इति निश्र्चित्य ' सुखेन निद्रां कृतवती माधुरी ।",SN,Independent demonstrative pronoun functioning without a modified noun.,Medium
+386,9,तेषाम्,PPR.mas.pl.3.gen.vi.n.n.dst,PPR,"सप्त्यानि ,",अध्ययनम् देशस्य,"माधुरी स्वोद्योगः , धनसञ्चयनं , वाहनक्रयणम् , सप्त्यानि , तेषाम् अध्ययनम् देशस्य आर्थिकी स्थितिः इत्यादीनां विषये दशाधिकपृष्ठानि लिखित्वा चन्द्रस्य पुरतः पठितवती ।",SNV,Genitive demonstrative pronoun dependent on a noun.,High
+389,2,मां,PPR.0.sg.1.acc.ii.n.n.prx,PPR,महती निद्रा,बाधते ।,महती निद्रा मां बाधते ।,SN,Independent first-person personal pronoun,High
+391,6,अयम्,PPR.mas.sg.3.nom.i.n.n.prx,PPR,इत्यादीनां किम्,एव अर्थः,"' अबला , अर्धाङ्गिनी इत्यादीनां किम् अयम् एव अर्थः ?",SNV,Demonstrative pronoun अयम् directly identifies and modifies अर्थः.,High
+398,4,मे,PPR.0.sg.1.gen.vi.n.n.prx,PPR,उक्त्या अवधानम्,भग्नम् ।,""" वसुधायाः उक्त्या अवधानम् मे भग्नम् ।",SNV,First-person genitive pronoun qualifying a noun,High
+399,1,माम्,PPR.0.sg.1.acc.ii.n.n.prx,PPR,अतिथिप्रकोष्ठे,उपवेश्य ',अतिथिप्रकोष्ठे माम् उपवेश्य ' एषा अहम् आगच्छामि ' इति उक्त्वा अन्तः प्राविशत् वसुधा ।,SN,Independent first-person personal pronoun,High
+399,5,अहम्,PPR.neu.sg.1.nom.i.n.n.prx,PPR,' एषा,आगच्छामि ',अतिथिप्रकोष्ठे माम् उपवेश्य ' एषा अहम् आगच्छामि ' इति उक्त्वा अन्तः प्राविशत् वसुधा ।,SN,अहम् is an independent first-person singular pronoun functioning as the subject.,High
+401,2,अहम्,PPR.0.sg.1.nom.i.n.n.prx,PPR,यस्माद् रेलयानाद्,अवतरामि स्म,यस्माद् रेलयानाद् अहम् अवतरामि स्म तेन एव गच्छन्तं पुत्रं आप्रष्टुं तत्र उपस्थिता आसीत् सा ।,SN,First-person nominative pronoun functioning as sentence subject,High
+401,5,तेन,PPR.neu.sg.3.ins.iii.n.n.dst,PPR,अवतरामि स्म,एव गच्छन्तं,यस्माद् रेलयानाद् अहम् अवतरामि स्म तेन एव गच्छन्तं पुत्रं आप्रष्टुं तत्र उपस्थिता आसीत् सा ।,SN,तेन independently refers to the previously mentioned rail vehicle.,High
+401,13,सा,PPR.fem.sg.3.nom.i.n.n.dst,PPR,उपस्थिता आसीत्,।,यस्माद् रेलयानाद् अहम् अवतरामि स्म तेन एव गच्छन्तं पुत्रं आप्रष्टुं तत्र उपस्थिता आसीत् सा ।,SN,Independent feminine demonstrative pronoun,High
+402,5,आवां,PPR.0.du.1.nom.i.n.n.prx,PPR,वर्गे उपविश्य,सहाध्ययनं कुर्वन्तौ,विंशतिवर्षेभ्यः प्राक् समाने वर्गे उपविश्य आवां सहाध्ययनं कुर्वन्तौ आस्व ।,SN,आवां functions independently as the dual first-person subject.,High
+403,2,आवाभ्यां,PPR.0.du.1.abl.v.n.n.prx,PPR,दर्शनमात्रेण एव,परस्परपरिचयं प्राप्तः,दर्शनमात्रेण एव आवाभ्यां परस्परपरिचयं प्राप्तः ।,SN,आवाभ्यां is an independent first-person dual pronoun referring to the two participants.,Medium
+404,0,सा,PPR.fem.sg.3.nom.i.n.n.dst,PPR,,स्वपुत्रस्य ',सा स्वपुत्रस्य ' आलोकस्य परिचयं कारितवती ।,SN,Independent feminine demonstrative pronoun,High
+407,2,तस्याः,PPR.fem.sg.3.gen.vi.n.n.dst,PPR,वसुधा दृष्टाः,वैयक्तिकजीवनविषये इतरान्,"वसुधा दृष्टाः तस्याः वैयक्तिकजीवनविषये इतरान् प्रश्र्नान् प्रष्टुकां मां सा उक्तवती - "" रेलस्थानके कियान् वा संवादः स्यात् आकाश ?",SNV,Feminine genitive demonstrative pronoun modifying or possessing a noun.,High
+407,7,मां,PPR.0.sg.1.acc.ii.n.n.prx,PPR,प्रश्र्नान् प्रष्टुकां,सा उक्तवती,"वसुधा दृष्टाः तस्याः वैयक्तिकजीवनविषये इतरान् प्रश्र्नान् प्रष्टुकां मां सा उक्तवती - "" रेलस्थानके कियान् वा संवादः स्यात् आकाश ?",SN,Independent first-person personal pronoun,High
+407,8,सा,PPR.fem.sg.3.nom.i.n.n.dst,PPR,प्रष्टुकां मां,उक्तवती -,"वसुधा दृष्टाः तस्याः वैयक्तिकजीवनविषये इतरान् प्रश्र्नान् प्रष्टुकां मां सा उक्तवती - "" रेलस्थानके कियान् वा संवादः स्यात् आकाश ?",SN,Independent feminine demonstrative pronoun,High
+408,0,मया,PPR.0.sg.1.ins.iii.n.n.prx,PPR,,किञ्चित् त्वरया,"मया किञ्चित् त्वरया कुत्रचित् गन्तव्यम् अस्ति , मन्ये त्वरया कुत्रचित् गन्तव्यम् अस्ति , \PUमन्ये त्वया अपि तथा ।",SN,First-person instrumental pronoun functioning independently as agent or complement,High
+408,14,त्वया,PPR.0.sg.2.ins.iii.n.n.prx,PPR,", \PUमन्ये",अपि तथा,"मया किञ्चित् त्वरया कुत्रचित् गन्तव्यम् अस्ति , मन्ये त्वरया कुत्रचित् गन्तव्यम् अस्ति , \PUमन्ये त्वया अपि तथा ।",SN,त्वया functions independently as the instrumental agent in the elliptical construction त्वया अपि तथा.,Medium
+409,0,मम,PPR.0.sg.1.gen.vi.n.n.prx,PPR,,आवासः बहादुरपुरवीथ्यां,"मम आवासः बहादुरपुरवीथ्यां गृहसंख्या क ३७/४५ अस्ति लब्धे अवसरे आगच्छ , कुटुम्बिन्या सुतादिभिः च सह ।",SNV,First-person genitive pronoun qualifying a noun,High
+410,2,अहम्,PPR.0.sg.1.nom.i.n.n.prx.n,PPR,""" """,अस्मिन् नगरे,""" "" अहम् अस्मिन् नगरे सद्यः स्थानपरिवर्तनद्वारा आगतः , एकाकी एव अस्मि ।",SN,अहम् is an independent first-person singular nominative pronoun functioning as the subject.,High
+413,4,त्वम्,PPR.0.sg.2.nom.i.n.n.prx,PPR,कथम् असि,?,""" आकाश कथम् असि त्वम् ?",SN,Independent second-person personal pronoun,High
+416,1,तव,PPR.0.sg.2.gen.vi.n.n.prx,PPR,"""",पुत्रं तु,""" तव पुत्रं तु अहं दृष्टवान् ।",SNV,Second-person genitive pronoun functioning as a possessive modifier of a noun.,High
+416,4,अहं,PPR.0.sg.1.nom.i.n.n.prx,PPR,पुत्रं तु,दृष्टवान् ।,""" तव पुत्रं तु अहं दृष्टवान् ।",SN,First-person nominative pronoun functioning as sentence subject,High
+418,0,सः,PPR.mas.sg.3.nom.i.n.n.dst,PPR,,कुत्र गतवान्,सः कुत्र गतवान् ?,SN,Independent personal pronoun,High
+419,3,सः,PPR.mas.sg.3.nom.i.n.n.dst,PPR,नगरे अस्ति,?,किं नगरे अस्ति सः ?,SN,Independent personal pronoun,High
+420,2,तव,PPR.0.sg.2.gen.vi.n.n.prx,PPR,महाविद्यालयपठनकाले एव,विवाहः अभवत्,महाविद्यालयपठनकाले एव तव विवाहः अभवत् इति अस्माभिः ज्ञातम् ।,SNV,Second-person genitive pronoun functioning as a possessive modifier of a noun.,High
+420,6,अस्माभिः,PPR.0.pl.1.ins.iii.n.n.prx,PPR,अभवत् इति,ज्ञातम् ।,महाविद्यालयपठनकाले एव तव विवाहः अभवत् इति अस्माभिः ज्ञातम् ।,SN,Instrumental first-person plural pronoun functioning independently.,High
+422,0,त्वं,PPR.0.sg.1.nom.i.n.n.prx,PPR,,प्रस्थिता इति,त्वं प्रस्थिता इति कारणेन एव अहं वर्गे प्रथमं स्थानं लब्धवान् ।,SN,First-person nominative pronoun functioning as sentence subject,High
+422,5,अहं,PPR.0.sg.1.nom.i.n.n.prx,PPR,कारणेन एव,वर्गे प्रथमं,त्वं प्रस्थिता इति कारणेन एव अहं वर्गे प्रथमं स्थानं लब्धवान् ।,SN,First-person nominative pronoun functioning as sentence subject,High
+423,0,त्वयि,PPR.0.sg.2.loc.vii.n.n.prx,PPR,,स्थितायां तु,त्वयि स्थितायां तु तत् अशक्यम् आसीत् खलु ?,SN,त्वयि functions independently in a locative absolute construction.,High
+423,3,तत्,PPR.neu.sg.3.nom.i.n.n.dst,PPR,स्थितायां तु,अशक्यम् आसीत्,त्वयि स्थितायां तु तत् अशक्यम् आसीत् खलु ?,SN,Independent neuter demonstrative pronoun used substantively.,High
+424,4,अहम्,PPR.0.sg.1.nom.i.n.n.prx,PPR,विहस्य उक्तवान्,।,""" किञ्चित् विहस्य उक्तवान् अहम् ।",SN,First-person nominative pronoun functioning as sentence subject,High
+425,5,अहं,PPR.0.sg.1.nom.i.n.n.prx,PPR,"आकाश ,",न पिबामि,""" चायं स्वीकुरु आकाश , अहं न पिबामि ' - वसुधायाः वचनम् आदेशविशेषं मत्वा अहं यन्त्रवत् चायपात्रम् उन्नीतवान् ।",SN,First-person nominative pronoun functioning as sentence subject,High
+425,14,अहं,PPR.0.sg.1.nom.i.n.n.prx,PPR,आदेशविशेषं मत्वा,यन्त्रवत् चायपात्रम्,""" चायं स्वीकुरु आकाश , अहं न पिबामि ' - वसुधायाः वचनम् आदेशविशेषं मत्वा अहं यन्त्रवत् चायपात्रम् उन्नीतवान् ।",SN,First-person nominative pronoun functioning as sentence subject,High
+428,3,त्वं,PPR.0.sg.2.nom.i.n.n.prx,PPR,स्वविषये तु,किमपि उक्तवान्,""" स्वविषये तु त्वं किमपि उक्तवान् एव नहि ।",SN,Independent second-person personal pronoun,High
+429,4,तव,PPR.0.sg.2.gen.vi.n.n.prx,PPR,विभागे अत्र,नियुक्तिः ?,कदा कस्मिन् विभागे अत्र तव नियुक्तिः ?,SNV,Second-person genitive pronoun functioning as a possessive modifier of a noun.,High
+432,2,ते,PPR.mas.pl.3.nom.i.n.n.dst,PPR,कदा आगमिष्यन्ति,?,कदा आगमिष्यन्ति ते ?,SN,Independent masculine plural demonstrative pronoun used substantively.,High
+433,5,सा,PPR.fem.sg.3.nom.i.n.n.dst,PPR,प्रश्र्नान् पृष्टवती,।,""" इति विविधान् प्रश्र्नान् पृष्टवती सा ।",SN,Independent feminine demonstrative pronoun,High
+434,2,तैः,PPR.mas.pl.3.ins.iii.n.n.dst,PPR,युगपत् प्राप्तैः,अहं काञ्चित्,युगपत् प्राप्तैः तैः अहं काञ्चित् असहजताम् अनुगतवान् ।,SN,Independent instrumental pronoun functioning as an agent or instrument.,High
+434,3,अहं,PPR.mas.sg.1.nom.i.n.n.prx,PPR,प्राप्तैः तैः,काञ्चित् असहजताम्,युगपत् प्राप्तैः तैः अहं काञ्चित् असहजताम् अनुगतवान् ।,SN,अहं functions independently as the first-person subject.,High
+438,2,तयोः,PPR.mas.du.3.gen.vi.n.n.dst,PPR,अन्तिमं वर्षं,।,अन्तिमं वर्षं तयोः ।,SNV,तयोः is a genitive dual pronoun expressing possession of वर्षम् in the construction अन्तिमं वर्षं तयोः.,High
+441,0,अहम्,PPR.0.sg.1.nom.i.n.n.prx,PPR,,एव यथावसरं,अहम् एव यथावसरं लखनऊं गच्छामि ।,SN,First-person nominative pronoun functioning as sentence subject,High
+442,0,तव,PPR.0.sg.2.gen.vi.n.n.prx,PPR,,किं सः,तव किं सः आलोकः एक एव पुत्रः ?,SNV,Second-person genitive pronoun functioning as a possessive modifier of a noun.,High
+444,4,एतस्याः,PPR.fem.sg.3.gen.vi.n.n.prx,PPR,स्याद् हस्यम्,जीवने ?,किं वा स्याद् हस्यम् एतस्याः जीवने ?,SNV,Genitive demonstrative pronoun expressing possession or relation to a noun,High
+445,2,एषा,PPR.fem.sg.1.nom.i.n.n.prx,PPR,सुन्दरि शिक्षिता,।,सुन्दरि शिक्षिता एषा ।,SN,एषा is an independent feminine demonstrative pronoun functioning as the subject.,High
+448,2,एषा,PPR.fem.sg.3.nom.i.n.n.prx,PPR,पठननकाले अपि,इतरसहपाठिनीनां कृते,पठननकाले अपि एषा इतरसहपाठिनीनां कृते ईर्ष्यायाः विषयः आसीद् एव ।,SN,Independent feminine demonstrative or personal pronoun,High
+449,3,त्वं,PPR.0.sg.2.nom.i.n.n.prx,PPR,""" आकाश",यशोधरायाः कथां,"' "" आकाश त्वं यशोधरायाः कथां स्मरसि ?",SN,Independent second-person personal pronoun,High
+457,1,मम,PPR.0.sg.1.gen.vi.n.n.prx,PPR,"""",वाक्यम् अश्रृण्वती,""" मम वाक्यम् अश्रृण्वती इव सा कथनम् आरभत - "" एषः अपि तथैव गतवान् ।",SNV,First-person genitive pronoun qualifying a noun,High
+457,5,सा,PPR.fem.sg.3.nom.i.n.n.dst,PPR,अश्रृण्वती इव,कथनम् आरभत,""" मम वाक्यम् अश्रृण्वती इव सा कथनम् आरभत - "" एषः अपि तथैव गतवान् ।",SN,Independent feminine demonstrative pronoun,High
+457,10,एषः,PPR.mas.sg.3.nom.i.n.n.prx,PPR,"- """,अपि तथैव,""" मम वाक्यम् अश्रृण्वती इव सा कथनम् आरभत - "" एषः अपि तथैव गतवान् ।",SN,Independent demonstrative pronoun functioning without a modified noun.,High
+458,3,मां,PPR.0.sg.1.acc.ii.n.n.prx,PPR,एतम् आलोकं,च परित्यज्य,पुत्रम् एतम् आलोकं मां च परित्यज्य ।,SN,Independent first-person personal pronoun,High
+463,2,तद्,PPR.neu.sg.3.acc.ii.n.n.dst,PPR,""" कारणं",एव -,""" कारणं तद् एव - प्रव्रज्या ।",SNV,Demonstrative pronoun agrees with and qualifies कारणम् in कारणं तद् एव.,Medium
+464,0,मम,PPR.0.sg.1.gen.vi.n.n.prx,PPR,,अध्ययनकाले एव,मम अध्ययनकाले एव मम विवाहः इति त्वं तु जानासि एव ।,SNV,First-person genitive pronoun qualifying a noun,High
+464,3,मम,PPR.mas.sg.1.gen.vi.n.n.prx,PPR,अध्ययनकाले एव,विवाहः इति,मम अध्ययनकाले एव मम विवाहः इति त्वं तु जानासि एव ।,SNV,First-person genitive pronoun in a possessive or dependent construction.,High
+464,6,त्वं,PPR.0.sg.2.nom.i.n.n.prx,PPR,विवाहः इति,तु जानासि,मम अध्ययनकाले एव मम विवाहः इति त्वं तु जानासि एव ।,SN,Independent second-person personal pronoun,High
+465,10,मम,PPR.0.sg.1.gen.vi.n.n.prx,PPR,मत्वा पिता,विवाहं निर्वर्तितवान्,"वरः उच्चशिक्षितः , विनयी , सर्वकारियोद्योगि च इति मत्वा पिता मम विवाहं निर्वर्तितवान् ।",SNV,First-person genitive pronoun qualifying a noun,High
+466,0,मम,PPR.0.sg.1.gen.vi.n.n.prx,PPR,,पुत्रः अपि,मम पुत्रः अपि जातः ।,SNV,First-person genitive pronoun qualifying a noun,High
+469,2,मम,PPR.0.sg.1.gen.vi.n.n.prx,PPR,एतत् सर्व,क्रमशः अभ्यासगतम्,एतत् सर्व मम क्रमशः अभ्यासगतम् अभवत् ।,SNV,First-person genitive pronoun qualifying a noun,High
+470,2,सः,PPR.mas.sg.3.nom.i.n.n.dst,PPR,परन्तु क्रमशः,अधिकाधिकं मौनम्,परन्तु क्रमशः सः अधिकाधिकं मौनम् आहरितवान् ।,SN,Independent personal pronoun,High
+471,4,तस्य,PPR.mas.sg.3.gen.vi.n.n.dst,PPR,ध्यानमग्ना स्थितिः,।,सदा प्रायः ध्यानमग्ना स्थितिः तस्य ।,SNV,Third-person genitive demonstrative used possessively with a noun,High
+472,4,अयम्,PPR.mas.sg.3.nom.i.n.n.prx,PPR,सति संसारः,असारः बन्धनाय,किञ्चित् पृष्टे सति संसारः अयम् असारः बन्धनाय एव ' इति दार्शनिकानि वाक्यानि श्रावयति स्म सः ।,SNV,Post-nominal demonstrative अयम् identifies संसारः.,Medium
+472,14,सः,PPR.mas.sg.3.nom.i.n.n.dst,PPR,श्रावयति स्म,।,किञ्चित् पृष्टे सति संसारः अयम् असारः बन्धनाय एव ' इति दार्शनिकानि वाक्यानि श्रावयति स्म सः ।,SN,Independent personal pronoun,High
+476,0,तस्य,PPR.mas.sg.3.gen.vi.n.n.dst,PPR,,आन्तः किमपि,तस्य आन्तः किमपि नित्यः कथत् इव आसीत् ।,SN,"तस्य functions as an independent genitive pronoun with अन्तः, meaning inside him.",Medium
+477,2,सः,PPR.mas.sg.3.nom.i.n.n.dst,PPR,एकस्यां रात्रौ,एव इतिहासः,एकस्यां रात्रौ सः एव इतिहासः पुनरावृत्तः मम जीवने ।,SN,Independent personal pronoun,High
+477,6,मम,PPR.0.sg.1.gen.vi.n.n.prx,PPR,इतिहासः पुनरावृत्तः,जीवने ।,एकस्यां रात्रौ सः एव इतिहासः पुनरावृत्तः मम जीवने ।,SNV,First-person genitive pronoun qualifying a noun,High
+478,4,सः,PPR.mas.sg.3.nom.i.n.n.dst,PPR,अनुक्त्वा गृहात्,"निर्गतः ""","किमपि किमपि अनुक्त्वा गृहात् सः निर्गतः "" इति वदन्ती दीर्घं निःश्र्वसितवती वसुधा ।",SN,Independent personal pronoun,High
+481,5,सः,PPR.mas.sg.3.nom.i.n.n.dst,PPR,साधूनां सङ्गमे,दॄष्टः आसीत्,कदाचित् वर्षानन्तरं कनखले साधूनां सङ्गमे सः दॄष्टः आसीत् इति केचन उक्तवन्तः ।,SN,Independent personal pronoun,High
+482,8,सः,PPR.mas.sg.3.nom.i.n.n.dst,PPR,गतवान् आसीत्,।,पुनः तत्र अन्विष्टे सति ततः अन्यत्र गतवान् आसीत् सः ।,SN,Independent personal pronoun,High
+484,3,अहं,PPR.0.sg.1.nom.i.n.n.prx,PPR,- पृष्टवान्,तस्य प्रतिपोषणविषये,""" - पृष्टवान् अहं तस्य प्रतिपोषणविषये प्रष्टुम् इच्छन् ।",SN,First-person nominative pronoun functioning as sentence subject,High
+484,4,तस्य,PPR.mas.sg.3.gen.vi.n.n.dst,PPR,पृष्टवान् अहं,प्रतिपोषणविषये प्रष्टुम्,""" - पृष्टवान् अहं तस्य प्रतिपोषणविषये प्रष्टुम् इच्छन् ।",SNV,Third-person genitive demonstrative used possessively with a noun,High
+485,1,मम,PPR.0.sg.1.gen.vi.n.n.prx,PPR,"""",तु संसारः,""" मम तु संसारः असारः न आसीत् खलु ?",SNV,First-person genitive pronoun qualifying a noun,High
+488,1,माम्,PPR.0.sg.1.acc.ii.n.n.prx,PPR,पिता,उक्तवान् -,पिता माम् उक्तवान् - मम निकटे निवसतु इति किन्तु मम कुटुम्बे एतौ द्वौ तु आस्ताम् ।,SN,Independent first-person personal pronoun,High
+488,4,मम,PPR.mas.sg.1.gen.vi.n.n.prx,PPR,उक्तवान् -,निकटे निवसतु,पिता माम् उक्तवान् - मम निकटे निवसतु इति किन्तु मम कुटुम्बे एतौ द्वौ तु आस्ताम् ।,SNV,First-person genitive pronoun in a possessive or dependent construction.,High
+488,9,मम,PPR.mas.sg.1.gen.vi.n.n.prx,PPR,इति किन्तु,कुटुम्बे एतौ,पिता माम् उक्तवान् - मम निकटे निवसतु इति किन्तु मम कुटुम्बे एतौ द्वौ तु आस्ताम् ।,SNV,First-person genitive pronoun in a possessive or dependent construction.,High
+491,4,अहम्,PPR.0.sg.1.nom.i.n.n.prx,PPR,एव कारितवती,।,""" अत्र एव कारितवती अहम् ।",SN,First-person nominative pronoun functioning as sentence subject,High
+492,7,मया,PPR.0.sg.1.ins.iii.n.n.prx,PPR,शिक्षिकत्वम् आश्रितं,।,श्र्व्श्र्वाः प्रयाणात् परम् एकस्मिन् विद्यालये शिक्षिकत्वम् आश्रितं मया ।,SN,First-person instrumental pronoun functioning independently as agent or complement,High
+493,2,त्वं,PPR.0.sg.2.nom.i.n.n.prx,PPR,आलोकं तु,दृष्टवान् एव,आलोकं तु त्वं दृष्टवान् एव ।,SN,Independent second-person personal pronoun,High
+494,5,सः,PPR.mas.sg.3.nom.i.n.n.dst,PPR,पितृरहितः बालकः,।,पितरि स्थिते अपि पितृरहितः बालकः सः ।,SN,Independent personal pronoun,High
+495,0,मां,PPR.0.sg.1.acc.ii.n.n.prx,PPR,,परित्यज्य कुत्र,मां परित्यज्य कुत्र अपि गन्तुं न इच्छति स्म सः ।,SN,Independent first-person personal pronoun,High
+495,8,सः,PPR.mas.sg.3.nom.i.n.n.dst,PPR,इच्छति स्म,।,मां परित्यज्य कुत्र अपि गन्तुं न इच्छति स्म सः ।,SN,Independent personal pronoun,High
+499,7,तान्,PPR.mas.pl.3.acc.ii.n.n.dst,PPR,आगमिष्यन्ति तदा,सर्वान् आदाय,""" तदा सर्वे नगरम् इदम् आगमिष्यन्ति तदा तान् सर्वान् आदाय आगच्छ , आकाश "" मम विलम्बिताम् उपस्थितिं स्मारयन्ती इव अवदत् वसुधा ।",SN,Anaphoric pronoun functioning independently; सर्वान् is an accompanying quantifier.,Medium
+499,14,मम,PPR.0.sg.1.gen.vi.n.n.prx,PPR,"आकाश """,विलम्बिताम् उपस्थितिं,""" तदा सर्वे नगरम् इदम् आगमिष्यन्ति तदा तान् सर्वान् आदाय आगच्छ , आकाश "" मम विलम्बिताम् उपस्थितिं स्मारयन्ती इव अवदत् वसुधा ।",SNV,First-person genitive pronoun qualifying a noun,High
+501,6,अहम्,PPR.0.sg.1.nom.i.n.n.prx,PPR,उत्थाय प्रस्थितवान्,।,"इदानीं गन्तुकामः अस्मि "" उत्थाय प्रस्थितवान् अहम् ।",SN,First-person nominative pronoun functioning as sentence subject,High
+507,8,तस्याः,PPR.fem.sg.3.gen.vi.n.n.dst,PPR,"अस्ति ,",का प्रतिष्ठा,"क्षणं क्षणं या संसारे तपः आचरन्ती अस्ति , तस्याः का प्रतिष्ठा स्यात् परिवारे , स्वजनेषु , संसारे च ?",SNV,Feminine genitive demonstrative pronoun modifying or possessing a noun.,High
+509,6,एषा,PPR.fem.sg.3.nom.i.n.n.prx,PPR,", प्रतिश्र्वसनम्",कथं जीवति,"प्रतिष्ठायाः तु अन्या कथा , प्रतिश्र्वसनम् एषा कथं जीवति , पुत्रं जीवयति , कथम् आत्मानं रक्षति इति चिन्तनमात्रेण एव मम शरीरे कश्र्चन कम्पः सहत्वं साक्षात्कृतम् इव अनुभूतवान् अहम् ।",SN,Independent feminine demonstrative or personal pronoun,High
+509,19,मम,PPR.0.sg.1.gen.vi.n.n.prx,PPR,चिन्तनमात्रेण एव,शरीरे कश्र्चन,"प्रतिष्ठायाः तु अन्या कथा , प्रतिश्र्वसनम् एषा कथं जीवति , पुत्रं जीवयति , कथम् आत्मानं रक्षति इति चिन्तनमात्रेण एव मम शरीरे कश्र्चन कम्पः सहत्वं साक्षात्कृतम् इव अनुभूतवान् अहम् ।",SNV,First-person genitive pronoun qualifying a noun,High
+509,27,अहम्,PPR.0.sg.1.nom.i.n.n.prx,PPR,इव अनुभूतवान्,।,"प्रतिष्ठायाः तु अन्या कथा , प्रतिश्र्वसनम् एषा कथं जीवति , पुत्रं जीवयति , कथम् आत्मानं रक्षति इति चिन्तनमात्रेण एव मम शरीरे कश्र्चन कम्पः सहत्वं साक्षात्कृतम् इव अनुभूतवान् अहम् ।",SN,First-person nominative pronoun functioning as sentence subject,High
+510,1,मम,PPR.0.sg.1.gen.vi.n.n.prx,PPR,अकस्मात्,मुखात् निःसृतम्-,अकस्मात् मम मुखात् निःसृतम्- ' धन्या त्वं वसुधे तुभ्यं कोटिशः नमः ।,SNV,First-person genitive pronoun qualifying a noun,High
+510,6,त्वं,PPR.0.sg.2.nom.i.n.n.prx,PPR,' धन्या,वसुधे तुभ्यं,अकस्मात् मम मुखात् निःसृतम्- ' धन्या त्वं वसुधे तुभ्यं कोटिशः नमः ।,SN,Independent second-person personal pronoun,High
+510,8,तुभ्यं,PPR.0.sg.2.dat.iv.n.n.prx,PPR,त्वं वसुधे,कोटिशः नमः,अकस्मात् मम मुखात् निःसृतम्- ' धन्या त्वं वसुधे तुभ्यं कोटिशः नमः ।,SN,Second-person dative pronoun functions independently as recipient.,High
+511,1,मम,PPR.0.sg.1.gen.vi.n.n.prx,PPR,',कारयानचालकः आकस्मात्,' मम कारयानचालकः आकस्मात् मम ध्वनिं श्रुत्वा समम्भ्रं पृष्टवान् - ' किं स्वामिन् ?,SNV,First-person genitive pronoun qualifying a noun,High
+511,4,मम,PPR.0.sg.1.gen.vi.n.n.prx,PPR,कारयानचालकः आकस्मात्,ध्वनिं श्रुत्वा,' मम कारयानचालकः आकस्मात् मम ध्वनिं श्रुत्वा समम्भ्रं पृष्टवान् - ' किं स्वामिन् ?,SNV,First-person genitive pronoun qualifying a noun,High
+512,1,मया,PPR.0.sg.1.ins.iii.n.n.prx,PPR,',उक्तं ',' मया उक्तं ' नहि किञ्चित् ।,SN,First-person instrumental pronoun functioning independently as agent or complement,High
+523,11,अहम्,PPR.0.sg.1.nom.i.n.n.prx,PPR,हरिः ओम,उपमण्डलाधिकारी वदन्,"अभ्यासबलेन दक्षिणेन हस्तेन अधिकारी ध्वनिग्राहिकाम् उत्थाप्य उक्तवान् _ "" हरिः ओम अहम् उपमण्डलाधिकारी वदन् अस्मि "" इति ।",SN,First-person nominative pronoun functioning as sentence subject,High
+524,3,अहम्,PPR.0.sg.1.nom.i.n.n.prx,PPR,श्रीमन् नमस्कारः,राजकीयमहाविद्यालयस्य शिक्षककर्मकरसङ्घस्य,""" श्रीमन् नमस्कारः अहम् राजकीयमहाविद्यालयस्य शिक्षककर्मकरसङ्घस्य सचिवः वदन् अस्मि "" - प्रतिपक्षतः उत्तरम् आयाति ।",SN,First-person nominative pronoun functioning as sentence subject,High
+526,3,भवन्तं,PPR.mas.sg.3.acc.ii.n.n.prx,PPR,महाशय दुःखेन,सूचयामि यत्,""" महाशय दुःखेन भवन्तं सूचयामि यत् सः बालकः मृतः अस्ति ।",SN,भवन्तं functions independently as the object of सूचयामि.,High
+528,2,भवतः,PPR.mas.sg.3.gen.vi.n.n.prx,PPR,अस्ति किं,अस्मिन् विषये,अस्ति किं भवतः अस्मिन् विषये कथनीयम् ?,SNV,Genitive pronoun used possessively or modifying another expression,High
+529,5,अहं,PPR.0.sg.1.nom.i.n.n.prx,PPR,न खलु,किमपि वक्तुम्,""" "" श्रीमन् न खलु अहं किमपि वक्तुम् इच्छामि ।",SN,First-person nominative pronoun functioning as sentence subject,High
+530,1,भवान्,PPR.mas.sg.3.nom.i.n.n.prx,PPR,.....,एव चिन्तयतु,..... भवान् एव चिन्तयतु अस्मिन् विषये भवता करणीयम् अस्ति न वा इति ।,SN,"Independent honorific personal pronoun, not modifying a noun.",High
+530,6,भवता,PPR.mas.sg.3.ins.iii.n.n.prx,PPR,अस्मिन् विषये,करणीयम् अस्ति,..... भवान् एव चिन्तयतु अस्मिन् विषये भवता करणीयम् अस्ति न वा इति ।,SN,Independent instrumental pronoun functioning as an agent or instrument.,High
+531,2,मया,PPR.0.sg.1.ins.iii.n.n.prx,PPR,""" """,करणीयम् ....,""" "" मया करणीयम् .... ?",SN,First-person instrumental pronoun functioning independently as agent or complement,High
+532,4,मया,PPR.0.sg.1.ins.iii.n.n.prx,PPR,""" """,किं करणीयम्,""" आम् "" "" मया किं करणीयम् अस्ति ?",SN,First-person instrumental pronoun functioning independently as agent or complement,High
+533,0,भवान्,PPR.mas.sg.3.nom.i.n.n.prx,PPR,,किं वक्तुम्,भवान् किं वक्तुम् इच्छति ?,SN,"Independent honorific personal pronoun, not modifying a noun.",High
+534,2,भवतः,PPR.mas.sg.3.gen.vi.n.n.prx,PPR,को वा,अभिप्रायः ?,को वा भवतः अभिप्रायः ?,SNV,Genitive pronoun used possessively or modifying another expression,High
+535,3,भवतः,PPR.mas.sg.3.gen.vi.n.n.prx,PPR,""" महाशय",कार्यानेन प्राप्ताघातः,""" "" महाशय भवतः कार्यानेन प्राप्ताघातः बालकः यदा मृतः अस्ति तदा भवता किमपि करणीयम् अस्ति न वा इति भवान् एव विचारयतु "" "" मम कारयानस्य आघातः एव बालकस्य मृत्योः कारणम् इति कथं भवता उच्यते ?",SNV,Genitive pronoun used possessively or modifying another expression,High
+535,11,भवता,PPR.mas.sg.3.ins.iii.n.n.prx,PPR,अस्ति तदा,किमपि करणीयम्,""" "" महाशय भवतः कार्यानेन प्राप्ताघातः बालकः यदा मृतः अस्ति तदा भवता किमपि करणीयम् अस्ति न वा इति भवान् एव विचारयतु "" "" मम कारयानस्य आघातः एव बालकस्य मृत्योः कारणम् इति कथं भवता उच्यते ?",SN,Independent instrumental pronoun functioning as an agent or instrument.,High
+535,18,भवान्,PPR.mas.sg.3.nom.i.n.n.prx,PPR,वा इति,एव विचारयतु,""" "" महाशय भवतः कार्यानेन प्राप्ताघातः बालकः यदा मृतः अस्ति तदा भवता किमपि करणीयम् अस्ति न वा इति भवान् एव विचारयतु "" "" मम कारयानस्य आघातः एव बालकस्य मृत्योः कारणम् इति कथं भवता उच्यते ?",SN,"Independent honorific personal pronoun, not modifying a noun.",High
+535,23,मम,PPR.0.sg.1.gen.vi.n.n.prx,PPR,""" """,कारयानस्य आघातः,""" "" महाशय भवतः कार्यानेन प्राप्ताघातः बालकः यदा मृतः अस्ति तदा भवता किमपि करणीयम् अस्ति न वा इति भवान् एव विचारयतु "" "" मम कारयानस्य आघातः एव बालकस्य मृत्योः कारणम् इति कथं भवता उच्यते ?",SNV,First-person genitive pronoun qualifying a noun,High
+535,32,भवता,PPR.mas.sg.3.ins.iii.n.n.prx,PPR,इति कथं,उच्यते ?,""" "" महाशय भवतः कार्यानेन प्राप्ताघातः बालकः यदा मृतः अस्ति तदा भवता किमपि करणीयम् अस्ति न वा इति भवान् एव विचारयतु "" "" मम कारयानस्य आघातः एव बालकस्य मृत्योः कारणम् इति कथं भवता उच्यते ?",SN,Independent instrumental pronoun functioning as an agent or instrument.,High
+536,2,भवता,PPR.mas.sg.3.ins.iii.n.n.prx,PPR,अपि दृष्टं,?,अपि दृष्टं भवता ?,SN,Independent instrumental pronoun functioning as an agent or instrument.,High
+540,0,तस्य,PPR.mas.sg.3.gen.vi.n.n.dst,PPR,,चिकित्सार्थम् अहम्,तस्य चिकित्सार्थम् अहम् एव तम् उत्थाप्य चिकित्सालयं नीतवान् आसम् ।,SNV,Third-person genitive demonstrative used possessively with a noun,High
+540,2,अहम्,PPR.0.sg.1.nom.i.n.n.prx,PPR,तस्य चिकित्सार्थम्,एव तम्,तस्य चिकित्सार्थम् अहम् एव तम् उत्थाप्य चिकित्सालयं नीतवान् आसम् ।,SN,First-person nominative pronoun functioning as sentence subject,High
+540,4,तम्,PPR.mas.sg.3.acc.ii.n.n.dst,PPR,अहम् एव,उत्थाप्य चिकित्सालयं,तस्य चिकित्सार्थम् अहम् एव तम् उत्थाप्य चिकित्सालयं नीतवान् आसम् ।,SN,Independent demonstrative object pronoun,High
+541,2,तं,PPR.mas.sg.3.acc.ii.n.n.dst,PPR,तत्र वैद्याः,परीक्षितवन्तः ।,तत्र वैद्याः तं परीक्षितवन्तः ।,SN,Independent demonstrative object pronoun,High
+542,1,ते,PPR.mas.pl.3.nom.i.n.n.dst,PPR,यदा,' न,यदा ते ' न खलु गुरुतरुपेण आहतः अस्ति ' इति उक्तवन्तः तदा एव अहं ततः प्रस्थितवान् ।,SN,Independent masculine plural demonstrative pronoun used substantively.,High
+542,13,अहं,PPR.0.sg.1.nom.i.n.n.prx,PPR,तदा एव,ततः प्रस्थितवान्,यदा ते ' न खलु गुरुतरुपेण आहतः अस्ति ' इति उक्तवन्तः तदा एव अहं ततः प्रस्थितवान् ।,SN,First-person nominative pronoun functioning as sentence subject,High
+543,2,सः,PPR.mas.sg.3.nom.i.n.n.dst,PPR,तदनन्तरं यदि,मरिष्यति तत्र,तदनन्तरं यदि सः मरिष्यति तत्र मया वा किं करणीयं भवति ?,SN,Independent personal pronoun,High
+543,5,मया,PPR.0.sg.1.ins.iii.n.n.prx,PPR,मरिष्यति तत्र,वा किं,तदनन्तरं यदि सः मरिष्यति तत्र मया वा किं करणीयं भवति ?,SN,First-person instrumental pronoun functioning independently as agent or complement,High
+544,0,भवान्,PPR.mas.sg.3.nom.i.n.n.prx,PPR,,कस्य पुरतः,भवान् कस्य पुरतः एतत् सर्वं वदन् अस्ति ?,SN,"Independent honorific personal pronoun, not modifying a noun.",High
+545,1,मम्,PPR.0.sg.1.gen.vi.n.n.prx,PPR,यदि,कारयानेन एव,"यदि मम् कारयानेन एव मारितः इति भवतः विचारः विश्र्वासः वा तर्हि यथेच्छम् गच्छतु वा .... "" "" श्रीमन् क्षंतव्यः मम् अपराधः ...... भवान् प्रशासकः , अस्माकं पालकः ।",SNV,"मम् qualifies कारयानेन, expressing possession.",High
+545,6,भवतः,PPR.mas.sg.3.gen.vi.n.n.prx,PPR,मारितः इति,विचारः विश्र्वासः,"यदि मम् कारयानेन एव मारितः इति भवतः विचारः विश्र्वासः वा तर्हि यथेच्छम् गच्छतु वा .... "" "" श्रीमन् क्षंतव्यः मम् अपराधः ...... भवान् प्रशासकः , अस्माकं पालकः ।",SNV,Genitive pronoun used possessively or modifying another expression,High
+545,19,मम्,PPR.0.sg.1.gen.vi.n.n.prx,PPR,श्रीमन् क्षंतव्यः,अपराधः ......,"यदि मम् कारयानेन एव मारितः इति भवतः विचारः विश्र्वासः वा तर्हि यथेच्छम् गच्छतु वा .... "" "" श्रीमन् क्षंतव्यः मम् अपराधः ...... भवान् प्रशासकः , अस्माकं पालकः ।",SNV,"मम् qualifies अपराधः, expressing possession.",High
+545,22,भवान्,PPR.mas.sg.3.nom.i.n.n.prx,PPR,अपराधः ......,"प्रशासकः ,","यदि मम् कारयानेन एव मारितः इति भवतः विचारः विश्र्वासः वा तर्हि यथेच्छम् गच्छतु वा .... "" "" श्रीमन् क्षंतव्यः मम् अपराधः ...... भवान् प्रशासकः , अस्माकं पालकः ।",SN,"Independent honorific personal pronoun, not modifying a noun.",High
+545,25,अस्माकं,PPR.0.pl.1.gen.vi.n.n.prx,PPR,"प्रशासकः ,",पालकः ।,"यदि मम् कारयानेन एव मारितः इति भवतः विचारः विश्र्वासः वा तर्हि यथेच्छम् गच्छतु वा .... "" "" श्रीमन् क्षंतव्यः मम् अपराधः ...... भवान् प्रशासकः , अस्माकं पालकः ।",SNV,First-person plural genitive pronoun modifying a noun,High
+546,0,अस्माकं,PPR.0.pl.1.gen.vi.n.n.prx,PPR,,विपत्तौ भवान्,अस्माकं विपत्तौ भवान् एव सहायकः ।,SNV,First-person plural genitive pronoun modifying a noun,High
+546,2,भवान्,PPR.mas.sg.3.nom.i.n.n.prx,PPR,अस्माकं विपत्तौ,एव सहायकः,अस्माकं विपत्तौ भवान् एव सहायकः ।,SN,"Independent honorific personal pronoun, not modifying a noun.",High
+547,1,भवान्,PPR.mas.sg.3.nom.i.n.n.prx,PPR,अतः,एव अस्माकं,अतः भवान् एव अस्माकं कृते न्यायालयः इति तु अस्माभिः स्वप्ने अपि न चिन्तनीयः विषयः ।,SN,"Independent honorific personal pronoun, not modifying a noun.",High
+547,3,अस्माकं,PPR.0.pl.1.gen.vi.n.n.prx,PPR,भवान् एव,कृते न्यायालयः,अतः भवान् एव अस्माकं कृते न्यायालयः इति तु अस्माभिः स्वप्ने अपि न चिन्तनीयः विषयः ।,SN,Independent first-person plural pronoun governed by कृते,High
+547,8,अस्माभिः,PPR.0.pl.1.ins.iii.n.n.prx,PPR,इति तु,स्वप्ने अपि,अतः भवान् एव अस्माकं कृते न्यायालयः इति तु अस्माभिः स्वप्ने अपि न चिन्तनीयः विषयः ।,SN,First-person plural pronoun referring independently to the speakers.,High
+548,0,भवतः,PPR.mas.sg.3.gen.vi.n.n.prx,PPR,,यानम् एव,भवतः यानम् एव तस्य बालकस्य मृत्योः कारणम् इति यदि भवान् न स्वीकरोति तर्हि न्यायालयेन वा किम् ?,SNV,Genitive pronoun used possessively or modifying another expression,High
+548,3,तस्य,PPR.mas.sg.3.gen.vi.n.n.dst,PPR,यानम् एव,बालकस्य मृत्योः,भवतः यानम् एव तस्य बालकस्य मृत्योः कारणम् इति यदि भवान् न स्वीकरोति तर्हि न्यायालयेन वा किम् ?,SNV,Third-person genitive demonstrative used possessively with a noun,High
+548,9,भवान्,PPR.mas.sg.3.nom.i.n.n.prx,PPR,इति यदि,न स्वीकरोति,भवतः यानम् एव तस्य बालकस्य मृत्योः कारणम् इति यदि भवान् न स्वीकरोति तर्हि न्यायालयेन वा किम् ?,SN,"Independent honorific personal pronoun, not modifying a noun.",High
+551,2,मम,PPR.0.sg.1.gen.vi.n.n.prx,PPR,न च,एषः अनुरोधः,न च मम एषः अनुरोधः यत् कृपया भवान् अत्र आगमनस्य कष्टं स्वीकरोतु ... ।,SNV,First-person genitive pronoun qualifying a noun,High
+551,7,भवान्,PPR.mas.sg.3.nom.i.n.n.prx,PPR,यत् कृपया,अत्र आगमनस्य,न च मम एषः अनुरोधः यत् कृपया भवान् अत्र आगमनस्य कष्टं स्वीकरोतु ... ।,SN,"Independent honorific personal pronoun, not modifying a noun.",High
+556,4,भवता,PPR.mas.sg.3.ins.iii.n.n.prx,PPR,किम् उक्तं,?,""" "" किम् उक्तं भवता ?",SN,Independent instrumental pronoun functioning as an agent or instrument.,High
+557,0,मया,PPR.0.sg.1.ins.iii.n.n.prx,PPR,,द्वारपालकस्य गृहं,मया द्वारपालकस्य गृहं गन्तव्यं इति ?,SN,First-person instrumental pronoun functioning independently as agent or complement,High
+558,1,भवान्,PPR.mas.sg.3.nom.i.n.n.prx,PPR,....,माम् किं,.... भवान् माम् किं वा भावयति .. ?,SN,"Independent honorific personal pronoun, not modifying a noun.",High
+558,2,माम्,PPR.0.sg.1.acc.ii.n.n.prx,PPR,.... भवान्,किं वा,.... भवान् माम् किं वा भावयति .. ?,SN,Independent first-person personal pronoun,High
+559,2,भवतः,PPR.mas.sg.3.gen.vi.n.n.prx,PPR,... स्थगयतु,भाषणम् ।,... स्थगयतु भवतः भाषणम् ।,SNV,Genitive pronoun used possessively or modifying another expression,High
+561,0,भवान्,PPR.mas.sg.3.nom.i.n.n.prx,PPR,,एव यदि,भवान् एव यदि अनेन प्रकारेण उत्तेजितः भवति तर्हि सामान्यजनस्य का दशा भवेत् ?,SN,"Independent honorific personal pronoun, not modifying a noun.",High
+562,0,वयं,PPR.0.pl.1.nom.i.n.n.prx,PPR,,तु भवतः,वयं तु भवतः प्रजा एव ।,SN,Independent first-person plural pronoun used as sentence subject.,High
+562,2,भवतः,PPR.mas.sg.3.gen.vi.n.n.prx,PPR,वयं तु,प्रजा एव,वयं तु भवतः प्रजा एव ।,SNV,Genitive pronoun used possessively or modifying another expression,High
+563,2,भवतः,PPR.mas.sg.3.gen.vi.n.n.prx,PPR,प्रजापालनम् एव,कर्तव्यं ।,प्रजापालनम् एव भवतः कर्तव्यं ।,SNV,Genitive pronoun used possessively or modifying another expression,High
+564,4,भवान्,PPR.mas.sg.3.nom.i.n.n.prx,PPR,पालकरुपेण अपि,तत्र गन्तुम्,अतः एव पालकरुपेण अपि भवान् तत्र गन्तुम् अर्हति ।,SN,"Independent honorific personal pronoun, not modifying a noun.",High
+565,0,भवतः,PPR.mas.sg.3.gen.vi.n.n.prx,PPR,,पदार्पणेन पुत्रशोकानलदग्धस्य,भवतः पदार्पणेन पुत्रशोकानलदग्धस्य तस्य ह्रदयं नूनम् उपशान्तं भवति इति अस्माकम् आशयः ।,SNV,Genitive pronoun used possessively or modifying another expression,High
+565,3,तस्य,PPR.mas.sg.3.gen.vi.n.n.dst,PPR,पदार्पणेन पुत्रशोकानलदग्धस्य,ह्रदयं नूनम्,भवतः पदार्पणेन पुत्रशोकानलदग्धस्य तस्य ह्रदयं नूनम् उपशान्तं भवति इति अस्माकम् आशयः ।,SNV,Third-person genitive demonstrative used possessively with a noun,High
+565,9,अस्माकम्,PPR.0.pl.1.gen.vi.n.n.prx,PPR,भवति इति,आशयः ।,भवतः पदार्पणेन पुत्रशोकानलदग्धस्य तस्य ह्रदयं नूनम् उपशान्तं भवति इति अस्माकम् आशयः ।,SNV,First-person plural genitive pronoun modifying a noun,High
+566,0,तद्,PPR.neu.sg.3.nom.i.n.n.dst,PPR,,एव भवतु,"तद् एव भवतु वैद्यस्य प्रतिवेदनं , तस्य ह्र्दये तु कारयानस्य आघातः एव पुत्रस्य मृत्योः कारणम् इति भावना दृढतरा जाता अस्ति ।",SN,Independent neuter demonstrative pronoun used substantively.,High
+566,6,तस्य,PPR.mas.sg.3.gen.vi.n.n.dst,PPR,"प्रतिवेदनं ,",ह्र्दये तु,"तद् एव भवतु वैद्यस्य प्रतिवेदनं , तस्य ह्र्दये तु कारयानस्य आघातः एव पुत्रस्य मृत्योः कारणम् इति भावना दृढतरा जाता अस्ति ।",SNV,Third-person genitive demonstrative used possessively with a noun,High
+568,5,भवतः,PPR.mas.sg.3.gen.vi.n.n.prx,PPR,समवेदनां ज्ञापयितुं,आगमनम् उचितम्,अतः मानवीयदृष्ट्या अपि समवेदनां ज्ञापयितुं भवतः आगमनम् उचितम् इति अस्माकं विचारः ।,SNV,Genitive pronoun used possessively or modifying another expression,High
+568,9,अस्माकं,PPR.mas.pl.1.gen.vi.n.n.prx,PPR,उचितम् इति,विचारः ।,अतः मानवीयदृष्ट्या अपि समवेदनां ज्ञापयितुं भवतः आगमनम् उचितम् इति अस्माकं विचारः ।,SN,अस्माकं functions independently in the genitive construction; no directly modified noun is evident in the supplied context.,Medium
+569,4,अहं,PPR.0.sg.1.nom.i.n.n.prx,PPR,सचिवमहोदय न,भवतः मानवतायाः,""" "" सचिवमहोदय न अहं भवतः मानवतायाः पाटम् अपेक्षे ।",SN,First-person nominative pronoun functioning as sentence subject,High
+569,5,भवतः,PPR.mas.sg.3.gen.vi.n.n.prx,PPR,न अहं,मानवतायाः पाटम्,""" "" सचिवमहोदय न अहं भवतः मानवतायाः पाटम् अपेक्षे ।",SNV,Genitive pronoun used possessively or modifying another expression,High
+570,0,अन्यं,PPR.neu.sg.3.acc.ii.n.n.dst,PPR,,कञ्चित् उद्दिश्य,अन्यं कञ्चित् उद्दिश्य करोतु मानवतायाः मानवीयमूल्यबोधस्य वा पाटनम् ।,SNV,अन्यं qualifies कञ्चित् in अन्यं कञ्चित् उद्दिश्य.,Medium
+571,1,माम्,PPR.0.sg.1.acc.ii.n.n.prx,PPR,न,।,न माम् ।,SN,Independent first-person personal pronoun in elliptical construction,High
+572,3,भवान्,PPR.mas.sg.3.nom.i.n.n.prx,PPR,.. यदि,इच्छति तर्हि,हं .. यदि भवान् इच्छति तर्हि मृतकस्य संस्कारार्थम् आर्थिकानुदानं याचतु ।,SN,"Independent honorific personal pronoun, not modifying a noun.",High
+573,0,तद्,PPR.neu.sg.3.0.i.n.n.dst,PPR,,उचितम् ।,तद् उचितम् ।,SN,Independent demonstrative pronoun used substantively.,High
+574,1,अहं,PPR.0.sg.1.nom.i.n.n.prx,PPR,तत्र,विचारयिष्यामि ।,तत्र अहं विचारयिष्यामि ।,SN,First-person nominative pronoun functioning as sentence subject,High
+577,1,सः,PPR.mas.sg.3.nom.i.n.n.dst,PPR,अनन्तरं,आकारिकाशब्दं कॄतवान्,अनन्तरं सः आकारिकाशब्दं कॄतवान् ।,SN,Independent personal pronoun,High
+579,0,तं,PPR.mas.sg.3.acc.ii.n.n.dst,PPR,,जलम् आनेतुम्,तं जलम् आनेतुम् आदिष्टवान् ।,SN,Independent demonstrative object pronoun,High
+580,0,सः,PPR.mas.sg.3.nom.i.n.n.dst,PPR,,प्रस्थितः ।,सः प्रस्थितः ।,SN,Independent personal pronoun,High
+582,0,तस्य,PPR.mas.sg.3.gen.vi.n.n.dst,PPR,,रोषारुणे नेत्रे,तस्य रोषारुणे नेत्रे ज्वलिते इव स्तः ।,SNV,Third-person genitive demonstrative used possessively with a noun,High
+584,4,तस्य,PPR.mas.sg.3.gen.vi.n.n.dst,PPR,विद्युद्व्यजनम् अपि,कृते उल्मुकः,उपरि भ्रमत् विद्युद्व्यजनम् अपि तस्य कृते उल्मुकः इव आसीत् ।,SNV,Third-person genitive demonstrative used possessively with a noun,High
+585,3,तेन,PPR.mas.sg.3.ins.iii.n.n.dst,PPR,आनीतं जलपात्रं,रिक्तं कृतं,द्वारपालेन आनीतं जलपात्रं तेन रिक्तं कृतं ।,SN,Independent instrumental pronoun,High
+586,1,सः,PPR.mas.sg.3.nom.i.n.n.dst,PPR,ततः,पादौ प्रसार्य,ततः सः पादौ प्रसार्य सुखेन उपविष्टवान् ।,SN,Independent personal pronoun,High
+587,0,तस्य,PPR.mas.sg.3.gen.vi.n.n.dst,PPR,,दृष्टेः पुरतः,तस्य दृष्टेः पुरतः तद्दिवसीया घटना शनैः शनैः समायाति स्म ।,SNV,Third-person genitive demonstrative used possessively with a noun,High
+588,3,तद्,PPR.neu.sg.3.0.i.n.n.dst,PPR,\PUमहरं दिनं,।,' \PUमहरं दिनं तद् ।,SN,Independent demonstrative pronoun used substantively.,High
+590,0,तेषां,PPR.mas.pl.3.gen.vi.n.n.dst,PPR,,नृत्यकौशलं प्रत्यक्षीकर्तुं,तेषां नृत्यकौशलं प्रत्यक्षीकर्तुं बालाः विषेषेण उत्सुकाः आसन् ।,SNV,Genitive demonstrative pronoun dependent on a noun.,High
+591,0,तेषां,PPR.mas.pl.3.gen.vi.n.n.dst,PPR,,नृत्यकौशलम् प्रत्यक्षिकर्तुं,तेषां नृत्यकौशलम् प्रत्यक्षिकर्तुं बालाः विशेषेण उत्सुकाः आसन् ।,SNV,Genitive demonstrative pronoun dependent on a noun.,High
+592,2,ते,PPR.mas.pl.3.nom.i.n.n.dst,PPR,दलं परितः,इतस्ततः धावन्ति,दलं परितः ते इतस्ततः धावन्ति स्म ।,SN,Independent masculine plural demonstrative pronoun used substantively.,High
+596,5,सः,PPR.mas.sg.3.nom.i.n.n.dst,PPR,आसने उपविष्टः,किञ्कर्त्व्यविमूढः जातः,कारयानस्य अन्तः पृष्टतः आसने उपविष्टः सः किञ्कर्त्व्यविमूढः जातः ।,SN,Independent personal pronoun,High
+599,3,तम्,PPR.mas.sg.3.acc.ii.n.n.dst,PPR,ये केचन,अपि ज्ञातवन्तः,परन्तु ये केचन तम् अपि ज्ञातवन्तः ते चालकं प्रति गच्छतः जनान् निवारयन्ति स्म ।,SN,Independent demonstrative object pronoun,High
+599,6,ते,PPR.mas.pl.3.nom.i.n.n.dst,PPR,अपि ज्ञातवन्तः,चालकं प्रति,परन्तु ये केचन तम् अपि ज्ञातवन्तः ते चालकं प्रति गच्छतः जनान् निवारयन्ति स्म ।,SN,Independent masculine plural demonstrative pronoun used substantively.,High
+600,3,तं,PPR.mas.sg.3.acc.ii.n.n.dst,PPR,केचन पुरुषाः,बालकम् उन्नीय,तदनन्तरं केचन पुरुषाः तं बालकम् उन्नीय मार्गमध्ये स्थापितवन्तः ।,SNV,Demonstrative modifier of बालकम्,High
+602,1,तस्य,PPR.mas.sg.3.gen.vi.n.n.dst,PPR,यद्यपि,केशाः अप्रसाधिताः,"यद्यपि तस्य केशाः अप्रसाधिताः , वस्त्राणि च आसन् , तथापि सः शोभितः आसीत् ।",SNV,Third-person genitive demonstrative used possessively with a noun,High
+602,10,सः,PPR.mas.sg.3.nom.i.n.n.dst,PPR,", तथापि",शोभितः आसीत्,"यद्यपि तस्य केशाः अप्रसाधिताः , वस्त्राणि च आसन् , तथापि सः शोभितः आसीत् ।",SN,Independent personal pronoun,High
+603,1,सः,PPR.mas.sg.3.nom.i.n.n.dst,PPR,कष्टेन,' अम्ब,कष्टेन सः ' अम्ब अम्ब ’ इति उच्चार्य मार्गे निपतितः आसीत् ।,SN,Independent personal pronoun,High
+604,4,तस्य,PPR.mas.sg.3.gen.vi.n.n.dst,PPR,मत्स्यस्य इव,विलुण्ठनं जनानां,जलात् उन्नीतस्य मत्स्यस्य इव तस्य विलुण्ठनं जनानां कृते दुस्सहनीयम् अभवत् ।,SNV,Third-person genitive demonstrative used possessively with a noun,High
+605,1,तं,PPR.mas.sg.3.acc.ii.n.n.dst,PPR,केचन,बालं चिकित्सालयं,केचन तं बालं चिकित्सालयं प्रति नेतुं सूचितवन्तः ।,SNV,Demonstrative modifier of बालम्,High
+606,4,सः,PPR.mas.sg.3.nom.i.n.n.dst,PPR,इति मत्वा,बालं चिकित्सालयं,यत् करणीयम् इति मत्वा सः बालं चिकित्सालयं नेतुम् अङ्गीकृतवान् ।,SN,Independent personal pronoun,High
+609,1,तस्य,PPR.mas.sg.3.gen.vi.n.n.dst,PPR,असह्यवेदनाक्लिष्टस्य,मुखात् कष्टेन,असह्यवेदनाक्लिष्टस्य तस्य मुखात् कष्टेन निर्गतः ' अम्ब ' इति शब्दः तस्य ह्रदयं दुनोति स्म ।,SNV,Third-person genitive demonstrative used possessively with a noun,High
+609,10,तस्य,PPR.mas.sg.3.gen.vi.n.n.dst,PPR,इति शब्दः,ह्रदयं दुनोति,असह्यवेदनाक्लिष्टस्य तस्य मुखात् कष्टेन निर्गतः ' अम्ब ' इति शब्दः तस्य ह्रदयं दुनोति स्म ।,SNV,Third-person genitive demonstrative used possessively with a noun,High
+610,0,सः,PPR.mas.sg.3.nom.i.n.n.dst,PPR,,चिन्तितवान् -,सः चिन्तितवान् - ' अबोध चञ्चलबालक ।,SN,Independent personal pronoun,High
+611,2,तव,PPR.0.sg.2.gen.vi.n.n.prx,PPR,चञ्चलता एव,कालः अपि,चञ्चलता एव तव कालः अपि जन्म मृत्युं च अधिकृत्य कवितां लिखितवान् आसीत् ।,SNV,Second-person genitive pronoun functioning as a possessive modifier of a noun.,Medium
+613,1,स,PPR.mas.sg.3.nom.i.n.n.dst,PPR,',अपि जन्म,' स अपि जन्म मृत्युं च अधिकृत्य कवितां लिखितवान कदाचित् सः अपि जन्म मृत्युं च अधिकृत्य कवितां लिखितवान् आसीत् ।,SN,Independent masculine singular demonstrative pronoun used substantively.,High
+613,10,सः,PPR.mas.sg.3.nom.i.n.n.dst,PPR,लिखितवान कदाचित्,अपि जन्म,' स अपि जन्म मृत्युं च अधिकृत्य कवितां लिखितवान कदाचित् सः अपि जन्म मृत्युं च अधिकृत्य कवितां लिखितवान् आसीत् ।,SN,Independent personal pronoun,High
+614,6,तस्य,PPR.mas.sg.3.gen.vi.n.n.dst,PPR,कृतं ताण्डवनृत्यं,मनसि अद्य,बाल्यकाले एव अनुभूतम् मृत्युना कृतं ताण्डवनृत्यं तस्य मनसि अद्य अपि स्पष्टम् अस्ति ।,SNV,Third-person genitive demonstrative used possessively with a noun,High
+615,1,स,PPR.mas.sg.3.nom.i.n.n.dst,PPR,क्रमशः,तस्य बालकस्य,क्रमशः स तस्य बालकस्य विषये स्नेहार्द्रचित्तः अभवत् ।,SN,Independent masculine singular demonstrative pronoun used substantively.,High
+616,2,सः,PPR.mas.sg.3.nom.i.n.n.dst,PPR,वात्सल्यभावेन व्याकुलितः,तत्र गन्तुकामः,वात्सल्यभावेन व्याकुलितः सः तत्र गन्तुकामः अभवत् ।,SN,Independent personal pronoun,High
+617,5,स,PPR.mas.sg.3.nom.i.n.n.dst,PPR,जीवनं मलिनीकर्तुं,न इष्टवान्,घातकत्वरुपेण कलङ्केन आत्मनः जीवनं मलिनीकर्तुं स न इष्टवान् ।,SN,Independent masculine singular demonstrative pronoun used substantively.,High
+618,8,सः,PPR.mas.sg.3.nom.i.n.n.dst,PPR,मनः निर्मलीकर्तुं,उद्यतः जातः,पुत्रहीनस्य तस्य द्वारपालकस्य गृहं गत्वा निजाश्रुपातेन मनः निर्मलीकर्तुं सः उद्यतः जातः ।,SN,Independent personal pronoun,High
+619,13,सः,PPR.mas.sg.3.nom.i.n.n.dst,PPR,अन्तरे एव,' न,"परन्तु ... एकतः मानवीया दृष्टिः , अन्यतः उच्चात्मिकायाः अहमिकायाः वा भावनायाः अन्तरे एव सः ' न ययौ न तस्थौ ' अभवत् ।",SN,Independent personal pronoun,High
+620,8,सः,PPR.mas.sg.3.nom.i.n.n.dst,PPR,निजवचनं प्रति,स्वयम् एव,किङ्चित पुर्वं शिक्षककर्मकरसङ्घस्य सचिवम् उद्दिश्य उक्तं निजवचनं प्रति सः स्वयम् एव धिक्कारयुक्तं अभवत् ।,SN,Independent personal pronoun,High
+621,6,तस्य,PPR.mas.sg.3.gen.vi.n.n.dst,PPR,इति स्म्तवतः,जीवने अनास्था,मा कुरु धनजनयौवनगर्वम् ... इति स्म्तवतः तस्य जीवने अनास्था समुत्पन्ना ।,SNV,Third-person genitive demonstrative used possessively with a noun,High
+622,7,सः,PPR.mas.sg.3.nom.i.n.n.dst,PPR,कृत्वा स्थिरमनसा,द्वारपालकस्य गृहं,"सर्वेन्द्रियाणि संयम्य , मान-सम्मानाहग्ङ्कारादीन् पदतले कृत्वा स्थिरमनसा सः द्वारपालकस्य गृहं गन्तुं तस्य अश्रु मार्जयितुं च निश्र्चयम् अकरोत् ।",SN,Independent personal pronoun,High
+622,11,तस्य,PPR.mas.sg.3.gen.vi.n.n.dst,PPR,गृहं गन्तुं,अश्रु मार्जयितुं,"सर्वेन्द्रियाणि संयम्य , मान-सम्मानाहग्ङ्कारादीन् पदतले कृत्वा स्थिरमनसा सः द्वारपालकस्य गृहं गन्तुं तस्य अश्रु मार्जयितुं च निश्र्चयम् अकरोत् ।",SNV,Third-person genitive demonstrative used possessively with a noun,High
+623,1,तस्य,PPR.mas.sg.3.gen.vi.n.n.dst,PPR,परन्तु,पादौ न,परन्तु तस्य पादौ न प्रसरतः ।,SNV,Third-person genitive demonstrative used possessively with a noun,High
+624,2,सः,PPR.mas.sg.3.nom.i.n.n.dst,PPR,प्रकोष्ठस्य चतुर्भित्तितः,प्रतिध्वनिं श्रुतवान्,"प्रकोष्ठस्य चतुर्भित्तितः सः प्रतिध्वनिं श्रुतवान् - "" किम् उक्तं भवता ?",SN,Independent personal pronoun,High
+624,9,भवता,PPR.mas.sg.3.ins.iii.n.n.dst,PPR,किम् उक्तं,?,"प्रकोष्ठस्य चतुर्भित्तितः सः प्रतिध्वनिं श्रुतवान् - "" किम् उक्तं भवता ?",SN,Independent instrumental pronoun,High
+625,0,मया,PPR.0.sg.1.ins.iii.n.n.prx,PPR,,द्वारपालकस्य गृहं,मया द्वारपालकस्य गृहं गन्तव्यम् इति ?,SN,First-person instrumental pronoun functioning independently as agent or complement,High
+626,1,भवान्,PPR.mas.sg.3.nom.i.n.n.prx,PPR,....,मां किं,.... भवान् मां किं वा भावयति ... ?,SN,"Independent honorific personal pronoun, not modifying a noun.",High
+626,2,मां,PPR.mas.sg.1.acc.ii.n.n.prx,PPR,.... भवान्,किं वा,.... भवान् मां किं वा भावयति ... ?,SN,मां is an independent first-person pronoun functioning as the object of भावयति.,High
+627,1,अहं,PPR.0.sg.1.nom.i.n.n.prx,PPR,न,भवतः मानवतायाः,न अहं भवतः मानवतायाः पाठम् अपेक्षे ।,SN,First-person nominative pronoun functioning as sentence subject,High
+627,2,भवतः,PPR.mas.sg.3.gen.vi.n.n.prx,PPR,न अहं,मानवतायाः पाठम्,न अहं भवतः मानवतायाः पाठम् अपेक्षे ।,SNV,Genitive pronoun used possessively or modifying another expression,High
+628,0,अन्यं,PPR.neu.sg.3.acc.ii.n.n.dst,PPR,,कञ्चित् उद्दिश्य,अन्यं कञ्चित् उद्दिश्य करोतु मानवतायाः मानवीयमूल्यबोधस्य वा पाठनम् ।,SNV,अन्यं qualifies कञ्चित् in अन्यं कञ्चित् उद्दिश्य.,Medium
+629,1,माम्,PPR.0.sg.1.acc.ii.n.n.prx,PPR,न,।,न माम् ।,SN,Independent first-person personal pronoun in elliptical construction,High
+630,2,तस्यः,PPR.mas.sg.3.gen.vi.n.n.dst,PPR,""" निर्मलायमानाः",भावनाः पुनः,""" निर्मलायमानाः तस्यः भावनाः पुनः मलिनाः जाताः ।",SNV,Third-person genitive demonstrative used possessively with a noun,High
+631,2,सः,PPR.mas.sg.3.nom.i.n.n.dst,PPR,अहमिकायाः तमसा,पुनः पराजितः,अहमिकायाः तमसा सः पुनः पराजितः अभवत् ।,SN,Independent personal pronoun,High
+632,2,तस्य,PPR.mas.sg.3.gen.vi.n.n.dst,PPR,तथा सत्यपि,अभ्यान्तरे स्थिता,तथा सत्यपि तस्य अभ्यान्तरे स्थिता श्रद्धाञ्लिम् अर्पयितुं तं प्रेरयन्ती आसीत् ।,SNV,Third-person genitive demonstrative used possessively with a noun,High
+632,7,तं,PPR.mas.sg.3.acc.ii.n.n.dst,PPR,श्रद्धाञ्लिम् अर्पयितुं,प्रेरयन्ती आसीत्,तथा सत्यपि तस्य अभ्यान्तरे स्थिता श्रद्धाञ्लिम् अर्पयितुं तं प्रेरयन्ती आसीत् ।,SN,Independent demonstrative object pronoun,High
+633,1,तेन,PPR.mas.sg.3.ins.iii.n.n.dst,PPR,अनायासेन,पुनः आकारिका,अनायासेन तेन पुनः आकारिका वादिता ।,SN,Independent instrumental pronoun,High
+635,2,तं,PPR.mas.sg.3.acc.ii.n.n.dst,PPR,कारचालकम् आह्वातुं,सः सूचितवान्,कारचालकम् आह्वातुं तं सः सूचितवान् ।,SN,Independent demonstrative object pronoun,High
+635,3,सः,PPR.mas.sg.3.nom.i.n.n.dst,PPR,आह्वातुं तं,सूचितवान् ।,कारचालकम् आह्वातुं तं सः सूचितवान् ।,SN,Independent personal pronoun,High
+637,0,सः,PPR.mas.sg.3.nom.i.n.n.dst,PPR,,पत्रम् एकम्,सः पत्रम् एकम् अलिखत् ' सचिवमहोदय मृतकस्य संस्काराय सहाय्यरुपेण सहस्त्रं रुप्यकाणि प्रेषयन् अस्मि ।,SN,Independent personal pronoun,High
+639,9,तम्,PPR.mas.sg.3.acc.ii.n.n.dst,PPR,च दत्वा,आदिष्टवान् -,"' चालकः यदा समायातः तदा पत्रं धनं च दत्वा तम् आदिष्टवान् - "" तेन सचिवेन सह मृतबालकस्य गृहं प्रति गत्वा आगच्छ्तु "" इति चालकः गतवान् ।",SN,Independent demonstrative object pronoun,High
+639,13,तेन,PPR.mas.sg.3.ins.iii.n.n.dst,PPR,"- """,सचिवेन सह,"' चालकः यदा समायातः तदा पत्रं धनं च दत्वा तम् आदिष्टवान् - "" तेन सचिवेन सह मृतबालकस्य गृहं प्रति गत्वा आगच्छ्तु "" इति चालकः गतवान् ।",SNV,Instrumental demonstrative modifying a noun,High
+640,0,स,PPR.mas.sg.3.gen.vi.n.n.dst,PPR,,तस्य प्रत्यागमनम्,स तस्य प्रत्यागमनम् एव प्रतीक्षमाणः अतिष्ठत् ।,SNV,Third-person genitive demonstrative used possessively with a noun,High
+640,1,तस्य,PPR.mas.sg.3.gen.vi.n.n.dst,PPR,स,प्रत्यागमनम् एव,स तस्य प्रत्यागमनम् एव प्रतीक्षमाणः अतिष्ठत् ।,SNV,Third-person genitive demonstrative used possessively with a noun,High
+643,7,भवतः,PPR.mas.sg.3.gen.vi.n.n.prx,PPR,गतिरोधकस्य निर्माणार्थं,समक्षम् अस्य,परन्तु अनेन धनेन महाविद्यालयस्य पुरतः गतिरोधकस्य निर्माणार्थं भवतः समक्षम् अस्य अधमस्य हार्दिकः अनुरोधः अस्ति इति ।,SNV,Genitive pronoun used possessively or modifying another expression,High
+645,0,भवतः,PPR.mas.sg.3.gen.vi.n.n.prx,PPR,,"कृपाभिलाषी ""","भवतः कृपाभिलाषी "" - द्वारपालकः ।",SNV,Genitive pronoun used possessively or modifying another expression,High
+646,0,तस्य,PPR.mas.sg.3.gen.vi.n.n.dst,PPR,,हस्ततः पत्रं,तस्य हस्ततः पत्रं पतितम् ।,SNV,Third-person genitive demonstrative used possessively with a noun,High
+651,5,तस्य,PPR.mas.sg.3.gen.vi.n.n.dst,PPR,महान् गर्वः,।,स्वस्य धनिकत्वस्य विषये महान् गर्वः तस्य ।,SNV,Third-person genitive demonstrative used possessively with a noun,High
+652,0,तस्य,PPR.mas.sg.3.gen.vi.n.n.dst,PPR,,सम्पत्तिः विंशतिकोटिमिता,तस्य सम्पत्तिः विंशतिकोटिमिता आसीत् ।,SNV,Third-person genitive demonstrative used possessively with a noun,High
+653,0,एतत्,PPR.neu.sg.3.nom.i.n.n.prx,PPR,,द्योतयितुं सः,एतत् द्योतयितुं सः स्वस्य गृहस्य पुरतः विंशतिं पताकाः उड्डाययति स्म ।,SN,Independent neuter demonstrative pronoun used substantively.,High
+653,2,सः,PPR.mas.sg.3.nom.i.n.n.dst,PPR,एतत् द्योतयितुं,स्वस्य गृहस्य,एतत् द्योतयितुं सः स्वस्य गृहस्य पुरतः विंशतिं पताकाः उड्डाययति स्म ।,SN,Independent personal pronoun,High
+655,1,तस्य,PPR.mas.sg.3.gen.vi.n.n.dst,PPR,दुलीचन्दः,दर्शनार्थं गतवान्,दुलीचन्दः तस्य दर्शनार्थं गतवान् ।,SNV,Third-person genitive demonstrative used possessively with a noun,High
+656,0,तस्य,PPR.mas.sg.3.gen.vi.n.n.dst,PPR,,पुरतः सुवर्णमुद्राग्रन्थिं,"तस्य पुरतः सुवर्णमुद्राग्रन्थिं कञ्चित् संस्थाप्य सः अवदत् - "" "" गुरुवर्य का अन्या सेवा मया करणीया ?",SNV,Third-person genitive demonstrative used possessively with a noun,High
+656,5,सः,PPR.mas.sg.3.nom.i.n.n.dst,PPR,कञ्चित् संस्थाप्य,अवदत् -,"तस्य पुरतः सुवर्णमुद्राग्रन्थिं कञ्चित् संस्थाप्य सः अवदत् - "" "" गुरुवर्य का अन्या सेवा मया करणीया ?",SN,Independent personal pronoun,High
+656,12,अन्या,PPR.neu.sg.3.0.i.n.n.dst,PPR,गुरुवर्य का,सेवा मया,"तस्य पुरतः सुवर्णमुद्राग्रन्थिं कञ्चित् संस्थाप्य सः अवदत् - "" "" गुरुवर्य का अन्या सेवा मया करणीया ?",SNV,अन्या directly modifies the feminine noun सेवा in the construction अन्या सेवा.,High
+656,14,मया,PPR.0.sg.1.ins.iii.n.n.prx,PPR,अन्या सेवा,करणीया ?,"तस्य पुरतः सुवर्णमुद्राग्रन्थिं कञ्चित् संस्थाप्य सः अवदत् - "" "" गुरुवर्य का अन्या सेवा मया करणीया ?",SN,First-person instrumental pronoun functioning independently as agent or complement,High
+657,1,अहम्,PPR.mas.sg.1.nom.i.n.n.prx,PPR,आदेष्टव्यः,""" इति","आदेष्टव्यः अहम् "" इति ।",SN,अहम् functions independently as the first-person subject.,High
+658,5,एतस्य,PPR.mas.sg.3.gen.vi.n.n.prx,PPR,अवगतवान् यत्,धनमदः अधिकः,गुरुनानकः दर्शनमात्रेण एव अवगतवान् यत् एतस्य धनमदः अधिकः अस्ति इति ।,SNV,Genitive pronoun used possessively or modifying another expression,High
+659,1,सः,PPR.mas.sg.3.nom.i.n.n.dst,PPR,अतः,एकां सूचीम्,"अतः सः एकां सूचीम् आनाय्य तस्मै दत्वा अवदत् - "" अग्रिमे जन्मनि एतत् प्रत्यर्णीयं भवता "" इति ।",SN,Independent personal pronoun,High
+659,5,तस्मै,PPR.mas.sg.3.dat.iv.n.n.dst,PPR,सूचीम् आनाय्य,दत्वा अवदत्,"अतः सः एकां सूचीम् आनाय्य तस्मै दत्वा अवदत् - "" अग्रिमे जन्मनि एतत् प्रत्यर्णीयं भवता "" इति ।",SN,"तस्मै is an independent demonstrative pronoun in the dative case, referring to the recipient of the list.",High
+659,12,एतत्,PPR.neu.sg.3.nom.i.n.n.prx,PPR,अग्रिमे जन्मनि,प्रत्यर्णीयं भवता,"अतः सः एकां सूचीम् आनाय्य तस्मै दत्वा अवदत् - "" अग्रिमे जन्मनि एतत् प्रत्यर्णीयं भवता "" इति ।",SN,Independent neuter demonstrative pronoun used substantively.,High
+659,14,भवता,PPR.mas.sg.3.ins.iii.n.n.prx,PPR,एतत् प्रत्यर्णीयं,""" इति","अतः सः एकां सूचीम् आनाय्य तस्मै दत्वा अवदत् - "" अग्रिमे जन्मनि एतत् प्रत्यर्णीयं भवता "" इति ।",SN,Independent instrumental pronoun functioning as an agent or instrument.,High
+660,1,तां,PPR.fem.sg.3.acc.ii.n.n.dst,PPR,दिलिचन्दः,सूचीं गुरुप्रसादं,"दिलिचन्दः तां सूचीं गुरुप्रसादं भावयन् स्वगृहं प्रत्यागतवान् , तां सूचीं पूजागृहे भक्तया स्थापितवान् च ।",SNV,तां directly modifies the feminine noun सूचीं; it functions as a demonstrative determiner.,High
+660,8,तां,PPR.fem.sg.3.acc.ii.n.n.dst,PPR,"प्रत्यागतवान् ,",सूचीं पूजागृहे,"दिलिचन्दः तां सूचीं गुरुप्रसादं भावयन् स्वगृहं प्रत्यागतवान् , तां सूचीं पूजागृहे भक्तया स्थापितवान् च ।",SNV,तां directly modifies the feminine noun सूचीं in the same sentence.,High
+661,2,तस्य,PPR.mas.sg.3.gen.vi.n.n.dst,PPR,किञ्चित्त् कालानन्तरं,मनसि विचारः,किञ्चित्त् कालानन्तरं तस्य मनसि विचारः आगतः ' अग्रिमे जन्मनि सूची प्रत्यर्पणीया इति गुरुणा सूचितम् ।,SNV,Third-person genitive demonstrative used possessively with a noun,High
+662,1,एतत्,PPR.neu.sg.3.nom.i.n.n.prx,PPR,कथम्,शक्येत् ?,कथम् एतत् शक्येत् ?,SN,Independent neuter demonstrative pronoun used substantively.,High
+665,1,सः,PPR.mas.sg.3.nom.i.n.n.dst,PPR,अतः,तस्मिन् एव,"अतः सः तस्मिन् एव क्षणे गुरुनानकस्य समीपम् आगत्य अवदत् - "" किञ्चित् कालात् पुर्वं भवता मह्यम् एकां सूचीं दत्त्वा उक्तम् आसीत् यत् एषा अग्रिमे जन्मनि प्रत्यर्पणीया इति ।",SN,Independent personal pronoun,High
+665,2,तस्मिन्,PPR.neu.sg.3.loc.vii.n.n.dst,PPR,अतः सः,एव क्षणे,"अतः सः तस्मिन् एव क्षणे गुरुनानकस्य समीपम् आगत्य अवदत् - "" किञ्चित् कालात् पुर्वं भवता मह्यम् एकां सूचीं दत्त्वा उक्तम् आसीत् यत् एषा अग्रिमे जन्मनि प्रत्यर्पणीया इति ।",SNV,तस्मिन् directly modifies the locative noun क्षणे.,High
+665,14,भवता,PPR.mas.sg.3.ins.iii.n.n.prx,PPR,कालात् पुर्वं,मह्यम् एकां,"अतः सः तस्मिन् एव क्षणे गुरुनानकस्य समीपम् आगत्य अवदत् - "" किञ्चित् कालात् पुर्वं भवता मह्यम् एकां सूचीं दत्त्वा उक्तम् आसीत् यत् एषा अग्रिमे जन्मनि प्रत्यर्पणीया इति ।",SN,Independent instrumental pronoun functioning as an agent or instrument.,High
+665,15,मह्यम्,PPR.0.sg.1.dat.iv.n.n.prx,PPR,पुर्वं भवता,एकां सूचीं,"अतः सः तस्मिन् एव क्षणे गुरुनानकस्य समीपम् आगत्य अवदत् - "" किञ्चित् कालात् पुर्वं भवता मह्यम् एकां सूचीं दत्त्वा उक्तम् आसीत् यत् एषा अग्रिमे जन्मनि प्रत्यर्पणीया इति ।",SN,Dative first-person pronoun functioning independently as recipient.,High
+665,22,एषा,PPR.fem.sg.3.nom.i.n.n.prx,PPR,आसीत् यत्,अग्रिमे जन्मनि,"अतः सः तस्मिन् एव क्षणे गुरुनानकस्य समीपम् आगत्य अवदत् - "" किञ्चित् कालात् पुर्वं भवता मह्यम् एकां सूचीं दत्त्वा उक्तम् आसीत् यत् एषा अग्रिमे जन्मनि प्रत्यर्पणीया इति ।",SN,Independent feminine demonstrative or personal pronoun,High
+666,0,एतत्,PPR.neu.sg.3.nom.i.n.n.prx,PPR,,कथं वा,एतत् कथं वा शक्येत् ?,SN,Independent neuter demonstrative pronoun used substantively.,High
+669,15,भवान्,PPR.mas.sg.3.nom.i.n.n.prx,PPR,शक्यते सः,स्वस्य समग्रां,"तदा गुरुनानकः अपृच्छत् - "" दुलीचन्द मरणसमये येन एका सूची अपि नेतुं न शक्यते सः भवान् स्वस्य समग्रां सन्पत्तिं किं नेतुं न शक्नुयात् ?",SN,"Independent honorific personal pronoun, not modifying a noun.",High
+672,0,सः,PPR.mas.sg.3.nom.i.n.n.prx,PPR,,गृहं प्रत्यागत्य,सः गृहं प्रत्यागत्य स्वस्य सम्पतेः दानम् आरब्धवान् ।,SN,Independent personal pronoun,High
+673,3,सः,PPR.mas.sg.3.nom.i.n.n.dst,PPR,धनकनकादिकं दत्वा,गुरुनानकस्य परमभक्तः,अर्हेभ्यः धनकनकादिकं दत्वा सः गुरुनानकस्य परमभक्तः जातः ।,SN,Independent personal pronoun,High
+680,0,सः,PPR.mas.sg.3.nom.i.n.n.dst,PPR,,अत्यन्तं चतुरः,सः अत्यन्तं चतुरः ।,SN,Independent personal pronoun,High
+681,1,सः,PPR.mas.sg.3.nom.i.n.n.dst,PPR,कदाचित्,गृहे उपविश्य,कदाचित् सः गृहे उपविश्य नाणकानि गणयन् आसीत् ।,SN,Independent personal pronoun,High
+682,6,तद्,PPR.neu.sg.3.acc.ii.n.n.dst,PPR,कश्र्चन चोरः,दृष्टवान् ।,तदा एव मार्गे गच्छन् कश्र्चन चोरः तद् दृष्टवान् ।,SN,Demonstrative pronoun functions independently as the object of दृष्टवान्.,High
+683,0,सः,PPR.mas.sg.3.nom.i.n.n.dst,PPR,,मनसि एव,सः मनसि एव चिन्तितवान् यत् - ' एतस्य वणिजः समीपे बहु धनम् अस्ति ।,SN,Independent personal pronoun,High
+684,2,मया,PPR.0.sg.1.ins.iii.n.n.prx,PPR,अद्य रात्रौ,एतस्मात् गृहात्,अद्य रात्रौ मया एतस्मात् गृहात् एव चोरणीयम् ' इति ।,SN,First-person instrumental pronoun functioning independently as agent or complement,High
+686,0,तस्य,PPR.mas.sg.3.gen.vi.n.n.prx,PPR,,मनसि संशयः,तस्य मनसि संशयः उत्पन्नः ।,SNV,Genitive pronoun used possessively or modifying another expression,High
+688,2,एषः,PPR.mas.sg.3.nom.i.n.n.prx,PPR,अद्य रात्रौ,मम गृहम्,"अद्य रात्रौ एषः मम गृहम् एव आगचछति ' इति दृढं निश्र्चित्य स पत्नीम् आहूय शनैः उक्तवान् - "" भवती अद्य रात्रौ उच्च स्वरेण मां - "" भवान् धनं सर्वं कुत्र स्थापितवान् अस्ति ?",SN,Independent demonstrative pronoun functioning without a modified noun.,High
+688,3,मम,PPR.0.sg.1.gen.vi.n.n.prx,PPR,रात्रौ एषः,गृहम् एव,"अद्य रात्रौ एषः मम गृहम् एव आगचछति ' इति दृढं निश्र्चित्य स पत्नीम् आहूय शनैः उक्तवान् - "" भवती अद्य रात्रौ उच्च स्वरेण मां - "" भवान् धनं सर्वं कुत्र स्थापितवान् अस्ति ?",SNV,First-person genitive pronoun qualifying a noun,High
+688,11,स,PPR.mas.sg.3.nom.i.n.n.dst,PPR,दृढं निश्र्चित्य,पत्नीम् आहूय,"अद्य रात्रौ एषः मम गृहम् एव आगचछति ' इति दृढं निश्र्चित्य स पत्नीम् आहूय शनैः उक्तवान् - "" भवती अद्य रात्रौ उच्च स्वरेण मां - "" भवान् धनं सर्वं कुत्र स्थापितवान् अस्ति ?",SN,Independent masculine singular demonstrative pronoun used substantively.,High
+688,18,भवती,PPR.fem.sg.3.nom.i.n.n.prx,PPR,"- """,अद्य रात्रौ,"अद्य रात्रौ एषः मम गृहम् एव आगचछति ' इति दृढं निश्र्चित्य स पत्नीम् आहूय शनैः उक्तवान् - "" भवती अद्य रात्रौ उच्च स्वरेण मां - "" भवान् धनं सर्वं कुत्र स्थापितवान् अस्ति ?",SN,Independent feminine demonstrative or personal pronoun,High
+688,23,मां,PPR.0.sg.1.acc.ii.n.n.prx,PPR,उच्च स्वरेण,"- ""","अद्य रात्रौ एषः मम गृहम् एव आगचछति ' इति दृढं निश्र्चित्य स पत्नीम् आहूय शनैः उक्तवान् - "" भवती अद्य रात्रौ उच्च स्वरेण मां - "" भवान् धनं सर्वं कुत्र स्थापितवान् अस्ति ?",SN,Independent first-person personal pronoun; surrounding syntax is irregular,Medium
+688,26,भवान्,PPR.mas.sg.3.nom.i.n.n.prx,PPR,"- """,धनं सर्वं,"अद्य रात्रौ एषः मम गृहम् एव आगचछति ' इति दृढं निश्र्चित्य स पत्नीम् आहूय शनैः उक्तवान् - "" भवती अद्य रात्रौ उच्च स्वरेण मां - "" भवान् धनं सर्वं कुत्र स्थापितवान् अस्ति ?",SN,"Independent honorific personal pronoun, not modifying a noun.",High
+690,2,एकस्मिन्,PPR.neu.sg.3.loc.viii.n.n.prx,PPR,ततः वणिक्,घटे कांश्र्चित्,ततः वणिक् एकस्मिन् घटे कांश्र्चित् वृश्र्चिकान् स्थापयित्वा घटस्य मुखं वस्त्रेण पिधाय घटं गृहस्य पार्श्र्वे विद्यमानस्य निन्बवृक्षस्य शाखानां मध्ये स्थापितवान् ।,SNV,एकस्मिन् directly modifies the locative noun घटे.,High
+694,6,तं,PPR.mas.sg.3.acc.ii.n.n.dst,PPR,उच्च स्वरेण,"- ""","किञ्चित् कालानन्तरं वणिजः पत्नी उच्च स्वरेण तं - "" भोः भवान् धनं सर्वं कुत्र स्थापितवान् अस्ति ?",SN,Independent demonstrative object pronoun,Medium
+694,10,भवान्,PPR.mas.sg.3.nom.i.n.n.prx,PPR,""" भोः",धनं सर्वं,"किञ्चित् कालानन्तरं वणिजः पत्नी उच्च स्वरेण तं - "" भोः भवान् धनं सर्वं कुत्र स्थापितवान् अस्ति ?",SN,"Independent honorific personal pronoun, not modifying a noun.",High
+695,0,अहं,PPR.0.sg.1.nom.i.n.n.prx,PPR,,तु भीता,अहं तु भीता अस्मि ।,SN,First-person nominative pronoun functioning as sentence subject,High
+700,0,अस्माकं,PPR.0.pl.1.gen.vi.n.n.prx,PPR,,धनं सुरक्षितम्,अस्माकं धनं सुरक्षितम् अस्ति ।,SNV,First-person plural genitive pronoun modifying a noun,High
+701,3,सः,PPR.mas.sg.3.nom.i.n.n.dst,PPR,आगच्छति चेत्,गृहे किमपि,चोरः आगच्छति चेत् सः गृहे किमपि न प्राप्नोति ।,SN,Independent personal pronoun,High
+702,1,अहं,PPR.0.sg.1.nom.i.n.n.prx,PPR,यतः,धनं सर्वं,यतः अहं धनं सर्वं घटे संस्थाप्य तं घटं निम्बवृक्षस्य उपरि स्थापितवान् ।,SN,First-person nominative pronoun functioning as sentence subject,High
+703,4,तयोः,PPR.mas.du.2.gen.vi.n.n.dst,PPR,स्थितः चोरः,सम्भाषणं पुर्णं,गृहात् बहिः स्थितः चोरः तयोः सम्भाषणं पुर्णं श्रुतवान् ।,SNV,तयोः is a genitive dual pronoun expressing possession or association with सम्भाषणम्.,High
+704,0,सः,PPR.mas.sg.3.nom.i.n.n.dst,PPR,,मनसि एव,"सः मनसि एव चिन्तितवान् - "" एषः वणिक् बुध्दिमान् अस्ति ।",SN,Independent personal pronoun,High
+706,1,अहं,PPR.0.sg.1.nom.i.n.n.prx,PPR,किन्तु,तदपेक्षया बुध्दिमान्,किन्तु अहं तदपेक्षया बुध्दिमान् अस्मि ।,SN,First-person nominative pronoun functioning as sentence subject,High
+708,0,सः,PPR.mas.sg.3.nom.i.n.n.dst,PPR,,घटिति ततः,सः घटिति ततः निम्बवृक्षसमिपं गतवाम् ।,SN,Independent personal pronoun,High
+711,4,तम्,PPR.mas.sg.3.acc.ii.n.n.dst,PPR,तत्रत्याः वृक्षिकाः,अदशन् ।,अनुक्षणम् एव तत्रत्याः वृक्षिकाः तम् अदशन् ।,SN,Independent demonstrative object pronoun,High
+712,0,सः,PPR.mas.sg.3.nom.i.n.n.dst,PPR,,उच्चैः विलपन्,सः उच्चैः विलपन् अधः पतित्वा ततः पलायनं कृतनान् ।,SN,Independent personal pronoun,High
+717,15,तैः,PPR.mas.pl.3.ins.iii.n.n.dst,PPR,अपि शिक्षयित्वा,मनोरञ्जनकार्यक्रमं कारयन्ति,"क्रिडाचक्रिणः व्याघ्रं , सिंहं , हस्तिनम् , उष्ट्रं , भल्लूकं , शकुं च अपि शिक्षयित्वा तैः मनोरञ्जनकार्यक्रमं कारयन्ति ।",SN,Independent instrumental pronoun functioning as an agent or instrument.,High
+720,6,तव,PPR.0.sg.3.gen.vi.n.n.prx,PPR,""" सत्यं",वचनम् ।,"तदा अकबरमहाराजः उवाच - "" सत्यं तव वचनम् ।",SNV,तव directly modifies the noun वचनम् in the possessive construction तव वचनम्.,High
+722,5,मे,PPR.0.sg.1.acc.ii.n.n.prx,PPR,शक्यम् इति,"भाति ""","प्रयत्नात् सर्वं साधयितुं शक्यम् इति मे भाति "" इति ।",SN,Enclitic first-person pronoun in मे भाति,Medium
+723,1,तौ,PPR.mas.du.3.nom.i.n.n.dst,PPR,तदनन्तरं,उभौ अपि,तदनन्तरं तौ उभौ अपि कार्यमग्नौ स्वालयं गतौ ।,SNV,तौ qualifies उभौ in तौ उभौ अपि.,High
+724,7,अहं,PPR.0.sg.1.nom.i.n.n.prx,PPR,केनापि उपायेन,मार्जारं शिक्षयेय,"अकबरः मनसि निश्र्चयं कृतवान् यत् केनापि उपायेन अहं मार्जारं शिक्षयेय , बीरबलं च पराजयेय ' इति ।",SN,First-person nominative pronoun functioning as sentence subject,High
+726,4,तेन,PPR.mas.sg.3.ins.iii.n.n.dst,PPR,गुप्तरुपेण मार्जारप्रशिक्ष्णकार्यक्रमः,समारब्धः ।,सेवकस्य साहाय्येन गुप्तरुपेण मार्जारप्रशिक्ष्णकार्यक्रमः तेन समारब्धः ।,SN,Independent instrumental pronoun,High
+727,1,तान्,PPR.mas.pl.3.acc.ii.n.n.dst,PPR,सेवकः,आनयति स्म,सेवकः तान् आनयति स्म ।,SN,Accusative pronoun functioning independently as the object of आनयति.,High
+729,6,सः,PPR.mas.sg.3.nom.i.n.n.dst,PPR,च दर्शयित्वा,तान् समाह्वयति,तालिकावादनं कृत्वा प्रियभक्ष्यं दुग्धं च दर्शयित्वा सः तान् समाह्वयति स्म ।,SN,Independent personal pronoun,High
+729,7,तान्,PPR.mas.pl.3.acc.ii.n.n.prx,PPR,दर्शयित्वा सः,समाह्वयति स्म,तालिकावादनं कृत्वा प्रियभक्ष्यं दुग्धं च दर्शयित्वा सः तान् समाह्वयति स्म ।,SN,तान् is an independent masculine plural demonstrative pronoun functioning as the object.,High
+733,5,तेन,PPR.mas.sg.3.ins.iii.n.n.dst,PPR,उपक्रमः अनुतिष्ठितः,।,प्रायः षण्मासपर्यन्तम् एषः उपक्रमः अनुतिष्ठितः तेन ।,SN,Independent instrumental pronoun,High
+735,8,मे,PPR.0.sg.1.gen.vi.n.n.prx,PPR,बीरबल पश्य,"मार्जारक्रीडारङ्गम् ""","आसनस्थं बीरबलम् अकबरः अवदत् - "" बीरबल पश्य मे मार्जारक्रीडारङ्गम् "" इति ।",SNV,"मे qualifies मार्जारक्रीडारङ्गम्, expressing possession.",High
+739,4,अहं,PPR.0.sg.1.nom.i.n.n.prx,PPR,एवम् एव,मार्जारमस्तके स्थापितदीपप्रकाशे,किम् प्रतिदिनं एवम् एव अहं मार्जारमस्तके स्थापितदीपप्रकाशे भोजनं करोमि ।,SN,First-person nominative pronoun functioning as sentence subject,High
+744,7,तैः,PPR.mas.pl.3.ins.iii.n.n.dst,PPR,एव उत्प्लुत्य,सः आक्रान्तः,"मार्जारैः पलायमानः मूषकः दृष्टः झटिति एव उत्प्लुत्य तैः सः आक्रान्तः , भक्षितः च ।",SN,Independent instrumental pronoun functioning as an agent or instrument.,High
+744,8,सः,PPR.mas.sg.3.0.i.n.n.dst,PPR,उत्प्लुत्य तैः,"आक्रान्तः ,","मार्जारैः पलायमानः मूषकः दृष्टः झटिति एव उत्प्लुत्य तैः सः आक्रान्तः , भक्षितः च ।",SN,Independent personal pronoun,High
+745,0,तेषां,PPR.mas.pl.3.gen.vi.n.n.dst,PPR,,मस्तकेषु स्थापिताः,तेषां मस्तकेषु स्थापिताः दीपाः परिभ्रष्टाः ।,SNV,Genitive demonstrative pronoun dependent on a noun.,High
+748,6,एतेषां,PPR.mas.pl.3.gen.vi.n.n.prx,PPR,तावत् एव,स्थिरता ।,यावत् मूषकः न दृष्टः तावत् एव एतेषां स्थिरता ।,SNV,Genitive pronoun एतेषां qualifies स्थिरता.,High
+751,6,मे,PPR.0.sg.1.gen.vi.n.n.prx,PPR,२००५ पश्य,रुपाणि म.,"युगाब्दः ५१०७ कार्त्तिकमासः अक्टोबर् २००५ पश्य मे रुपाणि म. वि. कोल्हटकरः ,",SNV,First-person genitive pronoun qualifying a noun,High
+758,0,सः,PPR.mas.sg.3.nom.i.n.n.dst,PPR,,प्रतिदिनं श्रीविठ्ठलस्य,"सः प्रतिदिनं श्रीविठ्ठलस्य पूजनं करोति , भजनं करोति च ।",SN,Independent personal pronoun,High
+759,0,स,PPR.mas.sg.3.nom.i.n.n.dst,PPR,,प्रतिदिनं वदति,"स प्रतिदिनं वदति - "" श्रीविठलः मम चिन्तां कुर्यात् मम क्षेमं साधयेत् ।",SN,Independent masculine singular demonstrative pronoun used substantively.,High
+759,6,मम,PPR.0.sg.1.gen.vi.n.n.prx,PPR,""" श्रीविठलः",चिन्तां कुर्यात्,"स प्रतिदिनं वदति - "" श्रीविठलः मम चिन्तां कुर्यात् मम क्षेमं साधयेत् ।",SNV,First-person genitive pronoun qualifying a noun,High
+759,9,मम,PPR.0.sg.1.gen.vi.n.n.prx,PPR,चिन्तां कुर्यात्,क्षेमं साधयेत्,"स प्रतिदिनं वदति - "" श्रीविठलः मम चिन्तां कुर्यात् मम क्षेमं साधयेत् ।",SNV,First-person genitive pronoun qualifying a noun,High
+760,0,मया,PPR.0.sg.1.ins.iii.n.n.prx,PPR,,किमपि कर्त्तव्यं,मया किमपि कर्त्तव्यं न विद्यते ।,SN,First-person instrumental pronoun functioning independently as agent or complement,High
+761,2,मम,PPR.0.sg.1.gen.vi.n.n.prx,PPR,श्रीविठ्ठलः एव,त्राता रक्षणकर्ता,"श्रीविठ्ठलः एव मम त्राता रक्षणकर्ता च "" इति ।",SNV,First-person genitive pronoun qualifying a noun,High
+769,0,सः,PPR.mas.sg.3.nom.i.n.n.dst,PPR,,चिन्तयति ',"सः चिन्तयति ' विठ्ठलः एव मां रक्षिष्यति , मया चिन्ता करणीया न अस्ति ' इति ।",SN,Independent personal pronoun,High
+769,5,मां,PPR.0.sg.1.acc.ii.n.n.prx,PPR,विठ्ठलः एव,"रक्षिष्यति ,","सः चिन्तयति ' विठ्ठलः एव मां रक्षिष्यति , मया चिन्ता करणीया न अस्ति ' इति ।",SN,Independent first-person personal pronoun,High
+769,8,मया,PPR.0.sg.1.ins.iii.n.n.prx,PPR,"रक्षिष्यति ,",चिन्ता करणीया,"सः चिन्तयति ' विठ्ठलः एव मां रक्षिष्यति , मया चिन्ता करणीया न अस्ति ' इति ।",SN,First-person instrumental pronoun functioning independently as agent or complement,High
+775,10,मम,PPR.0.sg.1.gen.vi.n.n.prx,PPR,""" श्रीविठ्ठलः",रक्षणकर्ता ।,""" श्रीपतिः तु यानचलकस्य प्रार्थनां तिरस्कुर्वन् अवदत् - "" श्रीविठ्ठलः मम रक्षणकर्ता ।",SNV,First-person genitive pronoun qualifying a noun,High
+776,0,सः,PPR.mas.sg.3.nom.i.n.n.dst,PPR,,मां निश्र्चयेन,"सः मां निश्र्चयेन रक्षिष्यति "" इति ।",SN,Independent personal pronoun,High
+776,1,मां,PPR.0.sg.1.acc.ii.n.n.prx,PPR,सः,निश्र्चयेन रक्षिष्यति,"सः मां निश्र्चयेन रक्षिष्यति "" इति ।",SN,Independent first-person personal pronoun,High
+787,4,मां,PPR.0.sg.1.acc.ii.n.n.prx,PPR,ष्रीविठ्ठलः एव,रक्षिष्यति ।,""" "" ष्रीविठ्ठलः एव मां रक्षिष्यति ।",SN,Independent first-person personal pronoun,High
+803,0,सः,PPR.mas.sg.3.nom.i.n.n.dst,PPR,,पूर्वोक्तम् एव,सः पूर्वोक्तम् एव वचनं पुनः अश्रावयत् ।,SN,Independent personal pronoun,High
+804,0,सः,PPR.mas.sg.3.nom.i.n.n.dst,PPR,,अवदत् -,"सः अवदत् - "" साक्षात् श्रीविठ्ठलः आगमिष्यति ।",SN,Independent personal pronoun,High
+805,0,सः,PPR.mas.sg.3.nom.i.n.n.dst,PPR,,मां रक्षष्यति,सः मां रक्षष्यति ।,SN,Independent personal pronoun,High
+805,1,मां,PPR.0.sg.1.acc.ii.n.n.prx,PPR,सः,रक्षष्यति ।,सः मां रक्षष्यति ।,SN,Independent first-person personal pronoun,High
+806,2,तव,PPR.0.sg.2.gen.vi.n.n.prx,PPR,रे यानचालक,सेवा न,"रे यानचालक तव सेवा न आवश्यकि "" इति ।",SNV,Second-person genitive pronoun functioning as a possessive modifier of a noun.,High
+811,0,सः,PPR.mas.sg.3.nom.i.n.n.dst,PPR,,कोपेन अवदत्,"सः कोपेन अवदत् - "" हे विठ्ठल वृथा कृता त्वयि भक्तिः मया ।",SN,Independent personal pronoun,High
+811,9,त्वयि,PPR.mas.sg.2.loc.vii.n.n.prx,PPR,वृथा कृता,भक्तिः मया,"सः कोपेन अवदत् - "" हे विठ्ठल वृथा कृता त्वयि भक्तिः मया ।",SN,त्वयि is an independent second-person pronoun in the locative construction भक्तिः त्वयि.,High
+811,11,मया,PPR.0.sg.1.ins.iii.n.n.prx,PPR,त्वयि भक्तिः,।,"सः कोपेन अवदत् - "" हे विठ्ठल वृथा कृता त्वयि भक्तिः मया ।",SN,First-person instrumental pronoun functioning independently as agent or complement,High
+812,3,त्वयि,PPR.0.sg.2.loc.vii.n.n.prx,PPR,एव विश्र्वासः,निहितः ।,वृथा एव विश्र्वासः त्वयि निहितः ।,SN,त्वयि functions independently as the complement of विश्र्वासः.,High
+813,0,अहं,PPR.0.sg.1.nom.i.n.n.prx,PPR,,वञ्चितः अभवम्,अहं वञ्चितः अभवम् ।,SN,First-person nominative pronoun functioning as sentence subject,High
+814,0,मम,PPR.0.sg.1.gen.vi.n.n.prx,PPR,,रक्षणं त्वया,मम रक्षणं त्वया न कृतम् ।,SNV,First-person genitive pronoun qualifying a noun,High
+814,2,त्वया,PPR.0.sg.2.ins.iii.n.n.prx,PPR,मम रक्षणं,न कृतम्,मम रक्षणं त्वया न कृतम् ।,SN,त्वया functions independently as the agent of न कृतम्.,High
+816,11,तव,PPR.0.sg.2.gen.vi.n.n.prx,PPR,", ध्वन्धावन्",रक्षणार्थम् अहम्,"श्रीविठ्ठलः श्रीपतेः वचनं श्रुत्वा स्मयमानः अवदत् - "" प्रियभक्त , ध्वन्धावन् तव रक्षणार्थम् अहम् आगतवान् एव ।",SNV,Second-person genitive pronoun functioning as a possessive modifier of a noun.,High
+816,13,अहम्,PPR.0.sg.1.nom.i.n.n.prx,PPR,तव रक्षणार्थम्,आगतवान् एव,"श्रीविठ्ठलः श्रीपतेः वचनं श्रुत्वा स्मयमानः अवदत् - "" प्रियभक्त , ध्वन्धावन् तव रक्षणार्थम् अहम् आगतवान् एव ।",SN,First-person nominative pronoun functioning as sentence subject,High
+820,2,मया,PPR.0.sg.1.ins.iii.n.n.prx,PPR,""" कथं",भवान् न,""" कथं मया भवान् न दृष्टः ?",SN,First-person instrumental pronoun functioning independently as agent or complement,High
+820,3,भवान्,PPR.mas.sg.3.nom.i.n.n.prx,PPR,कथं मया,न दृष्टः,""" कथं मया भवान् न दृष्टः ?",SN,"Independent honorific personal pronoun, not modifying a noun.",High
+821,14,अहम्,PPR.0.sg.1.nom.i.n.n.prx,PPR,च सह,आगतवान् ।,""" "" एकदा जीपयानं गृहीत्वा , पश्र्चात् नौकाम् आनीय , अनन्तरं लघुवातयानेन च सह अहम् आगतवान् ।",SN,First-person nominative pronoun functioning as sentence subject,High
+822,5,मया,PPR.0.sg.1.ins.iii.n.n.prx,PPR,न ज्ञातं,?,""" "" कथं न ज्ञातं मया ?",SN,First-person instrumental pronoun functioning independently as agent or complement,High
+823,4,ते,PPR.0.sg.2.gen.vi.n.n.prx,PPR,भक्त न,दृष्टिः उचिता,""" "" भक्त न ते दृष्टिः उचिता ।",SNV,Second-person genitive pronoun functioning as a possessive modifier of a noun.,High
+824,0,अहं,PPR.0.sg.1.nom.i.n.n.prx,PPR,,केन अपि,अहं केन अपि रुपेण आगच्छामि ।,SN,First-person nominative pronoun functioning as sentence subject,High
+825,0,भवता,PPR.mas.sg.3.ins.iii.n.n.prx,PPR,,अहं ज्ञातव्यः,"भवता अहं ज्ञातव्यः , द्रष्टव्यः , श्रोतव्यः च ।",SN,Independent instrumental pronoun functioning as an agent or instrument.,High
+825,1,अहं,PPR.0.sg.1.nom.i.n.n.prx,PPR,भवता,"ज्ञातव्यः ,","भवता अहं ज्ञातव्यः , द्रष्टव्यः , श्रोतव्यः च ।",SN,First-person nominative pronoun functioning as sentence subject,High
+826,1,एतत्,PPR.neu.sg.3.acc.ii.n.n.prx,PPR,"""",श्रुत्वा श्रीपतिः,""" एतत् श्रुत्वा श्रीपतिः अनुतापम् अकरोत् ।",SN,Independent neuter demonstrative pronoun functioning substantively.,High
+828,6,तम्,PPR.mas.sg.3.acc.ii.n.n.dst,PPR,बुध्दया संयोजयन्ति,॥,यं तु रक्षितुम् इच्छन्ति बुध्दया संयोजयन्ति तम् ॥,SN,Correlative demonstrative pronoun,High
+841,5,तस्याः,PPR.fem.sg.3.gen.vi.n.n.dst,PPR,न्यूनतां निमित्तीकृत्य,स्थिरनियुक्तिः निराकृता,किन्तु अग्रे छात्रसङ्ख्यायाः न्यूनतां निमित्तीकृत्य तस्याः स्थिरनियुक्तिः निराकृता महाविद्यालयेन ।,SNV,Feminine genitive demonstrative pronoun modifying or possessing a noun.,High
+847,1,तेषाम्,PPR.mas.pl.3.gen.vi.n.n.dst,PPR,किन्तु,एव निर्माणं,किन्तु तेषाम् एव निर्माणं सर्वकारस्य लक्ष्यं न स्यात् ।,SNV,Genitive demonstrative pronoun dependent on a noun.,High
+852,1,तस्य,PPR.neu.sg.3.gen.vi.n.n.dst,PPR,अतः,रक्षणस्य विषये,"अतः तस्य रक्षणस्य विषये उपेक्षा सर्वथा न शोभते "" इति ।",SNV,तस्य expresses possession or association with रक्षणस्य.,High
+853,6,तेषां,PPR.mas.pl.3.gen.vi.n.n.dst,PPR,प्राध्यापकाः विरलाः,विषये सर्वकारस्य,""" संस्कृतशिक्षणार्थं सपपिर्तजीवनाः ध्येयवादिनः प्राध्यापकाः विरलाः तेषां विषये सर्वकारस्य उपेक्षा न स्यात् ।",SNV,Genitive demonstrative pronoun dependent on a noun.,High
+854,0,तेषां,PPR.mas.pl.3.gen.vi.n.n.dst,PPR,,वेतनार्थम् अनुदानदानस्य,"तेषां वेतनार्थम् अनुदानदानस्य व्यवस्थायाः स्थगनं यथा न स्यात् तथा सर्वाकारेण सामञ्जस्यप्रवृत्तिः दर्शनीया "" इति तेन खण्डपीठेन सर्वकारः बोधितः अस्ति ।",SNV,Genitive demonstrative pronoun dependent on a noun.,High
+854,14,तेन,PPR.mas.sg.3.ins.iii.n.n.dst,PPR,""" इति",खण्डपीठेन सर्वकारः,"तेषां वेतनार्थम् अनुदानदानस्य व्यवस्थायाः स्थगनं यथा न स्यात् तथा सर्वाकारेण सामञ्जस्यप्रवृत्तिः दर्शनीया "" इति तेन खण्डपीठेन सर्वकारः बोधितः अस्ति ।",SNV,Instrumental demonstrative modifying a noun,High
+858,0,सः,PPR.mas.sg.3.nom.i.n.n.dst,PPR,,वटवृक्षस्य अधः,सः वटवृक्षस्य अधः एकं जालं प्रसारयत् ।,SN,Independent personal pronoun,High
+859,0,तस्य,PPR.mas.sg.3.gen.vi.n.n.dst,PPR,,जालस्य उपरि,तस्य जालस्य उपरि तण्डुलान् प्रक्षिप्य वृक्षात् किञ्चिद् दूरं गत्वा तूष्णीम् उपाविशत् ।,SNV,Third-person genitive demonstrative used possessively with a noun,High
+861,0,तस्य,PPR.mas.sg.3.gen.vi.n.n.dst,PPR,,परिवारे सहस्रं,तस्य परिवारे सहस्रं कपोताः आसन् ।,SNV,Third-person genitive demonstrative used possessively with a noun,High
+864,9,यूयम्,PPR.0.pl.2.nom.i.n.n.prx,PPR,"- """,सर्वे जालम्,"आयान्तं तं व्याधं दृष्ट्वा चित्रग्रीवः कपोतान् आदिशत् - "" यूयम् सर्वे जालम् आदाय आकाशे उत्पतत् ।",SN,यूयम् functions independently as the second-person plural subject.,High
+868,2,तेषाम्,PPR.mas.pl.3.gen.vi.n.n.dst,PPR,परं व्याधः,अनुसरणे असमर्थः,परं व्याधः तेषाम् अनुसरणे असमर्थः अभवत् नैराश्यात् च न्यवर्तत् ।,SNV,Genitive pronoun dependent on the verbal noun अनुसरणे; objective relationship.,Medium
+869,10,मम,PPR.0.sg.1.gen.vi.n.n.prx,PPR,एकः मूषकः,मित्रम् अस्ति,"तदा चित्रग्रीवेण कपोतान् प्रत्युक्तम् - "" हिरण्यकः नाम एकः मूषकः मम मित्रम् अस्ति ।",SNV,First-person genitive pronoun qualifying a noun,High
+870,0,सः,PPR.mas.sg.3.nom.i.n.n.dst,PPR,,इदं जालं,सः इदं जालं कर्तिष्यति ।,SN,Independent personal pronoun,High
+871,1,एतत्,PPR.neu.sg.3.nom.i.n.n.prx,PPR,"""",श्रुत्वा सर्वे,""" एतत् श्रुत्वा सर्वे जालबद्धाः कपोताः हिरण्यकस्य सकाशम् आगच्छन् ।",SN,Independent neuter demonstrative pronoun used substantively.,High
+878,0,इदं,PPR.neu.sg.3.nom.i.n.n.prx,PPR,,कथ्यते यत्,इदं कथ्यते यत् अस्मिन् दिवसे रावणं हत्वा रामः सीतया लक्ष्मणेन च सह अयोध्यां प्रत्यागच्छत् ।,SN,Independent neuter demonstrative pronoun used substantively.,High
+880,1,ते,PPR.mas.pl.3.nom.i.n.n.dst,PPR,अतः,स्वानि गृहाणि,अतः ते स्वानि गृहाणि दीपानां मालाभिः आलोकयन् ।,SN,Independent masculine plural demonstrative pronoun used substantively.,High
+883,0,ते,PPR.mas.pl.3.nom.i.n.n.dst,PPR,,स्वमित्रेभ्यः बन्धुभ्यः,ते स्वमित्रेभ्यः बन्धुभ्यः च मिष्टान्नानि प्रेषयन्ति ।,SN,Independent masculine plural demonstrative pronoun used substantively.,High
+893,0,एषा,PPR.fem.sg.3.nom.i.n.n.prx,PPR,,सर्वासु नदीषु,एषा सर्वासु नदीषु श्रेष्ठा पवित्रतमा च अस्ति ।,SN,Independent feminine demonstrative or personal pronoun,High
+895,10,सः,PPR.mas.sg.3.nom.i.n.n.dst,PPR,च प्रभावेण,गङ्गां स्वर्गात्,भगीरथः नाम नृपः पूर्वजानाम् उद्धाराय तपस्याम् अकरोत् तपस्यायाः च प्रभावेण सः गङ्गां स्वर्गात् धरायाम् अवतारयितुं समर्थः अभवत् ।,SN,Independent personal pronoun,High
+896,2,इमां,PPR.fem.sg.3.acc.ii.n.n.prx,PPR,अतः एव,जनाः भागीरथी,अतः एव इमां जनाः भागीरथी इति अपि कथयन्ति ।,SN,Demonstrative pronoun functioning independently as the object of कथयन्ति.,High
+897,0,ते,PPR.mas.pl.3.nom.i.n.n.dst,PPR,,अस्याः जलम्,ते अस्याः जलम् अत्यधिकं पावनं मन्यन्ते ।,SN,Independent masculine plural demonstrative pronoun used substantively.,High
+897,1,अस्याः,PPR.fem.sg.3.gen.vi.n.n.prx,PPR,ते,जलम् अत्यधिकं,ते अस्याः जलम् अत्यधिकं पावनं मन्यन्ते ।,SNV,Genitive demonstrative pronoun expressing possession or relation to a noun,High
+898,3,अस्यां,PPR.fem.sg.3.loc.vii.n.n.prx,PPR,श्रद्धालुजनाः प्रतिदिनम्,स्नानं कुर्वन्ति,बहवः श्रद्धालुजनाः प्रतिदिनम् अस्यां स्नानं कुर्वन्ति इमां च पूजयन्ति ।,SN,अस्यां functions independently as a locative pronoun referring to the river.,High
+898,6,इमां,PPR.fem.sg.3.acc.ii.n.n.prx,PPR,स्नानं कुर्वन्ति,च पूजयन्ति,बहवः श्रद्धालुजनाः प्रतिदिनम् अस्यां स्नानं कुर्वन्ति इमां च पूजयन्ति ।,SN,Demonstrative pronoun functioning independently as an object of पूजयन्ति.,Medium
+899,0,अस्याः,PPR.fem.sg.3.gen.vi.n.n.prx,PPR,,तटे हरिद्वार-ऋषिकेष-प्रयाग-वाराणसी-इत्यादीनि,अस्याः तटे हरिद्वार-ऋषिकेष-प्रयाग-वाराणसी-इत्यादीनि अनेकानि तीर्थस्थानानि सन्ति ।,SNV,Genitive demonstrative pronoun expressing possession or relation to a noun,High
+900,8,अस्याः,PPR.fem.pl.3.gen.vi.n.n.prx,PPR,तीर्थस्थानेषु आगत्य,पावनजलेन स्नानं,प्रतिवर्षं पुण्येषु पर्वेसु लक्षाणि जनाः एषु तीर्थस्थानेषु आगत्य अस्याः पावनजलेन स्नानं कृत्वा दुरितानि दूरीकुर्वन्ति ।,SNV,अस्याः is a genitive pronoun associated with the noun पावनजलेन.,Medium
+901,1,अस्याः,PPR.fem.sg.3.gen.vi.n.n.prx,PPR,यन्त्रकाराः,जलम् अवरुद्ध्य,यन्त्रकाराः अस्याः जलम् अवरुद्ध्य सेतुं बद्ध्वा महाजलाषयेषु जलसञ्चयं कुर्वन्ति ।,SNV,Genitive demonstrative pronoun expressing possession or relation to a noun,High
+905,0,अस्याः,PPR.fem.sg.3.gen.vi.n.n.prx,PPR,,जलेन विद्युत्,अस्याः जलेन विद्युत् अपि उत्पन्ना भवति ।,SNV,Genitive demonstrative pronoun expressing possession or relation to a noun,High
+906,0,इयं,PPR.fem.sg.3.nom.i.n.n.prx,PPR,,दूरदर्शन-ध्वनिविक्षेपक-शीतकैत्यादीनि यन्त्राणि,इयं दूरदर्शन-ध्वनिविक्षेपक-शीतकैत्यादीनि यन्त्राणि सञ्चालयति विविधानां च पण्यानां वस्तूनां निर्माणे सहायिका भवति ।,SN,Independent feminine demonstrative or personal pronoun,High
+910,5,सः,PPR.mas.sg.3.nom.i.n.n.dst,PPR,यः जानाति,पण्डितः ॥,अमुखः स्फुटवक्ता च यः जानाति सः पण्डितः ॥,SN,Independent personal pronoun,High
+913,4,सः,PPR.mas.sg.3.nom.i.n.n.dst,PPR,यः जानाति,पण्डितः ॥,अकारादिः सकारान्तं यः जानाति सः पण्डितः ॥,SN,Independent personal pronoun,High
+915,1,तस्य,PPR.mas.sg.3.gen.vi.n.n.dst,PPR,न,आदिः न,न तस्य आदिः न तस्य अन्तः मध्ये तत् तस्य तिष्ठति ।,SNV,Third-person genitive demonstrative used possessively with a noun,High
+915,4,तस्य,PPR.mas.sg.3.gen.vi.n.n.dst,PPR,आदिः न,अन्तः मध्ये,न तस्य आदिः न तस्य अन्तः मध्ये तत् तस्य तिष्ठति ।,SNV,Third-person genitive demonstrative used possessively with a noun,High
+915,7,तत्,PPR.neu.sg.3.0.i.n.n.dst,PPR,अन्तः मध्ये,तस्य तिष्ठति,न तस्य आदिः न तस्य अन्तः मध्ये तत् तस्य तिष्ठति ।,SN,Independent demonstrative pronoun used substantively.,High
+915,8,तस्य,PPR.mas.sg.3.gen.vi.n.n.dst,PPR,मध्ये तत्,तिष्ठति ।,न तस्य आदिः न तस्य अन्तः मध्ये तत् तस्य तिष्ठति ।,SN,Independent genitive pronoun in 'तत् तस्य तिष्ठति',Medium
+916,0,तव,PPR.0.sg.2.gen.vi.n.n.prx,PPR,,अपि अस्ति,तव अपि अस्ति मम् अपि अस्ति यदि जानासि तद् वद ॥,SN,Independent substantival possessive pronoun in the construction तव अपि अस्ति मम अपि अस्ति.,Medium
+916,3,मम्,PPR.0.sg.1.gen.vi.n.n.prx,PPR,अपि अस्ति,अपि अस्ति,तव अपि अस्ति मम् अपि अस्ति यदि जानासि तद् वद ॥,SN,मम् functions independently in the elliptical expression मम अपि अस्ति.,Medium
+926,1,सः,PPR.mas.sg.3.nom.i.n.n.dst,PPR,एकदा,क्षुधापीडितः इतस्ततः,एकदा सः क्षुधापीडितः इतस्ततः विचरन् नगरान्तरे प्राविशत् ।,SN,Independent personal pronoun,High
+927,1,सः,PPR.mas.sg.3.nom.i.n.n.dst,PPR,तत्र,एकस्मिन् महापात्रे,तत्र सः एकस्मिन् महापात्रे अपतत् ।,SN,Independent personal pronoun,High
+929,1,सः,PPR.mas.sg.3.nom.i.n.n.dst,PPR,यावत्,तस्मात् पात्रात्,यावत् सः तस्मात् पात्रात् बहिः आगच्छत् तावत् पूर्णरूपेण नीलवर्णः अभवत् ।,SN,Independent personal pronoun,High
+932,0,तेषां,PPR.mas.pl.3.gen.vi.n.n.dst,PPR,,भयाकुलानां पशूनां,"तेषां भयाकुलानां पशूनां समीपे गत्वा चण्डरवः अभणत् - "" यूयम् मां दृष्ट्वा मा त्रस्यत ।",SNV,Genitive demonstrative pronoun dependent on a noun.,High
+932,9,यूयम्,PPR.0.pl.2.nom.i.n.n.prx,PPR,"- """,मां दृष्ट्वा,"तेषां भयाकुलानां पशूनां समीपे गत्वा चण्डरवः अभणत् - "" यूयम् मां दृष्ट्वा मा त्रस्यत ।",SN,यूयम् functions independently as the second-person plural subject.,High
+932,10,मां,PPR.0.sg.1.acc.ii.n.n.prx,PPR,""" यूयम्",दृष्ट्वा मा,"तेषां भयाकुलानां पशूनां समीपे गत्वा चण्डरवः अभणत् - "" यूयम् मां दृष्ट्वा मा त्रस्यत ।",SN,Independent first-person personal pronoun,High
+933,0,अहं,PPR.0.sg.1.nom.i.n.n.prx,PPR,,वनदेवतया एतस्य,अहं वनदेवतया एतस्य वनस्य नृपतिरूपेण नियुक्तः अस्मि ।,SN,First-person nominative pronoun functioning as sentence subject,High
+934,0,सा,PPR.fem.sg.3.nom.i.n.n.dst,PPR,,माम् आदिशत्,सा माम् आदिशत् यत् एतस्मिन् वने पशूनां कः अपि नृपः न अस्ति ।,SN,Independent feminine demonstrative pronoun,High
+934,1,माम्,PPR.0.sg.1.acc.ii.n.n.prx,PPR,सा,आदिशत् यत्,सा माम् आदिशत् यत् एतस्मिन् वने पशूनां कः अपि नृपः न अस्ति ।,SN,Independent first-person personal pronoun,High
+935,2,त्वं,PPR.0.sg.2.nom.i.n.n.prx,PPR,तत्र गत्वा,तान् सर्वान्,तत्र गत्वा त्वं तान् सर्वान् पशून् परिपालय ।,SN,Independent second-person personal pronoun,High
+935,3,तान्,PPR.mas.pl.3.acc.ii.n.n.dst,PPR,गत्वा त्वं,सर्वान् पशून्,तत्र गत्वा त्वं तान् सर्वान् पशून् परिपालय ।,SNV,Demonstrative pronoun modifies the noun पशून् in तान् सर्वान् पशून्.,High
+936,2,अहम्,PPR.0.sg.1.nom.i.n.n.prx,PPR,अतः एव,अत्र आगतः,अतः एव अहम् अत्र आगतः अस्मि ।,SN,First-person nominative pronoun functioning as sentence subject,High
+937,1,एतत्,PPR.neu.sg.3.acc.ii.n.n.prx,PPR,"""",श्रुत्वा सर्वे,""" एतत् श्रुत्वा सर्वे पशवः तम् चण्डरवम् प्रणम्य अकथयन् - "" यः आज्ञापयति देवः ।",SN,Independent neuter demonstrative pronoun functioning substantively.,High
+939,5,सः,PPR.mas.sg.3.nom.i.n.n.dst,PPR,शृगालैः सह,आलापमात्रम् अपि,परम् अन्यैः आत्मीयैः शृगालैः सह सः आलापमात्रम् अपि न अकरोत् सर्वे च ते शृगालाः तेन दूरीकृताः ।,SN,Independent personal pronoun,High
+939,14,तेन,PPR.mas.sg.3.ins.iii.n.n.dst,PPR,ते शृगालाः,दूरीकृताः ।,परम् अन्यैः आत्मीयैः शृगालैः सह सः आलापमात्रम् अपि न अकरोत् सर्वे च ते शृगालाः तेन दूरीकृताः ।,SN,Independent instrumental pronoun,High
+941,3,सः,PPR.mas.sg.3.nom.i.n.n.dst,PPR,शृगालरवं श्रुत्वा,अपि तथा,तम् शृगालरवं श्रुत्वा सः अपि तथा एव शब्दम् अकरोत् ।,SN,Independent personal pronoun,High
+942,0,तस्य,PPR.mas.sg.3.gen.vi.n.n.dst,PPR,,शृगालसदृशं ध्वनिं,तस्य शृगालसदृशं ध्वनिं श्रुत्वा सिंहादयः अपि ` शृगालः अयम् ' इति ज्ञात्वा तं खण्डशः अकुर्वन् ।,SNV,Third-person genitive demonstrative used possessively with a noun,High
+942,12,तं,PPR.mas.sg.3.acc.ii.n.n.dst,PPR,इति ज्ञात्वा,खण्डशः अकुर्वन्,तस्य शृगालसदृशं ध्वनिं श्रुत्वा सिंहादयः अपि ` शृगालः अयम् ' इति ज्ञात्वा तं खण्डशः अकुर्वन् ।,SN,Independent demonstrative object pronoun,High
+944,0,सः,PPR.mas.sg.3.0.i.n.n.dst,PPR,,परैः हन्यते,सः परैः हन्यते मूढः नीलवर्णशृगालवत् ॥,SN,Independent personal pronoun,High
+944,1,परैः,PPR.mas.pl.3.ins.iii.n.n.dst,PPR,सः,हन्यते मूढः,सः परैः हन्यते मूढः नीलवर्णशृगालवत् ॥,SN,Independent instrumental pronoun functioning as an agent or instrument.,High
+946,13,त्वम्,PPR.0.sg.2.nom.i.n.n.prx,PPR,"- """,असि भारतदेशस्य,"अस्मिन् अवसरे भारतदेशस्य प्रधानमन्त्री श्री अटलबिहारी वाजपेयी दूरभाषेण सिडनीनगरे मल्लेश्वरीम् अकथयत् - "" त्वम् असि भारतदेशस्य गौरवम् ।",SN,Independent second-person personal pronoun,High
+947,1,एतत्,PPR.neu.sg.3.nom.i.n.n.prx,PPR,"""",श्रुत्वा कस्य,""" एतत् श्रुत्वा कस्य जनस्य रोमहर्षणं न संजायते ?",SN,Independent neuter demonstrative pronoun used substantively.,High
+949,0,अस्याः,PPR.fem.sg.3.gen.vi.n.n.prx,PPR,,पितुः नाम,अस्याः पितुः नाम करनमनोहरः मातुः च नाम श्यामला अस्ति ।,SNV,Genitive demonstrative pronoun expressing possession or relation to a noun,High
+950,2,अस्याः,PPR.fem.sg.3.gen.vi.n.n.prx,PPR,माता श्यामला,सदैव उत्साहसंवर्धनम्,माता श्यामला अस्याः सदैव उत्साहसंवर्धनम् अकरोत् ।,SNV,Genitive demonstrative pronoun expressing possession or relation to a noun,High
+951,1,इयं,PPR.fem.sg.3.nom.i.n.n.prx,PPR,यदा,भारोत्तोलनस्य अभ्यासं,यदा इयं भारोत्तोलनस्य अभ्यासं करोति स्म तदा सा स्वसुतायाः भोजनस्य समुचितां व्यवस्थाम् अकरोत् ।,SN,Independent feminine demonstrative or personal pronoun,High
+951,7,सा,PPR.fem.sg.3.nom.i.n.n.dst,PPR,स्म तदा,स्वसुतायाः भोजनस्य,यदा इयं भारोत्तोलनस्य अभ्यासं करोति स्म तदा सा स्वसुतायाः भोजनस्य समुचितां व्यवस्थाम् अकरोत् ।,SN,Independent feminine demonstrative pronoun,High
+952,6,एषा,PPR.fem.sg.3.nom.i.n.n.prx,PPR,तदा प्रभृति,अमूदवलासानगरे उसावनीपेराग्रामे,यदा मल्लेश्वरी नववर्षीया आसीत् तदा प्रभृति एषा अमूदवलासानगरे उसावनीपेराग्रामे भारोत्तोलनस्य अभ्यासं प्रारभत ।,SN,Independent feminine demonstrative or personal pronoun,High
+953,2,अस्याः,PPR.fem.sg.3.gen.vi.n.n.prx,PPR,नीलमसेट्टी आपन्ना,प्रशिक्षकः आसीत्,नीलमसेट्टी आपन्ना अस्याः प्रशिक्षकः आसीत् ।,SNV,Genitive demonstrative pronoun expressing possession or relation to a noun,High
+954,1,अस्याः,PPR.fem.sg.3.gen.vi.n.n.prx,PPR,रूसदेशीयः,अपरः प्रशिक्षकः,रूसदेशीयः अस्याः अपरः प्रशिक्षकः रियाबोंको भारोत्तोलने अस्याः रुचिम् एकाग्रतां च भृशं प्राशंसत् ।,SNV,Genitive demonstrative pronoun expressing possession or relation to a noun,High
+954,6,अस्याः,PPR.fem.sg.3.gen.vi.n.n.prx,PPR,रियाबोंको भारोत्तोलने,रुचिम् एकाग्रतां,रूसदेशीयः अस्याः अपरः प्रशिक्षकः रियाबोंको भारोत्तोलने अस्याः रुचिम् एकाग्रतां च भृशं प्राशंसत् ।,SNV,Genitive demonstrative pronoun expressing possession or relation to a noun,High
+955,1,सा,PPR.fem.sg.3.nom.i.n.n.dst,PPR,एकदा,भारोत्तोलनप्रसंगे जवाहरलालनेहरूक्रीडाप्राङ्गणम्,एकदा सा भारोत्तोलनप्रसंगे जवाहरलालनेहरूक्रीडाप्राङ्गणम् अगच्छत् ।,SN,Independent feminine demonstrative pronoun,High
+956,1,तस्या,PPR.fem.sg.3.gen.vi.n.n.dst,PPR,तत्र,परिचयः एकेन,तत्र तस्या परिचयः एकेन भारोत्तोलकेन राजेशत्यागीनामकेन युवकेन सह अभवत् ।,SNV,Feminine genitive demonstrative pronoun modifying or possessing a noun.,High
+957,0,तेन,PPR.mas.sg.3.ins.iii.n.n.dst,PPR,,सह अस्याः,तेन सह अस्याः परिणयः अभवत् ।,SN,Independent instrumental pronoun,High
+957,2,अस्याः,PPR.fem.sg.3.gen.vi.n.n.prx,PPR,तेन सह,परिणयः अभवत्,तेन सह अस्याः परिणयः अभवत् ।,SNV,Genitive demonstrative pronoun expressing possession or relation to a noun,High
+959,4,सा,PPR.fem.sg.3.nom.i.n.n.dst,PPR,उदयपुरे युवककनिष्ठराष्ट्रियस्पर्धासु,रजतपदकं लब्धवती,१९९०तमे वर्षे उदयपुरे युवककनिष्ठराष्ट्रियस्पर्धासु सा रजतपदकं लब्धवती ।,SN,Independent feminine demonstrative pronoun,High
+961,2,सा,PPR.fem.sg.3.nom.i.n.n.dst,PPR,१९९४तमे वर्षे,चीनदेशे त्रीन्,१९९४तमे वर्षे सा चीनदेशे त्रीन् स्वर्णपदकान् लब्धवती ।,SN,Independent feminine demonstrative pronoun,High
+962,5,सा,PPR.fem.sg.3.nom.i.n.n.dst,PPR,कोरियादेशे अपि,त्रीन् स्वर्णपदकान्,अस्मिन् एव वर्षे कोरियादेशे अपि सा त्रीन् स्वर्णपदकान् अलभत् ।,SN,Independent feminine demonstrative pronoun,High
+963,1,सा,PPR.fem.sg.3.nom.i.n.n.dst,PPR,अधुना,भारतीयखाद्यनिगमे उपप्रबन्धकपदम्,अधुना सा भारतीयखाद्यनिगमे उपप्रबन्धकपदम् अलङ्करोति ।,SN,Independent feminine demonstrative pronoun,High
+964,6,एषा,PPR.fem.sg.3.nom.i.n.n.prx,PPR,कांस्यपदकं लब्ध्वा,एतादृशी प्रथमा,२०००तमे वर्षे सिडनीनगरे ओलम्पिकक्रीडासु कांस्यपदकं लब्ध्वा एषा एतादृशी प्रथमा भारतीयमहिला संजाता ।,SN,Independent feminine demonstrative or personal pronoun,High
+965,0,वयम्,PPR.0.pl.1.nom.i.n.n.prx,PPR,,अपि एताम्,वयम् अपि एताम् अनुकुर्वन्तः देशस्य गौरवं संवर्धयितुं प्रयतेमहि ।,SN,Independent first-person plural pronoun used as sentence subject.,High
+965,2,एताम्,PPR.fem.sg.3.acc.ii.n.n.prx,PPR,वयम् अपि,अनुकुर्वन्तः देशस्य,वयम् अपि एताम् अनुकुर्वन्तः देशस्य गौरवं संवर्धयितुं प्रयतेमहि ।,SN,Demonstrative pronoun functioning independently as the object of अनुकुर्वन्तः.,High
+968,0,अस्याः,PPR.fem.sg.3.gen.vi.n.n.prx,PPR,,भ्रमणेन एव,"अस्याः भ्रमणेन एव एकस्मिन् वर्षे वसन्तः, ग्रीष्मः , वर्षा , शरद् , हेमन्तः , शिशिरः च इमे षड् ऋतवः भवन्ति ।",SNV,Genitive demonstrative pronoun expressing possession or relation to a noun,High
+977,0,अस्य,PPR.mas.sg.3.ins.iii.n.n.prx,PPR,,शाखासु स्थित्वा,अस्य शाखासु स्थित्वा कोकिलः पञ्चमेन स्वरेण मधुरं गायति ।,SNV,Possessive/pronominal modifier,High
+978,0,अस्य,PPR.mas.sg.3.gen.vi.n.n.prx,PPR,,मधुरः स्वरः,अस्य मधुरः स्वरः जनानां चित्तं हरति ।,SNV,Possessive/pronominal modifier,High
+980,0,ताः,PPR.fem.pl.3.nom.i.n.n.dst,PPR,,प्रसन्नाः भूत्वा,ताः प्रसन्नाः भूत्वा इतस्ततः भ्रमन्ति ।,SN,ताः is an independent feminine plural pronoun functioning as the subject of भ्रमन्ति.,High
+1008,1,अहं,PPR.0.sg.1.nom.i.n.n.prx,PPR,कर्णः,", भवन्तं","कर्णः अहं , भवन्तं नमस्करोमि ।",SN,First-person nominative pronoun functioning as sentence subject,High
+1008,3,भवन्तं,PPR.mas.sg.3.acc.ii.n.n.prx,PPR,"अहं ,",नमस्करोमि ।,"कर्णः अहं , भवन्तं नमस्करोमि ।",SN,भवन्तं functions independently as the object of नमस्करोमि.,High
+1011,3,भवते,PPR.mas.sg.3.dat.iv.n.n.prx,PPR,महत्तरां भिक्षां,प्रदास्ये ।,कर्णः महत्तरां भिक्षां भवते प्रदास्ये ।,SN,"भवते is an independent second-person pronoun in the dative case, functioning as the recipient of प्रदास्ये.",High
+1015,4,भवान्,PPR.mas.sg.3.nom.i.n.n.prx,PPR,न इच्छति,?,कर्णः किं न इच्छति भवान् ?,SN,"Independent honorific personal pronoun, not modifying a noun.",High
+1016,2,ते,PPR.mas.sg.2.dat.iv.n.n.prx,PPR,वाजिनां बहुसहस्रं,ददामि ।,वाजिनां बहुसहस्रं ते ददामि ।,SN,ते is an independent second-person singular dative pronoun functioning as the recipient of ददामि.,High
+1021,1,एतत्,PPR.neu.sg.3.acc.ii.n.n.prx,PPR,शक्रः,अपि न,शक्रः एतत् अपि न इच्छामि ।,SN,Independent neuter demonstrative pronoun functioning substantively.,High
+1033,1,भवान्,PPR.mas.sg.3.nom.i.n.n.prx,PPR,प्रसीदतु,।,प्रसीदतु भवान् ।,SN,"Independent honorific personal pronoun, not modifying a noun.",High
+1036,4,एषः,PPR.mas.sg.3.nom.i.n.n.prx,PPR,आत्मगतम् ),एव अस्य,कर्णः ( आत्मगतम् ) एषः एव अस्य कामः ।,SN,Independent demonstrative pronoun functioning without a modified noun.,High
+1036,6,अस्य,PPR.mas.sg.3.gen.vi.n.n.prx,PPR,एषः एव,कामः ।,कर्णः ( आत्मगतम् ) एषः एव अस्य कामः ।,SNV,Possessive/pronominal modifier,High
+1042,0,तस्मात्,PPR.mas.sg.3.abl.v.n.n.dst,PPR,,गृह्यताम् ।,तस्मात् गृह्यताम् ।,SN,तस्मात् is an independent demonstrative pronoun in the ablative case.,High
+1045,2,अस्माकं,PPR.0.pl.1.gen.vi.n.n.prx,PPR,महात्मा गान्धी,राष्ट्रपिता अस्ति,महात्मा गान्धी अस्माकं राष्ट्रपिता अस्ति ।,SNV,First-person plural genitive pronoun modifying a noun,High
+1047,0,अस्य,PPR.mas.sg.3.gen.vi.n.n.prx,PPR,,पिता करमचन्दगान्धी,अस्य पिता करमचन्दगान्धी आसीत् माता पुतलीबाई च ।,SNV,Possessive/pronominal modifier,High
+1048,0,एतस्य,PPR.mas.sg.3.gen.vi.n.n.prx,PPR,,पूर्णंनाम मोहनदासकरमचन्दः,एतस्य पूर्णंनाम मोहनदासकरमचन्दः गान्धी आसीत् ।,SNV,Genitive pronoun used possessively or modifying another expression,High
+1050,1,सः,PPR.mas.sg.3.nom.i.n.n.dst,PPR,तदनन्तरं,विधिशास्त्रं पठितुम्,तदनन्तरं सः विधिशास्त्रं पठितुम् आङ्ग्लदेशं गतवान् ।,SN,Independent personal pronoun,High
+1051,2,सः,PPR.mas.sg.3.nom.i.n.n.dst,PPR,शिक्षां समाप्य,स्वदेशम् आगतवान्,शिक्षां समाप्य सः स्वदेशम् आगतवान् ।,SN,Independent personal pronoun,High
+1054,0,तस्य,PPR.mas.sg.3.gen.vi.n.n.dst,PPR,,नेतृत्वेन अस्माकं,तस्य नेतृत्वेन अस्माकं देशः १९४७ ईसवीये अगस्तमास्य १५ दिनाङ्के स्वतन्त्रः अभवत् ।,SNV,Third-person genitive demonstrative used possessively with a noun,High
+1054,2,अस्माकं,PPR.0.pl.1.gen.vi.n.n.prx,PPR,तस्य नेतृत्वेन,देशः १९४७,तस्य नेतृत्वेन अस्माकं देशः १९४७ ईसवीये अगस्तमास्य १५ दिनाङ्के स्वतन्त्रः अभवत् ।,SNV,First-person plural genitive pronoun modifying a noun,High
+1056,5,अस्य,PPR.mas.sg.3.gen.vi.n.n.prx,PPR,च इति,द्वे अस्त्रे,स्वतन्त्रतासङ्ग्रामे सत्यम् अहिंसा च इति अस्य द्वे अस्त्रे आस्ताम् ।,SNV,Possessive/pronominal modifier,High
+1057,4,अस्माकं,PPR.0.pl.1.gen.vi.n.n.prx,PPR,न केवलम्,कृते अपितु,एषः महात्मा न केवलम् अस्माकं कृते अपितु सम्पूर्णस्य विश्वस्य कृते अनुकरणीयः वन्दनीयः च अस्ति ।,SN,Independent first-person plural pronoun governed by कृते,High
+1060,0,सः,PPR.mas.sg.3.nom.i.n.n.dst,PPR,,अतीव बुद्धिमान्,सः अतीव बुद्धिमान् न्यायपरायणः च आसीत् ।,SN,Independent personal pronoun,High
+1061,0,तस्य,PPR.mas.sg.3.gen.vi.n.n.dst,PPR,,प्रखरबुद्धेः निष्पक्षन्यायस्य,तस्य प्रखरबुद्धेः निष्पक्षन्यायस्य च प्रशंसा सर्वत्र आसीत् ।,SNV,Third-person genitive demonstrative used possessively with a noun,High
+1062,1,सः,PPR.mas.sg.3.nom.i.n.n.dst,PPR,प्रतिदिनं,राजसभायां स्वप्रजानां,प्रतिदिनं सः राजसभायां स्वप्रजानां निवेदनं श्रुत्वा उचितं न्यायं करोति स्म ।,SN,Independent personal pronoun,High
+1063,2,तस्य,PPR.mas.sg.3.gen.vi.n.n.dst,PPR,एकस्मिन् दिवसे,राजसभां परस्परं,एकस्मिन् दिवसे तस्य राजसभां परस्परं विवदमाने द्वे स्त्रियौ आगच्छताम् ।,SNV,Third-person genitive demonstrative used possessively with a noun,High
+1064,0,तयोः,PPR.fem.du.3.loc.vii.n.n.dst,PPR,,एका गीता,तयोः एका गीता अपरा च लता आसीत् ।,SN,"तयोः is used independently in the partitive construction तयोः एका, meaning one of the two.",High
+1065,0,ते,PPR.fem.du.3.nom.i.n.n.dst,PPR,,द्वे भगिन्यौ,ते द्वे भगिन्यौ आस्ताम् ।,SNV,ते directly determines the noun phrase द्वे भगिन्यौ.,High
+1066,0,तयोः,PPR.fem.du.3.gen.vi.n.n.dst,PPR,,पार्श्वे एकः,तयोः पार्श्वे एकः शिशुः आसीत् ।,SNV,"तयोः qualifies पार्श्वे, expressing spatial relation.",High
+1067,1,तयोः,PPR.fem.du.3.gen.vi.n.n.dst,PPR,नृपेण,विवादस्य कारणं,नृपेण तयोः विवादस्य कारणं पृष्टम् ।,SNV,"तयोः qualifies विवादस्य, identifying the two parties involved.",Medium
+1069,0,अहं,PPR.0.sg.1.nom.i.n.n.prx,PPR,,गीता ।,अहं गीता ।,SN,First-person nominative pronoun functioning as sentence subject,High
+1070,2,मम,PPR.0.sg.1.gen.vi.n.n.prx,PPR,एषः बालः,पुत्रः अस्ति,एषः बालः मम पुत्रः अस्ति ।,SNV,First-person genitive pronoun qualifying a noun,High
+1071,0,अहम्,PPR.0.sg.1.nom.i.n.n.prx,PPR,,एव अस्य,अहम् एव अस्य माता अस्मि ।,SN,First-person nominative pronoun functioning as sentence subject,High
+1071,2,अस्य,PPR.mas.sg.3.gen.vi.n.n.prx,PPR,अहम् एव,माता अस्मि,अहम् एव अस्य माता अस्मि ।,SNV,Possessive/pronominal modifier,High
+1072,2,मया,PPR.0.sg.1.ins.iii.n.n.prx,PPR,एषा लता,सह मिथ्या,एषा लता मया सह मिथ्या कलहं करोति ।,SN,First-person instrumental pronoun functioning independently as agent or complement,High
+1074,2,मम,PPR.0.sg.1.gen.vi.n.n.prx,PPR,एषः बालः,एव अस्ति,एषः बालः मम एव अस्ति ।,SN,First-person genitive pronoun used independently,High
+1075,0,अहं,PPR.0.sg.1.nom.i.n.n.prx,PPR,,हि अस्य,अहं हि अस्य माता अस्मि ।,SN,First-person nominative pronoun functioning as sentence subject,High
+1075,2,अस्य,PPR.mas.sg.3.gen.vi.n.n.prx,PPR,अहं हि,माता अस्मि,अहं हि अस्य माता अस्मि ।,SNV,Possessive/pronominal modifier,High
+1077,2,एषा,PPR.fem.sg.3.nom.i.n.n.prx,PPR,सन्तानस्य लोभेन,मिथ्या वदति,सन्तानस्य लोभेन एषा मिथ्या वदति ।,SN,Independent feminine demonstrative or personal pronoun,High
+1078,2,एतयोः,PPR.fem.du.3.gen.vi.n.n.prx,PPR,""" नृपः",विवादेन चिन्तामग्नः,""" नृपः एतयोः विवादेन चिन्तामग्नः जातः - "" विलक्षणः विवादः ।",SNV,एतयोः expresses the genitive relationship with विवादेन.,High
+1083,0,सः,PPR.mas.sg.3.nom.i.n.n.dst,PPR,,त्वरितम् एकम्,सः त्वरितम् एकम् आरक्षकम् आहूतवान् ।,SN,Independent personal pronoun,High
+1084,0,तस्य,PPR.mas.sg.3.gen.vi.n.n.dst,PPR,,हस्ते तीक्ष्णः,तस्य हस्ते तीक्ष्णः कृपाणः आसीत् ।,SNV,Third-person genitive demonstrative used possessively with a noun,High
+1085,1,तम्,PPR.mas.sg.3.acc.ii.n.n.dst,PPR,नृपः,आरक्षकम् उक्तवान्,"नृपः तम् आरक्षकम् उक्तवान् - "" कृपाणेन अस्य शिशोः खण्डद्वयं कुरु ।",SNV,Demonstrative modifier of आरक्षकम्,High
+1086,5,अस्य,PPR.mas.sg.3.gen.vi.n.n.prx,PPR,चालय येन,समानरुपेण खण्डद्वयं,शिरस्य एव कृपाणं चालय येन अस्य समानरुपेण खण्डद्वयं भवेत् ।,SNV,Possessive/pronominal modifier,High
+1090,0,सा,PPR.fem.sg.3.nom.i.n.n.dst,PPR,,बालस्य वधं,"सा बालस्य वधं निषिध्य नृपम् अवदत् - "" श्रीमन् !",SN,Independent feminine demonstrative pronoun,High
+1091,2,मम,PPR.0.sg.1.gen.vi.n.n.prx,PPR,न अस्ति,प्रयोजनं विवादेन,न अस्ति मम प्रयोजनं विवादेन ।,SNV,First-person genitive pronoun qualifying a noun,High
+1093,0,सा,PPR.fem.sg.3.nom.i.n.n.dst,PPR,,एव अस्य,सा एव अस्य माता भवतु ।,SN,Independent feminine demonstrative pronoun,High
+1093,2,अस्य,PPR.mas.sg.3.gen.vi.n.n.prx,PPR,सा एव,माता भवतु,सा एव अस्य माता भवतु ।,SNV,Possessive/pronominal modifier,High
+1095,0,एतस्य,PPR.mas.sg.3.gen.vi.n.n.prx,PPR,,उपरि मम,एतस्य उपरि मम अधिकारः मा अस्तु ।,SNV,Genitive pronoun used possessively or modifying another expression,High
+1095,2,मम,PPR.mas.sg.1.gen.vi.n.n.prx,PPR,एतस्य उपरि,अधिकारः मा,एतस्य उपरि मम अधिकारः मा अस्तु ।,SNV,First-person genitive pronoun in a possessive or dependent construction.,High
+1097,12,सा,PPR.fem.sg.3.nom.i.n.n.dst,PPR,स्वाधिकारात् महत्तरं,एव तस्य,"नृपः अवदत् - "" अस्तु , यस्याः हृदये शिशोः जीवनं स्वाधिकारात् महत्तरं सा एव तस्य माता भवितुम् अर्हति ।",SN,Independent feminine demonstrative pronoun,High
+1097,14,तस्य,PPR.mas.sg.3.gen.vi.n.n.dst,PPR,सा एव,माता भवितुम्,"नृपः अवदत् - "" अस्तु , यस्याः हृदये शिशोः जीवनं स्वाधिकारात् महत्तरं सा एव तस्य माता भवितुम् अर्हति ।",SNV,Third-person genitive demonstrative used possessively with a noun,High
+1099,0,सा,PPR.fem.sg.3.nom.i.n.n.dst,PPR,,एव शिशुं,सा एव शिशुं ग्रहीष्यति ।,SN,Independent feminine demonstrative pronoun,High
+1101,0,एषा,PPR.fem.sg.3.nom.i.n.n.prx,PPR,,दण्डभागिनी भवतु,एषा दण्डभागिनी भवतु ।,SN,Independent feminine demonstrative or personal pronoun,High
+1104,1,मे,PPR.0.sg.1.gen.vi.n.n.prx,PPR,एषा,भगिनी क्षन्तव्या,एषा मे भगिनी क्षन्तव्या ।,SNV,First-person genitive pronoun qualifying a noun,High
+1105,0,मया,PPR.0.sg.1.ins.iii.n.n.prx,PPR,,मम बालः,"मया मम बालः प्राप्तः , तत् एव पर्याप्तम् ।",SN,First-person instrumental pronoun functioning independently as agent or complement,High
+1105,1,मम,PPR.0.sg.1.gen.vi.n.n.prx,PPR,मया,बालः प्राप्तः,"मया मम बालः प्राप्तः , तत् एव पर्याप्तम् ।",SNV,First-person genitive pronoun qualifying a noun,High
+1105,5,तत्,PPR.neu.sg.3.nom.i.n.n.dst,PPR,"प्राप्तः ,",एव पर्याप्तम्,"मया मम बालः प्राप्तः , तत् एव पर्याप्तम् ।",SN,Independent neuter demonstrative pronoun used substantively.,High
+1109,1,तव,PPR.0.sg.2.gen.vi.n.n.prx,PPR,"""",नाम किम्,""" तव नाम किम् ?",SNV,Second-person genitive pronoun functioning as a possessive modifier of a noun.,High
+1111,2,तव,PPR.0.sg.2.gen.vi.n.n.prx,PPR,""" """,पिता कः,""" "" तव पिता कः ?",SNV,Second-person genitive pronoun functioning as a possessive modifier of a noun.,High
+1116,4,तस्मै,PPR.mas.sg.3.dat.iv.n.n.dst,PPR,क्रुद्धः आङ्ग्लन्यायाधीशः,पञ्चदशवारं वेत्राघातम्,अनेन उत्तरेण क्रुद्धः आङ्ग्लन्यायाधीशः तस्मै पञ्चदशवारं वेत्राघातम् आदिष्टवान् ।,SN,"तस्मै is an independent demonstrative pronoun in the dative case, referring to the person receiving the cane blows.",High
+1120,10,तेन,PPR.mas.sg.3.ins.iii.n.n.dst,PPR,देशस्य मुक्तये,सङ्कल्पः कृतः,जालियँवाला-काण्डे आङ्ग्लशासनस्य नृशंसतां श्रुत्वा विचलितः सन् तस्मात् क्रूरशासनात् देशस्य मुक्तये तेन सङ्कल्पः कृतः ।,SN,Independent instrumental pronoun,High
+1127,1,सः,PPR.mas.sg.3.nom.i.n.n.dst,PPR,सहसा,आङ्ग्लसैनिकैः परिवृतः,सहसा सः आङ्ग्लसैनिकैः परिवृतः अभवत् ।,SN,Independent personal pronoun,High
+1128,4,सः,PPR.mas.sg.3.nom.i.n.n.dst,PPR,स्वस्य गुलिकाचक्रेण,अनेकान् सैनिकान्,तथापि परमसाहसेन स्वस्य गुलिकाचक्रेण सः अनेकान् सैनिकान् पातितवान् ।,SN,Independent personal pronoun,High
+1130,2,तस्य,PPR.mas.sg.3.gen.vi.n.n.dst,PPR,अतएव यदा,समीपे एका,अतएव यदा तस्य समीपे एका एव गुलिका अवशिष्टा जाता तदा सः तया गुलिकया आत्मानम् एव निहतवान् ।,SNV,Third-person genitive demonstrative used possessively with a noun,High
+1130,10,सः,PPR.mas.sg.3.nom.i.n.n.dst,PPR,जाता तदा,तया गुलिकया,अतएव यदा तस्य समीपे एका एव गुलिका अवशिष्टा जाता तदा सः तया गुलिकया आत्मानम् एव निहतवान् ।,SN,Independent personal pronoun,High
+1132,4,सः,PPR.mas.sg.3.nom.i.n.n.dst,PPR,कीर्तिः यस्य,जीवति ।,सत्यम् - कीर्तिः यस्य सः जीवति ।,SN,Independent personal pronoun,High
+1136,1,ते,PPR.mas.pl.3.nom.i.n.n.dst,PPR,तत्र,पर्णकुटीरे अतिष्ठन्,तत्र ते पर्णकुटीरे अतिष्ठन् ।,SN,Independent masculine plural demonstrative pronoun used substantively.,High
+1149,2,अस्माकं,PPR.mas.pl.1.gen.vi.n.n.prx,PPR,कः अभ्युपायः,जीवनाय ?,कः अभ्युपायः अस्माकं जीवनाय ?,SN,अस्माकं is an independent genitive pronoun in कः अभ्युपायः अस्माकं जीवनाय?,High
+1151,0,वयम्,PPR.0.pl.1.nom.i.n.n.prx,PPR,,निमज्जनस्थानस्य अभावात्,वयम् निमज्जनस्थानस्य अभावात् मृतप्रायाः इव ।,SN,Independent first-person plural pronoun used as sentence subject.,High
+1158,1,मया,PPR.0.sg.1.ins.iii.n.n.prx,PPR,अत्र,कश्चित् उपायः,"अत्र मया कश्चित् उपायः कर्तव्यः "" एतत् उक्त्वा सः ततः गतः ।",SN,First-person instrumental pronoun functioning independently as agent or complement,High
+1158,6,एतत्,PPR.neu.sg.3.acc.ii.n.n.prx,PPR,"कर्तव्यः """,उक्त्वा सः,"अत्र मया कश्चित् उपायः कर्तव्यः "" एतत् उक्त्वा सः ततः गतः ।",SN,Independent neuter demonstrative pronoun functioning substantively.,High
+1158,8,सः,PPR.mas.sg.3.nom.i.n.n.dst,PPR,एतत् उक्त्वा,ततः गतः,"अत्र मया कश्चित् उपायः कर्तव्यः "" एतत् उक्त्वा सः ततः गतः ।",SN,Independent personal pronoun,High
+1159,1,तेन,PPR.mas.sg.3.ins.iii.n.n.dst,PPR,गच्छता,आलोचितम् -,"गच्छता तेन आलोचितम् - "" गजयूथपतेः समीपं गत्वा मया किं वक्तव्यम् ?",SN,Independent instrumental pronoun,High
+1159,8,मया,PPR.0.sg.1.ins.iii.n.n.prx,PPR,समीपं गत्वा,किं वक्तव्यम्,"गच्छता तेन आलोचितम् - "" गजयूथपतेः समीपं गत्वा मया किं वक्तव्यम् ?",SN,First-person instrumental pronoun functioning independently as agent or complement,High
+1163,1,अहं,PPR.0.sg.1.nom.i.n.n.prx,PPR,अतः,पर्वतशिखरम् आरूह्य,अतः अहं पर्वतशिखरम् आरूह्य यूथपतिं संवादयामि ।,SN,First-person nominative pronoun functioning as sentence subject,High
+1164,8,त्वम्,PPR.0.sg.2.nom.i.n.n.prx,PPR,""" कः",?,""" तथा अनुष्ठिते यूथपतिः उवाच - "" कः त्वम् ?",SN,Independent second-person personal pronoun,High
+1166,1,सः,PPR.mas.sg.3.nom.i.n.n.dst,PPR,"""",ब्रूते -,""" सः ब्रूते - "" शशकः अहम् भगवता चन्द्रेण भवदन्तिकं प्रेषितः "" यूथपतिः आह - "" सन्देशः उच्यताम् "" ।",SN,Independent personal pronoun,High
+1167,7,एते,PPR.mas.pl.3.0.i.n.n.prx,PPR,", यत्",चन्द्रसरोवरस्य रक्षकाः,"विजयः ब्रूते - "" श्रुणु , यत् एते चन्द्रसरोवरस्य रक्षकाः शशकाः त्वया निःसारिताः तत् अनुचितं कृतम् ।",SNV,एते directly modifies the masculine plural noun रक्षकाः.,High
+1167,11,त्वया,PPR.0.sg.2.ins.iii.n.n.prx,PPR,रक्षकाः शशकाः,निःसारिताः तत्,"विजयः ब्रूते - "" श्रुणु , यत् एते चन्द्रसरोवरस्य रक्षकाः शशकाः त्वया निःसारिताः तत् अनुचितं कृतम् ।",SN,त्वया functions independently as the agent of निःसारिताः.,High
+1167,13,तत्,PPR.neu.sg.3.0.i.n.n.dst,PPR,त्वया निःसारिताः,अनुचितं कृतम्,"विजयः ब्रूते - "" श्रुणु , यत् एते चन्द्रसरोवरस्य रक्षकाः शशकाः त्वया निःसारिताः तत् अनुचितं कृतम् ।",SN,Independent demonstrative pronoun used substantively.,High
+1168,3,अस्माभिः,PPR.0.pl.1.ins.iii.n.n.prx,PPR,शशकाः चिरम्,रक्षिताः ।,ते शशकाः चिरम् अस्माभिः रक्षिताः ।,SN,Instrumental pronoun expressing the agent of रक्षिताः.,High
+1169,0,ते,PPR.mas.pl.3.nom.i.n.n.dst,PPR,,अस्मदीयाः अतएव,ते अस्मदीयाः अतएव मे शशाङ्कः इति प्रसिद्धिः ।,SN,Independent masculine plural demonstrative pronoun used substantively.,High
+1169,3,मे,PPR.0.sg.1.gen.vi.n.n.prx,PPR,अस्मदीयाः अतएव,शशाङ्कः इति,ते अस्मदीयाः अतएव मे शशाङ्कः इति प्रसिद्धिः ।,SNV,First-person genitive pronoun qualifying a noun,High
+1170,6,इदम्,PPR.neu.sg.3.acc.ii.n.n.prx,PPR,यूथपतिः भयाद्,आह -,""" एवम् उक्तवति दूते यूथपतिः भयाद् इदम् आह - "" इदम् अज्ञानतः कृतम् ।",SN,Independent neuter demonstrative pronoun functioning substantively.,High
+1170,10,इदम्,PPR.neu.sg.3.0.i.n.n.prx,PPR,"- """,अज्ञानतः कृतम्,""" एवम् उक्तवति दूते यूथपतिः भयाद् इदम् आह - "" इदम् अज्ञानतः कृतम् ।",SN,Independent neuter demonstrative pronoun used substantively.,High
+1172,14,तं,PPR.mas.sg.3.acc.ii.n.n.dst,PPR,शशाङ्कं प्रणम्य,च प्रसाद्य,""" शशकः उवाच - "" यदि एवं तदत्र सरसि कोपात् कम्पमानं भगवन्तं शशाङ्कं प्रणम्य तं च प्रसाद्य इतः गच्छ ।",SN,Independent demonstrative object pronoun,High
+1173,14,तेन,PPR.mas.sg.3.ins.iii.n.n.dst,PPR,उक्तम् च,"- """,""" ततः रात्रौ यूथपतिं नीत्वा जले चंचलं चन्द्रप्रतिबिम्बं दर्शयित्वा यूथपतिः प्रणामं कारितः। उक्तम् च तेन - "" देव !",SN,Independent instrumental pronoun,High
+1178,5,सर्वाः,PPR.fem.pl.3.0.i.n.n.0,PPR,गोपकन्यकाः ),- (,( ततः प्रविशन्ति गोपकन्यकाः ) सर्वाः - ( दामोदरं प्रति ) मा खलु मा खलु भर्तृ !,SN,Collective pronoun used independently as a speaker label.,High
+1179,0,एतं,PPR.mas.sg.3.acc.ii.n.n.prx,PPR,,जलाशयं प्रवेष्टुम्,एतं जलाशयं प्रवेष्टुम् ।,SNV,एतं qualifies जलाशयम् in एतं जलाशयम्.,High
+1182,1,भवत्यः,PPR.fem.pl.3.nom.i.n.n.prx,PPR,पश्यन्तु,।,पश्यन्तु भवत्यः ।,SN,भवत्यः functions independently as the subject/addressee.,High
+1183,0,सर्वाः,PPR.fem.pl.3.0.i.n.n.0,PPR,,- भर्तृ,सर्वाः - भर्तृ !,SN,Collective pronoun used independently as a speaker label.,High
+1188,1,भवत्यः,PPR.fem.pl.3.nom.i.n.n.prx,PPR,पश्यन्तु,।,पश्यन्तु भवत्यः ।,SN,भवत्यः functions independently as the subject/addressee.,High
+1189,0,सर्वाः,PPR.fem.pl.3.0.i.n.n.0,PPR,,- हं,सर्वाः - हं भर्तृदामोदरः अपि तादृशः एव ।,SN,Collective pronoun used independently as a speaker label.,High
+1190,5,मे,PPR.0.sg.1.gen.vi.n.n.prx,PPR,द्रुततरं नागं,वशं करोमि,दामोदरः - सर्वप्रजाहितार्थं द्रुततरं नागं मे वशं करोमि ।,SNV,First-person genitive pronoun qualifying a noun,High
+1191,5,सर्वाः,PPR.fem.pl.3.0.i.n.n.0,PPR,प्रविष्टः ),- हा,( इति ह्रदं प्रविष्टः ) सर्वाः - हा हा धूमः उत्थितः ।,SN,Collective pronoun used independently as a speaker label.,High
+1193,0,एषः,PPR.mas.sg.3.nom.i.n.n.prx,PPR,,कन्यकाभिः वार्यमाणः,एषः कन्यकाभिः वार्यमाणः यमुनाह्रदं प्रविष्टः ।,SN,Independent demonstrative pronoun functioning without a modified noun.,High
+1200,3,भवत्यः,PPR.fem.pl.3.nom.i.n.n.prx,PPR,- पश्यन्तु,- दामोदरः,संकर्षणः - पश्यन्तु भवत्यः - दामोदरः अयं परिगृह्य नागं विक्षोभ्य तोयं च समूलम् अस्य ।,SN,भवत्यः functions independently as the addressee.,High
+1200,13,अस्य,PPR.mas.sg.3.gen.vi.n.n.prx,PPR,च समूलम्,।,संकर्षणः - पश्यन्तु भवत्यः - दामोदरः अयं परिगृह्य नागं विक्षोभ्य तोयं च समूलम् अस्य ।,SNV,Possessive/pronominal modifier,High
+1204,7,सर्वाः,PPR.fem.pl.3.0.i.n.n.0,PPR,दामोदरः ),- आश्चर्यम्,( ततः प्रविशति कालीयं गृहीत्वा दामोदरः ) सर्वाः - आश्चर्यम् भर्तः ।,SN,Collective pronoun used independently as a speaker label.,High
+1208,0,ते,PPR.mas.sg.2.gen.vi.n.n.prx,PPR,,शक्तिः अस्ति,"ते शक्तिः अस्ति , दह्यतां मम एकः भुजः ।",SNV,ते expresses possession and is associated with the noun शक्तिः.,Medium
+1208,5,मम,PPR.0.sg.1.gen.vi.n.n.prx,PPR,", दह्यतां",एकः भुजः,"ते शक्तिः अस्ति , दह्यतां मम एकः भुजः ।",SNV,First-person genitive pronoun qualifying a noun,High
+1209,6,त्वां,PPR.0.sg.2.acc.ii.n.n.prx,PPR,"इदानीम्, एषः",भस्मीकरोमि ।,"कालियः - हं तिष्ठ इदानीम्, एषः त्वां भस्मीकरोमि ।",SN,त्वां functions independently as the object of भस्मीकरोमि.,High
+1210,8,ते,PPR.0.sg.2.gen.vi.n.n.prx,PPR,हन्त दर्शितं,बलम् ।,( विषाग्निं मुञ्चति ) दामोदरः - हन्त दर्शितं ते बलम् ।,SNV,Second-person genitive pronoun functioning as a possessive modifier of a noun.,High
+1212,4,भवान्,PPR.mas.sg.3.nom.i.n.n.prx,PPR,अनेन बलेन,गर्वितः ।,दामोदरः - अनेन बलेन भवान् गर्वितः ।,SN,"Independent honorific personal pronoun, not modifying a noun.",High
+1216,9,अहम्,PPR.0.sg.1.nom.i.n.n.prx,PPR,गरुङाद् भीतः,अस्मि प्रविष्टः,किमर्थम् इदानीं यमुनाहृदं कालियः - भगवतः वरवाहनाद् गरुङाद् भीतः अहम् अस्मि प्रविष्टः अस्मि ।,SN,First-person nominative pronoun functioning as sentence subject,High
+1219,0,मम,PPR.0.sg.1.gen.vi.n.n.prx,PPR,,पादेन नागेन्द्र,मम पादेन नागेन्द्र !,SNV,First-person genitive pronoun qualifying a noun,High
+1220,1,तव,PPR.0.sg.2.gen.vi.n.n.prx,PPR,चिन्हितं,मूर्धनि ।,चिन्हितं तव मूर्धनि ।,SNV,Second-person genitive pronoun functioning as a possessive modifier of a noun.,High
+1221,5,ते,PPR.0.sg.2.dat.iv.n.n.prx,PPR,इदम् अभयं,प्रदास्यति ॥,सुपर्णः एव दृष्ट्वा इदम् अभयं ते प्रदास्यति ॥,SN,Second-person dative pronoun functions independently as recipient.,High
+1223,3,भवान्,PPR.mas.sg.3.nom.i.n.n.prx,PPR,- प्रविशतु,।,दामोदरः - प्रविशतु भवान् ।,SN,"Independent honorific personal pronoun, not modifying a noun.",High
+1229,3,भवान्,PPR.mas.sg.3.nom.i.n.n.prx,PPR,- प्रतिनिवर्ततां,।,दामोदरः - प्रतिनिवर्ततां भवान् ।,SN,"Independent honorific personal pronoun, not modifying a noun.",High
+1252,2,वयं,PPR.0.pl.1.nom.i.n.n.prx,PPR,चलचित्रस्य माध्यमेन,न केवलं,"चलचित्रस्य माध्यमेन वयं न केवलं मनोरञ्जयामः , तस्य दर्शनेन स्वज्ञानम् अपि वर्धयितुं प्रभवामः ।",SN,Independent first-person plural pronoun used as sentence subject.,High
+1252,7,तस्य,PPR.mas.sg.3.gen.vi.n.n.dst,PPR,"मनोरञ्जयामः ,",दर्शनेन स्वज्ञानम्,"चलचित्रस्य माध्यमेन वयं न केवलं मनोरञ्जयामः , तस्य दर्शनेन स्वज्ञानम् अपि वर्धयितुं प्रभवामः ।",SNV,Third-person genitive demonstrative used possessively with a noun,High
+1253,0,एतत्,PPR.neu.sg.3.nom.i.n.n.prx,PPR,,श्रोत्रेन्द्रियेण सह,एतत् श्रोत्रेन्द्रियेण सह चक्षुरिन्द्रियम् अपि व्यापृतं करोति ।,SN,Independent neuter demonstrative pronoun used substantively.,High
+1254,2,वयं,PPR.0.pl.1.nom.i.n.n.prx,PPR,एतस्मात् कारणात्,सर्वे नैसर्गिकतया,एतस्मात् कारणात् वयं सर्वे नैसर्गिकतया चलचित्रं प्रति आकृष्टाः भवामः ।,SN,Independent first-person plural pronoun used as sentence subject.,High
+1256,1,असौ,PPR.mas.sg.3.nom.i.n.n.dst,PPR,परम्,पूर्णरूपेण सफलः,परम् असौ पूर्णरूपेण सफलः न अभवत् ।,SN,Independent masculine singular demonstrative pronoun used substantively.,High
+1260,3,तेषां,PPR.mas.pl.3.gen.vi.n.n.dst,PPR,एतावत्या त्वरया,चित्राणि गृह्णाति,चित्रयन्त्रं एतावत्या त्वरया तेषां चित्राणि गृह्णाति यत् तेषां प्रत्येकं भावस्य कर्मणः वा सकलानाम् अंशानां चित्राणि गृहीतानि भवन्ति ।,SNV,Genitive demonstrative pronoun dependent on a noun.,High
+1260,7,तेषां,PPR.mas.pl.3.gen.vi.n.n.dst,PPR,गृह्णाति यत्,प्रत्येकं भावस्य,चित्रयन्त्रं एतावत्या त्वरया तेषां चित्राणि गृह्णाति यत् तेषां प्रत्येकं भावस्य कर्मणः वा सकलानाम् अंशानां चित्राणि गृहीतानि भवन्ति ।,SNV,Genitive demonstrative pronoun dependent on a noun.,High
+1261,11,तानि,PPR.neu.pl.3.nom.i.n.n.dst,PPR,प्रदर्श्यन्ते तदा,सजीवानि प्रतीयन्ते,चित्रयन्त्रेण गृहीतानि एतानि चित्राणि यदा चलचित्रप्रक्षेपिणा त्वरितया गत्या चित्रपटे प्रदर्श्यन्ते तदा तानि सजीवानि प्रतीयन्ते ।,SN,तानि functions independently as the subject of प्रतीयन्ते.,High
+1269,0,एतेन,PPR.neu.sg.3.ins.iii.n.n.prx,PPR,,एका सत्या,एतेन एका सत्या घटना महता कौशलेन पुनरुज्जीविता ।,SN,Instrumental demonstrative pronoun functions independently.,High
+1271,2,अन्यानि,PPR.neu.pl.3.nom.i.n.n.dst,PPR,एतादृशानि चलचित्राणि,च कलाकृत्यानि,एतादृशानि चलचित्राणि अन्यानि च कलाकृत्यानि चलचित्राणि अस्माकं ज्ञानं वर्धयन्ति शरीरस्य मनसः च श्रान्तिं दूरीकुर्वन्ति ।,SNV,अन्यानि qualifies कलाकृत्यानि.,High
+1271,6,अस्माकं,PPR.0.pl.1.gen.vi.n.n.prx,PPR,कलाकृत्यानि चलचित्राणि,ज्ञानं वर्धयन्ति,एतादृशानि चलचित्राणि अन्यानि च कलाकृत्यानि चलचित्राणि अस्माकं ज्ञानं वर्धयन्ति शरीरस्य मनसः च श्रान्तिं दूरीकुर्वन्ति ।,SNV,First-person plural genitive pronoun modifying a noun,High
+1274,2,तस्य,PPR.mas.sg.0.gen.vi.n.n.dst,PPR,श्रीसुन्दरम् अय्यरमहोदयः,पिता अलगम्मलमहोदया,श्रीसुन्दरम् अय्यरमहोदयः तस्य पिता अलगम्मलमहोदया च तस्य माता आसीत् ।,SNV,तस्य directly modifies the masculine noun पिता in the possessive construction तस्य पिता.,High
+1274,6,तस्य,PPR.mas.sg.3.gen.vi.n.n.dst,PPR,अलगम्मलमहोदया च,माता आसीत्,श्रीसुन्दरम् अय्यरमहोदयः तस्य पिता अलगम्मलमहोदया च तस्य माता आसीत् ।,SNV,Third-person genitive demonstrative used possessively with a noun,High
+1275,5,असौ,PPR.mas.sg.3.nom.i.n.n.dst,PPR,आसीत् तदा,पत्रचिल्लस्य पत्रतरणेः,यदा वेंकटरमणः षड्वर्षीयः आसीत् तदा असौ पत्रचिल्लस्य पत्रतरणेः च निर्माणे विधिव्यवहारपत्राणां गुच्छकस्य उपयोगं कृतवान् ।,SN,Independent masculine singular demonstrative pronoun used substantively.,High
+1276,3,सः,PPR.mas.sg.3.0.i.n.n.dst,PPR,क्रीडाकृत्यस्य कृते,मातृपितृभ्यां तर्जितः,एतस्य क्रीडाकृत्यस्य कृते सः मातृपितृभ्यां तर्जितः ।,SN,Independent personal pronoun,High
+1277,2,सः,PPR.mas.sg.3.nom.i.n.n.dst,PPR,दुःखितः सन्,श्रीसहायवल्लीमन्दिरे प्रतिमान्तरितः,दुःखितः सन् सः श्रीसहायवल्लीमन्दिरे प्रतिमान्तरितः भूत्वा अतिष्ठत् ।,SN,Independent personal pronoun,High
+1278,3,तम्,PPR.mas.sg.3.acc.ii.n.n.dst,PPR,कः अपि,अन्वेष्टुं सफलः,न कः अपि तम् अन्वेष्टुं सफलः अभवत् ।,SN,Independent demonstrative object pronoun,High
+1279,11,तम्,PPR.mas.sg.3.acc.ii.n.n.dst,PPR,प्रतिमायाः समीपे,अपश्यन् ।,संध्यासमये यदा मन्दिरे आरात्रिकम् अभवत् तदा दीपस्य प्रकाशे पूजकाः प्रतिमायाः समीपे तम् अपश्यन् ।,SN,Independent demonstrative object pronoun,High
+1281,5,तस्य,PPR.mas.sg.3.gen.vi.n.n.dst,PPR,आसीत् तदा,पिता सुन्दरम्,यदा वेंकटरमणः द्वादशवर्षीयः आसीत् तदा तस्य पिता सुन्दरम् अय्यरमहोदयः दिवंगतः ।,SNV,Third-person genitive demonstrative used possessively with a noun,High
+1282,0,सः,PPR.mas.sg.3.nom.i.n.n.dst,PPR,,मदुरईनगरे स्वपितृव्यस्य,सः मदुरईनगरे स्वपितृव्यस्य श्रीसुब्बाअय्यरमहोदयस्य गृहम् अगच्छत् ।,SN,Independent personal pronoun,High
+1284,1,सः,PPR.mas.sg.3.nom.i.n.n.dst,PPR,तदा,अकस्मात् मृत्युभयेन,तदा सः अकस्मात् मृत्युभयेन आक्रान्तः अभवत् ।,SN,Independent personal pronoun,High
+1285,2,असौ,PPR.mas.sg.3.nom.i.n.n.dst,PPR,अन्तर्मुखः भूत्वा,अचिन्तयत् -,"अन्तर्मुखः भूत्वा असौ अचिन्तयत् - "" अधुना मृत्युः आगतः ।",SN,Independent masculine singular demonstrative pronoun used substantively.,High
+1286,0,अस्य,PPR.mas.sg.3.gen.vi.n.n.prx,PPR,,कः अर्थः,अस्य कः अर्थः ?,SNV,Possessive/pronominal modifier,High
+1288,4,सः,PPR.mas.sg.3.nom.i.n.n.dst,PPR,मृत्युम् अभिनीय,शववत् भूमौ,""" तदा मृत्युम् अभिनीय सः शववत् भूमौ अशेत् अचिन्तयत् च - "" मृतशरीरं श्मशानं नीयते तत्र अस्य अग्निसंस्कारः क्रियते ।",SN,Independent personal pronoun,High
+1288,16,अस्य,PPR.neu.sg.3.gen.vi.n.n.prx,PPR,नीयते तत्र,अग्निसंस्कारः क्रियते,""" तदा मृत्युम् अभिनीय सः शववत् भूमौ अशेत् अचिन्तयत् च - "" मृतशरीरं श्मशानं नीयते तत्र अस्य अग्निसंस्कारः क्रियते ।",SNV,Possessive/pronominal modifier,High
+1289,1,अहम्,PPR.0.sg.1.nom.i.n.n.prx,PPR,किम्,अपि शरीरेण,किम् अहम् अपि शरीरेण सह मृत्युं प्राप्स्यामि ?,SN,First-person nominative pronoun functioning as sentence subject,High
+1290,2,सः,PPR.mas.sg.3.nom.i.n.n.dst,PPR,""" तदा",अन्वभवत् यत्,""" तदा सः अन्वभवत् यत् सः शरीरात् पृथक् आत्मरूपेण वर्तते ।",SN,Independent personal pronoun,High
+1290,5,सः,PPR.mas.sg.3.nom.i.n.n.dst,PPR,अन्वभवत् यत्,शरीरात् पृथक्,""" तदा सः अन्वभवत् यत् सः शरीरात् पृथक् आत्मरूपेण वर्तते ।",SN,Independent personal pronoun,High
+1291,0,एतस्मात्,PPR.mas.sg.3.abl.v.n.n.prx,PPR,,अनुभवात् अनन्तरं,एतस्मात् अनुभवात् अनन्तरं वेंकटरमणः आत्मचिन्तनम् अकरोत् ।,SNV,एतस्मात् directly modifies अनुभवात् in the construction एतस्मात् अनुभवात् अनन्तरम्.,High
+1293,5,सः,PPR.mas.sg.3.nom.i.n.n.dst,PPR,अरुणाचलेश्वरस्य समक्षं,सर्वं त्यक्तवान्,तत्र अरुणाचलेश्वरमन्दिरे भगवतः अरुणाचलेश्वरस्य समक्षं सः सर्वं त्यक्तवान् ।,SN,Independent personal pronoun,High
+1294,8,असौ,PPR.mas.sg.3.nom.i.n.n.dst,PPR,आत्मविषयकप्रश्नान् समादधन्,ओंकारकारायां विरूपाक्षगुहायां,आत्मचिन्तनं कुर्वन् मौनं धारयन् साधकानां च आत्मविषयकप्रश्नान् समादधन् असौ ओंकारकारायां विरूपाक्षगुहायां सप्तदशवर्षाणि अवसत् ।,SN,Independent masculine singular demonstrative pronoun used substantively.,High
+1295,6,तस्य,PPR.mas.sg.3.gen.vi.n.n.dst,PPR,इति अपरनामा,सान्निध्यं प्राप्नोत्,अत्रैव मुनिः काव्यकण्ठगणपतिः नयनः इति अपरनामा तस्य सान्निध्यं प्राप्नोत् ।,SNV,Third-person genitive demonstrative used possessively with a noun,High
+1297,1,तस्य,PPR.mas.sg.3.gen.vi.n.n.dst,PPR,अत्रैव,माता अलगम्मलमहोदया,अत्रैव तस्य माता अलगम्मलमहोदया तेन सह वस्तुम् अगच्छत् ।,SNV,Third-person genitive demonstrative used possessively with a noun,High
+1297,4,तेन,PPR.mas.sg.3.ins.iii.n.n.dst,PPR,माता अलगम्मलमहोदया,सह वस्तुम्,अत्रैव तस्य माता अलगम्मलमहोदया तेन सह वस्तुम् अगच्छत् ।,SN,Independent instrumental pronoun,High
+1299,5,तस्य,PPR.mas.sg.3.gen.vi.n.n.dst,PPR,एकोनविंशतितमे दिवसे,माता रुग्णा,१९२२तमे वर्षे मईमासस्य एकोनविंशतितमे दिवसे तस्य माता रुग्णा अभवत् महासमाधिं च अलभत ।,SNV,Third-person genitive demonstrative used possessively with a noun,High
+1300,1,तस्याः,PPR.fem.sg.3.gen.vi.n.n.dst,PPR,प्रातःकाले,अस्थिशेषाः अरुणाचलस्य,प्रातःकाले तस्याः अस्थिशेषाः अरुणाचलस्य दक्षिणभागवर्तिन्याम् उपत्यकायाम् आनीताः ।,SNV,Feminine genitive demonstrative pronoun modifying or possessing a noun.,High
+1303,6,वयं,PPR.0.pl.1.nom.i.n.n.prx,PPR,आसीत् यत्,सर्वे ',भगवतः महर्षेः रमणस्य उपदेशः आसीत् यत् वयं सर्वे ' कः अहम् ' इति प्रश्नस्य चिन्तनं समाधानं च कुर्यामः ।,SN,Independent first-person plural pronoun used as sentence subject.,High
+1303,10,अहम्,PPR.0.sg.1.0.i.n.n.prx,PPR,' कः,' इति,भगवतः महर्षेः रमणस्य उपदेशः आसीत् यत् वयं सर्वे ' कः अहम् ' इति प्रश्नस्य चिन्तनं समाधानं च कुर्यामः ।,SN,First-person pronoun functions independently in the quoted expression.,Medium
+1305,5,अस्मभ्यं,PPR.0.pl.1.dat.iv.n.n.prx,PPR,महर्षिरमणस्य उपदेशः,सर्वेभ्यः शान्तिं,भयदुःखसंकुले अस्मिन् जगति महर्षिरमणस्य उपदेशः अस्मभ्यं सर्वेभ्यः शान्तिं वितरति ।,SN,अस्मभ्यं functions independently as a dative pronoun.,High
+1311,6,सः,PPR.mas.sg.3.nom.i.n.n.dst,PPR,कर्म क्रियते,धर्मः इति,पुण्यं प्राप्तुं यत् शास्त्रविहितं कर्म क्रियते सः धर्मः इति अभिधीयते ।,SN,Independent personal pronoun,High
+1313,30,अन्यानि,PPR.neu.pl.3.0.i.n.n.0,PPR,ईदृशानि च,कर्माणि धर्मः,"सामान्यतः पुण्यपर्वसु तीर्थदर्शनं तत्र च स्नानं , देवानां स्तोत्राणां पाठः , दुःखितानां जनानां दुःखस्य अपहरणं , स्वर्गं प्राप्तुं यज्ञानाम् अनुष्ठानं , नियमतः संध्यासमये भगवतः भजनं ध्यानं च इत्यादीनि ईदृशानि च अन्यानि कर्माणि धर्मः इति कथयितुं शक्यन्ते ।",SNV,अन्यानि qualifies the neuter plural noun कर्माणि.,High
+1316,4,अन्यानि,PPR.neu.pl.3.nom.i.n.n.0,PPR,वस्त्रं धनम्,च जीवनस्य,भोजनं गृहं वस्त्रं धनम् अन्यानि च जीवनस्य दुःखेन यापनसाधनानि भोगस्य साधनानि भवन्ति तानि सर्वाणि अर्थे अन्तर्भवन्ति ।,SN,अन्यानि is used substantivally in the enumeration भोजनं गृहं वस्त्रं धनम् अन्यानि च; no modified noun is expressed.,Medium
+1316,12,तानि,PPR.neu.pl.3.nom.i.n.n.dst,PPR,साधनानि भवन्ति,सर्वाणि अर्थे,भोजनं गृहं वस्त्रं धनम् अन्यानि च जीवनस्य दुःखेन यापनसाधनानि भोगस्य साधनानि भवन्ति तानि सर्वाणि अर्थे अन्तर्भवन्ति ।,SN,तानि refers independently to the previously mentioned items and functions as the subject of अन्तर्भवन्ति. It does not directly modify an expressed noun.,High
+1321,7,तत्,PPR.neu.sg.3.nom.i.n.n.dst,PPR,सुखम् इच्छति,तत् सर्वं,अतः पुरुषः यत् यत् सांसारिकं सुखम् इच्छति तत् तत् सर्वं कामे अन्तर्भवति ।,SN,Independent neuter demonstrative pronoun used substantively.,High
+1321,8,तत्,PPR.neu.sg.3.nom.i.n.n.dst,PPR,इच्छति तत्,सर्वं कामे,अतः पुरुषः यत् यत् सांसारिकं सुखम् इच्छति तत् तत् सर्वं कामे अन्तर्भवति ।,SNV,Second तत् qualifies सर्वम् in the expression तत् सर्वम्.,High
+1322,1,सः,PPR.mas.sg.3.nom.i.n.n.dst,PPR,कदाचित्,वृक्षादीनां शोभां,"कदाचित् सः वृक्षादीनां शोभां दृष्टुम् इच्छति , कदाचित् संगीतं श्रोतुं , कदाचित् प्राकृतिकानां मनोहारिणां दृश्यानां सौन्दर्यं दृष्टुं , कदाचित् सुगन्धान् आघ्रातुं , कदाचित् सुखदासु शय्यासु शयितुम् अभिलषति ।",SN,Independent personal pronoun,High
+1324,4,एतत्,PPR.neu.sg.3.acc.ii.n.n.prx,PPR,अर्जितेन धनेन,सर्वंम् अनुभूयतां,यदि सम्यग् अर्जितेन धनेन एतत् सर्वंम् अनुभूयतां तर्हि वरम् ।,SNV,एतत् qualifies सर्वम् in the expression एतत् सर्वम्.,High
+1329,8,सः,PPR.mas.sg.3.nom.i.n.n.dst,PPR,", यदा",मानापमानयोः समानः,"यदा मानवस्य सकलाः कामनाः शान्ताः भवन्ति , यदा सः मानापमानयोः समानः तिष्ठति , यदा सः रागं द्वेषं च अतिक्रामति तदा सः मोक्षं प्राप्नोति संसारस्य च दुःखानि तरति ।",SN,Independent personal pronoun,High
+1329,14,सः,PPR.mas.sg.3.nom.i.n.n.dst,PPR,", यदा",रागं द्वेषं,"यदा मानवस्य सकलाः कामनाः शान्ताः भवन्ति , यदा सः मानापमानयोः समानः तिष्ठति , यदा सः रागं द्वेषं च अतिक्रामति तदा सः मोक्षं प्राप्नोति संसारस्य च दुःखानि तरति ।",SN,Independent personal pronoun,High
+1329,20,सः,PPR.mas.sg.3.nom.i.n.n.dst,PPR,अतिक्रामति तदा,मोक्षं प्राप्नोति,"यदा मानवस्य सकलाः कामनाः शान्ताः भवन्ति , यदा सः मानापमानयोः समानः तिष्ठति , यदा सः रागं द्वेषं च अतिक्रामति तदा सः मोक्षं प्राप्नोति संसारस्य च दुःखानि तरति ।",SN,Independent personal pronoun,High
+1330,0,तस्य,PPR.mas.sg.3.gen.vi.n.n.dst,PPR,,जराभयं मृत्युभयं,तस्य जराभयं मृत्युभयं वा न विद्यते ।,SNV,Third-person genitive demonstrative used possessively with a noun,High
+1332,4,त्वम्,PPR.0.sg.2.nom.i.n.n.prx,PPR,"मन्ये ,",अलर्करोगेण आक्रान्तः,"चिकित्सकः - मन्ये , त्वम् अलर्करोगेण आक्रान्तः असि ।",SN,Independent second-person personal pronoun,High
+1333,5,भवान्,PPR.mas.sg.3.nom.i.n.n.prx,PPR,एवं तर्हि,मह्यम् एकं,रोगी - यदि एवं तर्हि भवान् मह्यम् एकं कर्गदं यच्छतु ।,SN,"Independent honorific personal pronoun, not modifying a noun.",High
+1333,6,मह्यम्,PPR.0.sg.1.dat.iv.n.n.prx,PPR,तर्हि भवान्,एकं कर्गदं,रोगी - यदि एवं तर्हि भवान् मह्यम् एकं कर्गदं यच्छतु ।,SN,Dative first-person pronoun functioning independently as recipient.,High
+1334,3,त्वं,PPR.0.sg.2.nom.i.n.n.prx,PPR,- किं,इच्छापत्रं लेखितुम्,चिकित्सकः - किं त्वं इच्छापत्रं लेखितुम् इच्छसि ?,SN,Independent second-person personal pronoun,High
+1335,4,अहं,PPR.0.sg.1.nom.i.n.n.prx,PPR,"न ,",तु तेषां,"रोगी - न , अहं तु तेषां नामानि लेखितुम् इच्छामि यान् अहं दृक्ष्यामि ।",SN,First-person nominative pronoun functioning as sentence subject,High
+1335,6,तेषां,PPR.mas.pl.3.gen.vi.n.n.dst,PPR,अहं तु,नामानि लेखितुम्,"रोगी - न , अहं तु तेषां नामानि लेखितुम् इच्छामि यान् अहं दृक्ष्यामि ।",SNV,Genitive demonstrative pronoun dependent on a noun.,High
+1335,11,अहं,PPR.0.sg.1.nom.i.n.n.prx,PPR,इच्छामि यान्,दृक्ष्यामि ।,"रोगी - न , अहं तु तेषां नामानि लेखितुम् इच्छामि यान् अहं दृक्ष्यामि ।",SN,First-person nominative pronoun functioning as sentence subject,High
+1337,0,मह्यं,PPR.0.sg.1.dat.iv.n.n.prx,PPR,,त्वं स्वर्णपूर्णं,मह्यं त्वं स्वर्णपूर्णं गृहं यच्छ ।,SN,Dative first-person pronoun functioning independently as recipient.,High
+1337,1,त्वं,PPR.0.sg.2.nom.i.n.n.prx,PPR,मह्यं,स्वर्णपूर्णं गृहं,मह्यं त्वं स्वर्णपूर्णं गृहं यच्छ ।,SN,Independent second-person personal pronoun,High
+1339,0,त्वं,PPR.0.sg.2.nom.i.n.n.prx,PPR,,मे रत्नैः,त्वं मे रत्नैः पूर्णं गृहं यच्छ ।,SN,Independent second-person personal pronoun,High
+1339,1,मे,PPR.0.sg.1.dat.iv.n.n.prx,PPR,त्वं,रत्नैः पूर्णं,त्वं मे रत्नैः पूर्णं गृहं यच्छ ।,SN,Dative first-person pronoun functioning independently as recipient.,High
+1341,4,मह्यं,PPR.0.sg.1.dat.iv.n.n.prx,PPR,उद्घाटयितुम्ं कुञ्चिकां,देहि ।,तादृशं गृहम् उद्घाटयितुम्ं कुञ्चिकां मह्यं देहि ।,SN,Dative first-person pronoun functioning independently as recipient.,High
+1342,8,त्वम्,PPR.0.sg.2.nom.i.n.n.prx,PPR,रोहित !,अति दुष्टः,अध्यापकः - ( शिष्यं प्रति ) रोहित ! त्वम् अति दुष्टः असि ।,SN,Independent second-person personal pronoun,High
+1345,6,भवद्भिः,PPR.mas.pl.3.ins.iii.n.n.prx,PPR,शतं रुप्यकाणि,मह्यं देयानि,यदि एवम् अस्ति तर्हि शतं रुप्यकाणि भवद्भिः मह्यं देयानि ।,SN,भवद्भिः is an independent honorific second-person plural instrumental pronoun.,High
+1345,7,मह्यं,PPR.0.sg.1.dat.iv.n.n.prx,PPR,रुप्यकाणि भवद्भिः,देयानि ।,यदि एवम् अस्ति तर्हि शतं रुप्यकाणि भवद्भिः मह्यं देयानि ।,SN,Dative first-person pronoun functioning independently as recipient.,High
+1347,2,मम,PPR.0.sg.1.gen.vi.n.n.prx,PPR,रोहितः -,पिता तु,रोहितः - मम पिता तु चिकित्सकः अस्ति ।,SNV,First-person genitive pronoun qualifying a noun,High
+1348,4,असौ,PPR.mas.sg.3.nom.i.n.n.prx,PPR,बिना न,कुत्रापि गच्छति,शतरुप्यकाणि शुल्कं बिना न असौ कुत्रापि गच्छति ।,SN,Independent demonstrative pronoun functioning without a modified noun.,High
+1349,12,त्वं,PPR.0.sg.2.nom.i.n.n.prx,PPR,- यदि,मृषा वदिष्यति,( न्यायालये न्यायाधीशम् अपराधिनं च अन्तरा वार्तालापः भवति ) न्यायाधीशः - यदि त्वं मृषा वदिष्यति तर्हि कुत्र गमिष्यसि ?,SN,Independent second-person personal pronoun,High
+1351,3,त्वं,PPR.0.sg.2.nom.i.n.n.prx,PPR,- यदि,सत्यं वदिष्यसि,न्यायाधीशः - यदि त्वं सत्यं वदिष्यसि तदा कुत्र ?,SN,Independent second-person personal pronoun,High
+1356,3,मे,PPR.0.sg.1.gen.vi.n.n.prx,PPR,- मारुतिकारयानं,स्यात् इति,मोहितः - मारुतिकारयानं मे स्यात् इति वाञ्छामि ।,SN,First-person genitive pronoun used independently,High
+1357,2,मम,PPR.0.sg.1.gen.vi.n.n.prx,PPR,विनायकः -,वाहनं मूषकः,विनायकः - मम वाहनं मूषकः वर्तते ।,SNV,First-person genitive pronoun qualifying a noun,High
+1358,1,अहं,PPR.0.sg.1.nom.i.n.n.prx,PPR,कथम्,तुभ्यं कारयानं,कथम् अहं तुभ्यं कारयानं दास्यामि ?,SN,First-person nominative pronoun functioning as sentence subject,High
+1358,2,तुभ्यं,PPR.0.sg.2.dat.iv.n.n.prx,PPR,कथम् अहं,कारयानं दास्यामि,कथम् अहं तुभ्यं कारयानं दास्यामि ?,SN,Second-person dative pronoun functions independently as recipient.,High
+1359,0,इयम्,PPR.fem.sg.3.nom.i.n.n.prx,PPR,,एका श्लोकरूपा,इयम् एका श्लोकरूपा प्रसिद्धा परिहासिका - कमले कमला शेते हरः शेते हिमालये ।,SN,Independent feminine demonstrative or personal pronoun,High
+1363,1,ते,PPR.0.sg.2.gen.vi.n.n.prx,PPR,दन्तान्,गणयिष्ये ।,दन्तान् ते गणयिष्ये ।,SNV,Second-person genitive pronoun functioning as a possessive modifier of a noun.,High
+1365,1,नः,PPR.0.pl.1.gen.vi.n.n.prx,PPR,किं,अपत्यनिर्विशेषाणि सत्त्वानि,किं नः अपत्यनिर्विशेषाणि सत्त्वानि विप्रकरोषि ?,SNV,First-person plural genitive pronoun modifying a noun,Medium
+1367,1,ते,PPR.0.sg.2.gen.vi.n.n.prx,PPR,वर्धते,संरम्भः ।,वर्धते ते संरम्भः ।,SNV,Second-person genitive pronoun functioning as a possessive modifier of a noun.,High
+1368,19,मे,PPR.0.sg.1.gen.vi.n.n.prx,PPR,पुत्रे स्निह्यति,मनः ?,स्थाने खलु ऋषिजनेन सर्वदमनः इति कृतनामधेयः असि | राजा - किं नु खलु बाले अस्मिन् औरस इव पुत्रे स्निह्यति मे मनः ?,SNV,First-person genitive pronoun qualifying a noun,High
+1369,2,मां,PPR.0.sg.1.acc.ii.n.n.prx,PPR,नूनम् अनपत्यता,वत्सलयति ।,नूनम् अनपत्यता मां वत्सलयति ।,SN,Independent first-person personal pronoun,High
+1370,8,त्वां,PPR.0.sg.2.acc.ii.n.n.prx,PPR,खलु केसरिणी,लङ्घयति यदि,द्वितीया ( तपस्विनी ) - एषा खलु केसरिणी त्वां लङ्घयति यदि अस्याः पुत्रकं न मुञ्चसि ।,SN,त्वां functions independently as the object of लङ्घयति.,High
+1370,11,अस्याः,PPR.fem.sg.3.gen.vi.n.n.prx,PPR,लङ्घयति यदि,पुत्रकं न,द्वितीया ( तपस्विनी ) - एषा खलु केसरिणी त्वां लङ्घयति यदि अस्याः पुत्रकं न मुञ्चसि ।,SNV,Genitive demonstrative pronoun expressing possession or relation to a noun,High
+1375,1,ते,PPR.0.sg.2.dat.iv.n.n.prx,PPR,अपरं,क्रीडनकं दास्यामि,अपरं ते क्रीडनकं दास्यामि ।,SN,Second-person dative pronoun functions independently as recipient.,High
+1377,1,एतत्,PPR.neu.sg.3.acc.ii.n.n.prx,PPR,देहि,।,देहि एतत् ।,SN,Independent neuter demonstrative pronoun functioning substantively.,High
+1378,15,अनेन,PPR.mas.sg.3.ins.iii.n.n.prx,PPR,चक्रवर्तिलक्षणम् अपि,धार्यते ?,( इति हस्तं प्रसारयति ) राजा - ( बालस्य हस्तं अवलोक्य ) कथं चक्रवर्तिलक्षणम् अपि अनेन धार्यते ?,SN,Independent instrumental pronoun functioning as an agent or instrument.,High
+1380,2,एषः,PPR.mas.sg.3.nom.i.n.n.prx,PPR,न शक्यः,वाचामात्रेण विरमयितुम्,न शक्यः एषः वाचामात्रेण विरमयितुम् ।,SN,Independent demonstrative pronoun functioning without a modified noun.,High
+1381,1,त्वम्,PPR.0.sg.2.nom.i.n.n.prx,PPR,गच्छ,।,गच्छ त्वम् ।,SN,Independent second-person personal pronoun,High
+1383,0,तम्,PPR.mas.sg.3.acc.ii.n.n.dst,PPR,,अस्य उपहर,तम् अस्य उपहर ।,SN,Independent demonstrative object pronoun,High
+1383,1,अस्य,PPR.mas.sg.3.gen.vi.n.n.prx,PPR,तम्,उपहर ।,तम् अस्य उपहर ।,SNV,Possessive/pronominal modifier,High
+1385,6,अनेन,PPR.mas.sg.3.ins.iii.n.n.prx,PPR,बालः -,एव तावत्,( इति निष्क्रान्ता ) बालः - अनेन एव तावत् क्रीडिष्यामि ।,SN,Independent instrumental pronoun functioning as an agent or instrument.,High
+1386,11,अस्मै,PPR.mas.sg.3.dat.iv.n.n.prx,PPR,खलु दुर्ललिताय,।,( इति तापसीं विलोक्य हसति ) राजा - स्पृहयामि खलु दुर्ललिताय अस्मै ।,SN,अस्मै is an independent demonstrative pronoun in the dative case; it does not modify a noun.,Medium
+1388,0,माम्,PPR.0.sg.1.acc.ii.n.n.prx,PPR,,अयं न,माम् अयं न गणयति ।,SN,Independent first-person personal pronoun,High
+1388,1,अयं,PPR.mas.sg.3.nom.i.n.n.prx,PPR,माम्,न गणयति,माम् अयं न गणयति ।,SN,Independent demonstrative pronoun functioning without a modified noun.,High
+1396,5,अस्य,PPR.mas.sg.3.gen.vi.n.n.prx,PPR,चेष्टितम् एव,कथयति ।,राजा - आकारसदृशं चेष्टितम् एव अस्य कथयति ।,SNV,Possessive/pronominal modifier,High
+1397,2,वयम्,PPR.0.sg.1.nom.i.n.n.prx,PPR,स्थानप्रत्य्यात् तु,एवं तर्किणः,स्थानप्रत्य्यात् तु वयम् एवं तर्किणः ।,SN,First-person nominative pronoun functioning as sentence subject,High
+1401,2,अस्य,PPR.mas.sg.3.gen.vi.n.n.prx,PPR,तापसी -,बालकस्य ते,तापसी - अस्य बालकस्य ते अपि संवादिनि आकृतिः इति विस्मिता अस्मि ।,SNV,Possessive/pronominal modifier,High
+1401,4,ते,PPR.0.sg.2.gen.vi.n.n.prx,PPR,अस्य बालकस्य,अपि संवादिनि,तापसी - अस्य बालकस्य ते अपि संवादिनि आकृतिः इति विस्मिता अस्मि ।,SNV,Second-person genitive pronoun functioning as a possessive modifier of a noun.,Medium
+1402,2,ते,PPR.0.sg.2.gen.vi.n.n.prx,PPR,अपरिचितस्य अपि,अप्रतिलोमः संवृत्तः,अपरिचितस्य अपि ते अप्रतिलोमः संवृत्तः इति ।,SN,ते is an independent second-person singular pronoun in the genitive/dative form; it does not directly modify a noun in the supplied context.,Medium
+1404,2,अस्य,PPR.mas.sg.3.gen.vi.n.n.prx,PPR,अथ कः,व्यपदेशः ?,अथ कः अस्य व्यपदेशः ?,SNV,Possessive/pronominal modifier,High
+1406,8,मम,PPR.mas.sg.1.gen.vi.n.n.prx,PPR,एकः अन्वयः,?,राजा - ( आत्मगतम् ) कथम् एकः अन्वयः मम ?,SNV,First-person genitive pronoun in a possessive or dependent construction.,High
+1409,7,मम,PPR.0.sg.1.gen.vi.n.n.prx,PPR,कुत्र वा,माता ?,बालः - ( सदृष्टिक्षेपम् ) कुत्र वा मम माता ?,SNV,First-person genitive pronoun qualifying a noun,High
+1413,9,अस्य,PPR.mas.sg.3.gen.vi.n.n.prx,PPR,शकुन्तला इति,मातुः आख्या,राजा - ( आत्मगतम् ) किं वा शकुन्तला इति अस्य मातुः आख्या ।,SNV,Possessive/pronominal modifier,High
+1415,1,मे,PPR.mas.sg.1.acc.ii.n.n.prx,PPR,रोचते,एषः भद्रमयूरः,रोचते मे एषः भद्रमयूरः ।,SN,मे is an independent first-person pronoun in the construction रोचते मे एषः भद्रमयूरः.,Medium
+1415,2,एषः,PPR.mas.sg.3.0.i.n.n.prx,PPR,रोचते मे,भद्रमयूरः ।,रोचते मे एषः भद्रमयूरः ।,SNV,एषः directly identifies the noun भद्रमयूरः.,High
+1417,4,अस्य,PPR.mas.sg.3.gen.vi.n.n.prx,PPR,अहो रक्षाकरण्डकम्,मणिबन्धे न,सोद्वेगम् ) अहो रक्षाकरण्डकम् अस्य मणिबन्धे न दृश्यते ।,SNV,Possessive/pronominal modifier,High
+1419,1,इदम्,PPR.neu.sg.3.nom.i.n.n.prx,PPR,ननु,अस्य सिंहशावकविमर्दात्,ननु इदम् अस्य सिंहशावकविमर्दात् परिभ्रष्टम् ।,SN,Independent neuter demonstrative pronoun used substantively.,High
+1420,9,एतद्,PPR.neu.sg.3.acc.ii.n.n.prx,PPR,मा खलु,अवलम्व्य -,( इति आदातुम् इच्छति ) उभे - मा खलु एतद् अवलम्व्य - कथम् !,SN,Independent neuter demonstrative pronoun functioning substantively.,High
+1421,1,अनेन,PPR.mas.sg.3.ins.iii.n.n.prx,PPR,गृहीतम्,।,गृहीतम् अनेन ।,SN,Independent instrumental pronoun functioning as an agent or instrument.,High
+1424,4,अस्य,PPR.mas.sg.3.gen.vi.n.n.prx,PPR,नाम औषधिः,जातकर्मसमये भगवता,एषा अपराजिता नाम औषधिः अस्य जातकर्मसमये भगवता मारीचेन दत्ता ।,SNV,Possessive/pronominal modifier,High
+1425,0,एषा,PPR.fem.sg.3.nom.i.n.n.prx,PPR,,किल मातापितरौ,एषा किल मातापितरौ आत्मानं च वर्जयित्वा अपरः भूमिपतितां न गृह्णाति ?,SN,Independent feminine demonstrative or personal pronoun,High
+1427,3,तं,PPR.mas.sg.3.acc.ii.n.n.dst,PPR,- ततः,सर्पः भूत्वा,प्रथमा - ततः तं सर्पः भूत्वा दशति ।,SN,Independent demonstrative object pronoun,High
+1428,2,भवतीभ्यां,PPR.fem.du.3.gen.vi.n.n.prx,PPR,राजा -,कदाचिद अस्याः,राजा - भवतीभ्यां कदाचिद अस्याः प्रत्यक्षीकृता विक्रिया ?,SN,भवतीभ्यां functions independently as the agent in the passive construction.,Medium
+1428,4,अस्याः,PPR.fem.sg.3.gen.vi.n.n.prx,PPR,भवतीभ्यां कदाचिद,प्रत्यक्षीकृता विक्रिया,राजा - भवतीभ्यां कदाचिद अस्याः प्रत्यक्षीकृता विक्रिया ?,SNV,Genitive demonstrative pronoun expressing possession or relation to a noun,High
+1431,6,मे,PPR.0.sg.1.gen.vi.n.n.prx,PPR,सम्पूर्णम् इव,मनोरथं न,आत्मगतम् ) कथम् इव सम्पूर्णम् इव मे मनोरथं न अभिनन्दामि ?,SNV,First-person genitive pronoun qualifying a noun,High
+1434,7,माम्,PPR.0.sg.1.acc.ii.n.n.prx,PPR,- मुञ्च,!,( इति निष्क्रान्ते ) बालः - मुञ्च माम् !,SN,Independent first-person personal pronoun,High
+1437,0,मया,PPR.0.sg.1.ins.iii.n.n.prx,PPR,,सह एव,मया सह एव मातरम् अभिनन्दिष्यसि ।,SN,First-person instrumental pronoun functioning independently as agent or complement,High
+1438,2,मम,PPR.0.sg.1.gen.vi.n.n.prx,PPR,बालः -,खलु तातः,बालः - मम खलु तातः दुष्यन्तः ।,SNV,First-person genitive pronoun qualifying a noun,High
+1439,1,त्वम्,PPR.0.sg.2.0.i.n.n.prx,PPR,न,।,न त्वम् ।,SN,Independent second-person pronoun used substantively.,High
+1442,1,इयम्,PPR.fem.sg.3.nom.i.n.n.prx,PPR,सा,अत्रभवती शकुन्तला,सा इयम् अत्रभवती शकुन्तला ।,SN,Independent feminine demonstrative or personal pronoun,High
+1444,2,एषः,PPR.mas.sg.3.nom.i.n.n.prx,PPR,ततः कः,इदानीं कृतरक्षामङ्गलं,ततः कः एषः इदानीं कृतरक्षामङ्गलं दारकं मे गात्रसंसर्गेण दूषयति ।,SN,Independent demonstrative pronoun functioning without a modified noun.,High
+1444,6,मे,PPR.0.sg.1.gen.vi.n.n.prx,PPR,कृतरक्षामङ्गलं दारकं,गात्रसंसर्गेण दूषयति,ततः कः एषः इदानीं कृतरक्षामङ्गलं दारकं मे गात्रसंसर्गेण दूषयति ।,SNV,First-person genitive pronoun qualifying a noun,High
+1446,4,मां,PPR.0.sg.1.acc.ii.n.n.prx,PPR,अपि पुरुषः,पुत्रः इति,एषः कः अपि पुरुषः मां पुत्रः इति आलिङ्गति ।,SN,Independent first-person personal pronoun,High
+1447,7,एषः,PPR.mas.sg.0.nom.i.n.n.prx,PPR,आर्यपुत्रः खलु,।,शकुन्तला - ( आत्मगतम् ) आर्यपुत्रः खलु एषः ।,SN,एषः is an independent masculine demonstrative pronoun referring to आर्यपुत्रः.,High
+1449,0,अस्माकं,PPR.0.pl.1.gen.vi.n.n.prx,PPR,,पर्यावरणम्,अस्माकं पर्यावरणम्,SNV,First-person plural genitive pronoun modifying a noun,High
+1450,9,तत्,PPR.neu.sg.3.nom.i.n.n.dst,PPR,परितः विद्यते,सर्वं मिलित्वा,या भूमिः यत् जलं यः च वायुः परितः विद्यते तत् सर्वं मिलित्वा अस्माकं पर्यावरणं कथ्यते ।,SNV,तत् qualifies सर्वम् in the expression तत् सर्वम्.,High
+1450,12,अस्माकं,PPR.0.pl.1.gen.vi.n.n.prx,PPR,सर्वं मिलित्वा,पर्यावरणं कथ्यते,या भूमिः यत् जलं यः च वायुः परितः विद्यते तत् सर्वं मिलित्वा अस्माकं पर्यावरणं कथ्यते ।,SNV,First-person plural genitive pronoun modifying a noun,High
+1451,6,अन्यानि,PPR.neu.pl.3.nom.i.n.n.0,PPR,यानि च,अनेकानि उपकरणानि,विज्ञानस्य विकासेन यानि उपभोगसाधनानि यानि च अन्यानि अनेकानि उपकरणानि प्रकृतेः अनुकम्पया अस्माभिः उपलब्धानि तैः सर्वैः अस्माकं जीवनं सुखसम्पन्नं संजातम् ।,SNV,अन्यानि directly modifies the neuter plural noun उपकरणानि.,High
+1451,11,अस्माभिः,PPR.0.pl.1.ins.iii.n.n.prx,PPR,प्रकृतेः अनुकम्पया,उपलब्धानि तैः,विज्ञानस्य विकासेन यानि उपभोगसाधनानि यानि च अन्यानि अनेकानि उपकरणानि प्रकृतेः अनुकम्पया अस्माभिः उपलब्धानि तैः सर्वैः अस्माकं जीवनं सुखसम्पन्नं संजातम् ।,SN,Instrumental first-person plural pronoun functioning independently.,Medium
+1451,13,तैः,PPR.mas.pl.3.ins.iii.n.n.dst,PPR,अस्माभिः उपलब्धानि,सर्वैः अस्माकं,विज्ञानस्य विकासेन यानि उपभोगसाधनानि यानि च अन्यानि अनेकानि उपकरणानि प्रकृतेः अनुकम्पया अस्माभिः उपलब्धानि तैः सर्वैः अस्माकं जीवनं सुखसम्पन्नं संजातम् ।,SNV,तैः qualifies सर्वैः in the expression तैः सर्वैः.,High
+1451,15,अस्माकं,PPR.0.pl.1.gen.vi.n.n.prx,PPR,तैः सर्वैः,जीवनं सुखसम्पन्नं,विज्ञानस्य विकासेन यानि उपभोगसाधनानि यानि च अन्यानि अनेकानि उपकरणानि प्रकृतेः अनुकम्पया अस्माभिः उपलब्धानि तैः सर्वैः अस्माकं जीवनं सुखसम्पन्नं संजातम् ।,SNV,First-person plural genitive pronoun modifying a noun,High
+1452,3,अस्माभिः,PPR.0.du.3.ins.iii.n.n.prx,PPR,एतस्यां प्रक्रियायाम्,पर्यावरणस्य महती,परं एतस्यां प्रक्रियायाम् अस्माभिः पर्यावरणस्य महती हिंसा कृता ।,SN,अस्माभिः is an independent first-person dual instrumental pronoun functioning as the agent.,High
+1453,0,एतद्,PPR.neu.sg.3.0.i.n.n.prx,PPR,,अतिरिक्तं स्वावश्यकताः,"एतद् अतिरिक्तं स्वावश्यकताः पूरयितुं वनानां स्थाने भवनानि , यन्त्रशालाः नूतनाः च मार्गाः अस्माभिः निर्मीयन्ते ।",SNV,एतद् is associated with अतिरिक्तम् in the expression एतद् अतिरिक्तम्.,Medium
+1453,12,अस्माभिः,PPR.0.pl.1.ins.iii.n.n.prx,PPR,च मार्गाः,निर्मीयन्ते ।,"एतद् अतिरिक्तं स्वावश्यकताः पूरयितुं वनानां स्थाने भवनानि , यन्त्रशालाः नूतनाः च मार्गाः अस्माभिः निर्मीयन्ते ।",SN,Instrumental pronoun expressing the agent of निर्मीयन्ते.,High
+1454,0,एतेन,PPR.neu.sg.3.ins.iii.n.n.prx,PPR,,ग्रामाणाम् अपि,एतेन ग्रामाणाम् अपि पर्यावरणस्य स्वाभाविकता नष्टा नगराणां तु का कथा ।,SN,"Instrumental demonstrative pronoun functions independently, indicating means.",High
+1457,0,एतेन,PPR.neu.sg.3.ins.iii.n.n.prx,PPR,,हेतुना निदाघः,एतेन हेतुना निदाघः वर्धते ।,SNV,एतेन qualifies हेतुना in एतेन हेतुना.,High
+1458,3,तया,PPR.fem.sg.3.ins.iii.n.n.dst,PPR,समये अतिवृष्टिः,जलाप्लावः तेन,एकस्मिन् समये अतिवृष्टिः तया जलाप्लावः तेन च महती हानिः भवति ।,SN,तया independently refers to अतिवृष्टिः as the instrumental cause of जलाप्लावः.,Medium
+1458,5,तेन,PPR.mas.sg.3.ins.iii.n.n.dst,PPR,तया जलाप्लावः,च महती,एकस्मिन् समये अतिवृष्टिः तया जलाप्लावः तेन च महती हानिः भवति ।,SN,Independent instrumental pronoun,High
+1459,3,तया,PPR.fem.sg.3.ins.iii.n.n.dst,PPR,समये अनावृष्टिः,च दुर्भिक्षं,अपरस्मिन् समये अनावृष्टिः तया च दुर्भिक्षं आपद्यते ।,SN,तया independently refers to अनावृष्टिः as the instrumental cause of दुर्भिक्षम्.,Medium
+1460,1,एतत्,PPR.neu.sg.3.0.i.n.n.prx,PPR,समासतः,कथयितुं शक्यते,समासतः एतत् कथयितुं शक्यते यत् पर्यावरणस्य एतावती हानिः कृता यया आसन्ने एव भविष्यतिकाले शुद्धं जलं शुद्धः च वायुः दुर्लभः भविष्यति ।,SN,Independent neuter demonstrative pronoun used substantively.,High
+1461,3,तैः,PPR.mas.pl.3.ins.iii.n.n.dst,PPR,रोगाः आक्रमिष्यन्ति,च मानवानां,नूतनाः रोगाः आक्रमिष्यन्ति तैः च मानवानां अस्तित्वम् एव संकटापन्नं भविष्यति ।,SN,Independent instrumental pronoun functioning as an agent or instrument.,High

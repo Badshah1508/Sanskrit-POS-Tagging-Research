@@ -1,0 +1,58 @@
+{
+  "updated_at": "2026-11-18T10:39:04.506707+00:00",
+  "historical_metrics": {
+    "reported_coverage_pct": 74.2,
+    "reported_unresolved_queue": 473
+  },
+  "current_metrics": {
+    "total_tokens": 11899,
+    "mapped_tokens": 10744,
+    "unmapped_tokens": 1155,
+    "coverage_pct": 90.29,
+    "verified_manual_mappings_applied": 1988,
+    "remaining_unresolved_occurrences": 218
+  },
+  "target_tagset_size": 24,
+  "target_tags": [
+    "N",
+    "NS",
+    "NV",
+    "KNV",
+    "SN",
+    "SNV",
+    "SNS",
+    "SAM",
+    "SAMY",
+    "SAMP",
+    "KP",
+    "UP",
+    "AVN",
+    "AVP",
+    "AVUP",
+    "SAMB",
+    "AVU",
+    "K",
+    "AKV",
+    "AB",
+    "AVC",
+    "DVI",
+    "A",
+    "PU"
+  ],
+  "deterministic_prefix_rules": {
+    "NC": "N",
+    "NP": "NS",
+    "JJ": "A",
+    "V": "KP",
+    "VBP": "NV",
+    "VBG": "NV",
+    "PU": "PU",
+    "CEM": "AVN",
+    "CNG": "AVN",
+    "CIN": "AVU",
+    "CCD": "SAMB",
+    "CSB": "SAMB",
+    "ALC": "AVP",
+    "AMN": "AVP"
+  }
+}

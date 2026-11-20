@@ -1,0 +1,561 @@
+Source_Tag,Frequency,Source_Family,Grammatical_Meaning,Target_Tag,Mapping_Status,Reason
+CEM,280,CEM,Emphatic particle,AVN,Candidate - verify usage,Candidate - verify usage
+CNG,146,CNG,Negative particle,AVN,Candidate - verify usage,Candidate - verify usage
+PU,2194,PU,Punctuation,PU,Confirmed,
+V.sg.3.prs.n,346,V,Finite verb,KP,Confirmed,
+NC.mas.sg.0.i,282,NC,Common noun,N,Confirmed,
+V.sg.3.imprf.n,256,V,Finite verb,KP,Confirmed,
+NC.neu.sg.acc.ii,213,NC,Common noun,N,Confirmed,
+NC.mas.sg.acc.ii,206,NC,Common noun,N,Confirmed,
+NC.neu.sg.0.i,192,NC,Common noun,N,Confirmed,
+NP.mas.sg.nom.i,185,NP,Proper noun,NS,Confirmed,
+NC.mas.sg.loc.vii,172,NC,Common noun,N,Confirmed,
+NC.mas.sg.nom.i,169,NC,Common noun,N,Confirmed,
+CCD,154,CCD,Coordinating conjunction,SAMB,Confirmed,
+NC.mas.sg.gen.vi,150,NC,Common noun,N,Confirmed,
+JJ.mas.sg.0.i.n.n.n,135,JJ,Adjective,A,Confirmed,
+NP.mas.sg.0.i,131,NP,Proper noun,NS,Confirmed,
+NC.fem.sg.0.i,118,NC,Common noun,N,Confirmed,
+NC.neu.sg.loc.vii,110,NC,Common noun,N,Confirmed,
+CSB,110,CSB,Subordinating conjunction,SAMB,Confirmed,
+NP.mas.sg.gen.vi,108,NP,Proper noun,NS,Confirmed,
+V.pl.3.prs.n,104,V,Finite verb,KP,Confirmed,
+V.sg.1.prs.n,99,V,Finite verb,KP,Confirmed,
+NC.fem.sg.acc.ii,93,NC,Common noun,N,Confirmed,
+NC.mas.pl.nom.i,90,NC,Common noun,N,Confirmed,
+NC.mas.sg.ins.iii,76,NC,Common noun,N,Confirmed,
+JJ.neu.sg.0.i.n.n.n,68,JJ,Adjective,A,Confirmed,
+NC.mas.pl.gen.vi,64,NC,Common noun,N,Confirmed,
+NC.fem.sg.nom.i,61,NC,Common noun,N,Confirmed,
+NC.neu.sg.nom.i,61,NC,Common noun,N,Confirmed,
+V.sg.3.imp.n,60,V,Finite verb,KP,Confirmed,
+JJ.fem.sg.0.i.n.n.n,58,JJ,Adjective,A,Confirmed,
+CIN,57,CIN,Interjection,AVU,Confirmed,
+JJ.mas.sg.nom.i.n.n.n,54,JJ,Adjective,A,Confirmed,
+V.sg.2.imp.n,54,V,Finite verb,KP,Confirmed,
+NC.neu.sg.ins.iii,53,NC,Common noun,N,Confirmed,
+NC.neu.sg.gen.vi,53,NC,Common noun,N,Confirmed,
+V.sg.3.pot.n,53,V,Finite verb,KP,Confirmed,
+NP.fem.sg.nom.i,46,NP,Proper noun,NS,Confirmed,
+NC.neu.pl.acc.ii,44,NC,Common noun,N,Confirmed,
+NC.fem.sg.loc.vii,43,NC,Common noun,N,Confirmed,
+NP.mas.sg.loc.vii,40,NP,Proper noun,NS,Confirmed,
+JJ.mas.pl.0.i.n.n.n,39,JJ,Adjective,A,Confirmed,
+NP.fem.sg.0.i,37,NP,Proper noun,NS,Confirmed,
+NC.fem.sg.gen.vi,37,NC,Common noun,N,Confirmed,
+NC.mas.pl.0.i,36,NC,Common noun,N,Confirmed,
+NC.mas.sg.abl.v,33,NC,Common noun,N,Confirmed,
+NP.mas.sg.voc.viii,33,NP,Proper noun,NS,Confirmed,
+NC.mas.sg.voc.viii,33,NC,Common noun,N,Confirmed,
+NP.mas.sg.acc.ii,32,NP,Proper noun,NS,Confirmed,
+NC.neu.sg.abl.v,31,NC,Common noun,N,Confirmed,
+NC.mas.pl.acc.ii,30,NC,Common noun,N,Confirmed,
+NP.mas.sg.ins.iii,29,NP,Proper noun,NS,Confirmed,
+V.sg.2.prs.n,29,V,Finite verb,KP,Confirmed,
+NC.fem.sg.ins.iii,25,NC,Common noun,N,Confirmed,
+JJ.neu.sg.acc.ii.n.n.n,23,JJ,Adjective,A,Confirmed,
+NC.neu.pl.gen.vi,23,NC,Common noun,N,Confirmed,
+NP.fem.sg.gen.vi,23,NP,Proper noun,NS,Confirmed,
+V.pl.3.imprf.n,23,V,Finite verb,KP,Confirmed,
+NP.neu.sg.loc.vii,22,NP,Proper noun,NS,Confirmed,
+CCD.n,21,CCD,Coordinating conjunction,SAMB,Confirmed,
+V.sg.3.gft.n,21,V,Finite verb,KP,Confirmed,
+NP.fem.sg.acc.ii,20,NP,Proper noun,NS,Confirmed,
+NC.mas.pl.loc.vii,20,NC,Common noun,N,Confirmed,
+JJ.mas.sg.acc.ii.n.n.n,19,JJ,Adjective,A,Confirmed,
+NC.neu.pl.nom.i,18,NC,Common noun,N,Confirmed,
+NC.neu.pl.loc.vii,16,NC,Common noun,N,Confirmed,
+JJ.mas.pl.nom.i.n.n.n,16,JJ,Adjective,A,Confirmed,
+JJ.fem.sg.nom.i.n.n.n,15,JJ,Adjective,A,Confirmed,
+NC.mas.pl.ins.iii,14,NC,Common noun,N,Confirmed,
+V.sg.1.gft.n,14,V,Finite verb,KP,Confirmed,
+NC.mas.sg.dat.iv,13,NC,Common noun,N,Confirmed,
+NC.fem.pl.nom.i,13,NC,Common noun,N,Confirmed,
+NC.neu.sg.dat.i,13,NC,Common noun,N,Confirmed,
+V.pl.1.prs.n,12,V,Finite verb,KP,Confirmed,
+NC.neu.pl.0.i,12,NC,Common noun,N,Confirmed,
+JJ.mas.sg.gen.vi.n.n.n,12,JJ,Adjective,A,Confirmed,
+NP.neu.sg.acc.ii,12,NP,Proper noun,NS,Confirmed,
+NP.mas.sg.abl.v,11,NP,Proper noun,NS,Confirmed,
+NP.fem.sg.loc.vii,11,NP,Proper noun,NS,Confirmed,
+NC.fem.pl.0.i,11,NC,Common noun,N,Confirmed,
+JJ.mas.pl.gen.vi.n.n.n,11,JJ,Adjective,A,Confirmed,
+NP.neu.sg.0.i,11,NP,Proper noun,NS,Confirmed,
+V.pl.3.imp.n,10,V,Finite verb,KP,Confirmed,
+JJ.neu.sg.nom.i.n.n.n,10,JJ,Adjective,A,Confirmed,
+NC.fem.sg.voc.viii,10,NC,Common noun,N,Confirmed,
+NC.neu.sg.dat.iv,9,NC,Common noun,N,Confirmed,
+JJ.mas.pl.acc.ii.n.n.n,9,JJ,Adjective,A,Confirmed,
+JJ.fem.sg.acc.ii.n.n.n,8,JJ,Adjective,A,Confirmed,
+JJ.neu.pl.acc.ii.n.n.n,8,JJ,Adjective,A,Confirmed,
+NC.fem.pl.gen.vi,8,NC,Common noun,N,Confirmed,
+NC.fem.pl.loc.vii,7,NC,Common noun,N,Confirmed,
+NC.mas.pl.dat.iv,7,NC,Common noun,N,Confirmed,
+NC.neu.pl.ins.iii,7,NC,Common noun,N,Confirmed,
+V.sg.3.prf.n,7,V,Finite verb,KP,Confirmed,
+V.du.3.prs.n,7,V,Finite verb,KP,Confirmed,
+JJ.mas.sg.loc.vii.n.n.n,7,JJ,Adjective,A,Confirmed,
+JJ.neu.pl.0.i.n.n.n,7,JJ,Adjective,A,Confirmed,
+V.du.3.imprf.n,7,V,Finite verb,KP,Confirmed,
+NP.neu.sg.gen.vi,7,NP,Proper noun,NS,Confirmed,
+JJ.mas.sg.ins.iii.n.n.n,6,JJ,Adjective,A,Confirmed,
+V.sg.1.imprf.n,6,V,Finite verb,KP,Confirmed,
+NP.fem.sg.voc.viii,5,NP,Proper noun,NS,Confirmed,
+V.pl.2.imp.n,5,V,Finite verb,KP,Confirmed,
+JJ.fem.pl.0.i.n.n.n,5,JJ,Adjective,A,Confirmed,
+JJ.fem.sg.gen.vi.n.n.n,5,JJ,Adjective,A,Confirmed,
+V.pl.3.gft.n,5,V,Finite verb,KP,Confirmed,
+NP.mas.sg.dat.iv,4,NP,Proper noun,NS,Confirmed,
+JJ.neu.pl.ins.iii.n.n.n,4,JJ,Adjective,A,Confirmed,
+NC.mas.du.acc.ii,4,NC,Common noun,N,Confirmed,
+V.du.1.prs.n,4,V,Finite verb,KP,Confirmed,
+JJ.neu.sg.ins.iii.n.n.n,4,JJ,Adjective,A,Confirmed,
+NC.mas.pl.abl.v,4,NC,Common noun,N,Confirmed,
+NC.mas.du.gen.vi,4,NC,Common noun,N,Confirmed,
+NP.fem.sg.ins.iii,4,NP,Proper noun,NS,Confirmed,
+JJ.neu.pl.nom.i.n.n.n,4,JJ,Adjective,A,Confirmed,
+JJ.neu.pl.gen.vi.n.n.n,3,JJ,Adjective,A,Confirmed,
+NC.x.sg.0.i,3,NC,Common noun,N,Confirmed,
+NC.x.sg.x.x,3,NC,Common noun,N,Confirmed,
+NC.mas.pl.voc.viii,3,NC,Common noun,N,Confirmed,
+NC.mas.sg.0.ii,3,NC,Common noun,N,Confirmed,
+NC.mas.sg.loc.viii,3,NC,Common noun,N,Confirmed,
+NC.fem.sg.dat.iv,3,NC,Common noun,N,Confirmed,
+NC.mas.sg.voc.i,3,NC,Common noun,N,Confirmed,
+NC.neu.du.nom.i,3,NC,Common noun,N,Confirmed,
+NC.fem.sg.voc.x,3,NC,Common noun,N,Confirmed,
+NC.mas.sg.abl.i,3,NC,Common noun,N,Confirmed,
+NC.fem.pl.ins.iii,3,NC,Common noun,N,Confirmed,
+NP.fem.pl.loc.vii,3,NP,Proper noun,NS,Confirmed,
+NP.fem.sg.voc.i,2,NP,Proper noun,NS,Confirmed,
+JJ.0.sg.0.i.n.n.n,2,JJ,Adjective,A,Confirmed,
+NC.mas.du.nom.i,2,NC,Common noun,N,Confirmed,
+JJ.mas.du.0.i.n.n.n,2,JJ,Adjective,A,Confirmed,
+V.du.2.prs.n,2,V,Finite verb,KP,Confirmed,
+V.sg.3.phf.n,2,V,Finite verb,KP,Confirmed,
+V.pl.3.pot.n,2,V,Finite verb,KP,Confirmed,
+NC.fem.du.gen.vi,2,NC,Common noun,N,Confirmed,
+V.pl.1.gft.n,2,V,Finite verb,KP,Confirmed,
+NC.mas.sg.gen.vii,2,NC,Common noun,N,Confirmed,
+NC.neu.du.ins.iii,2,NC,Common noun,N,Confirmed,
+JJ.x.sg.0.i.n.n.n,2,JJ,Adjective,A,Confirmed,
+JJ.neu.du.nom.i.n.n.n,2,JJ,Adjective,A,Confirmed,
+JJ.mas.sg.voc.viii.n.n.n,2,JJ,Adjective,A,Confirmed,
+NC.fem.pl.acc.ii,2,NC,Common noun,N,Confirmed,
+JJ.neu.sg.loc.vii.n.n.n,2,JJ,Adjective,A,Confirmed,
+V.sg.1.pot.n,2,V,Finite verb,KP,Confirmed,
+NP.x.sg.0.i,2,NP,Proper noun,NS,Confirmed,
+NP.neu.sg.nom.i,2,NP,Proper noun,NS,Confirmed,
+JJ.neu.pl.loc.vii.n.n.n,2,JJ,Adjective,A,Confirmed,
+JJ.mas.pl.ins.iii.n.n.n,2,JJ,Adjective,A,Confirmed,
+NC.fem.du.0.i,2,NC,Common noun,N,Confirmed,
+NC.mas.sg.voc.vii,2,NC,Common noun,N,Confirmed,
+NC.mas.du.ins.iii,2,NC,Common noun,N,Confirmed,
+V.sg.2.gft.n,2,V,Finite verb,KP,Confirmed,
+NC.fem.sg.gen.i,1,NC,Common noun,N,Confirmed,
+JJ.mas.pl.loc.vii.n.n.n,1,JJ,Adjective,A,Confirmed,
+JJ.neu.sg.acc.i.n.n.n,1,JJ,Adjective,A,Confirmed,
+NC.neu.sg.acc.i,1,NC,Common noun,N,Confirmed,
+JJ.fem.pl.acc.ii.n.n.n,1,JJ,Adjective,A,Confirmed,
+CSB.n,1,CSB,Subordinating conjunction,SAMB,Confirmed,
+NC.neu.sg.0.ii,1,NC,Common noun,N,Confirmed,
+NC.fem.pl.loc.vi,1,NC,Common noun,N,Confirmed,
+NC.mas.sg.loc.vi,1,NC,Common noun,N,Confirmed,
+JJ.0.0.0.0.n.n.n,1,JJ,Adjective,A,Confirmed,
+JJ.mas.sg.0.0.n.n.n,1,JJ,Adjective,A,Confirmed,
+NP.0.sg.0.0,1,NP,Proper noun,NS,Confirmed,
+NC.mas.du.0.i,1,NC,Common noun,N,Confirmed,
+NC.neu.du.gen.vi,1,NC,Common noun,N,Confirmed,
+V.du.1.gft.n,1,V,Finite verb,KP,Confirmed,
+V.pl.1.pot.n,1,V,Finite verb,KP,Confirmed,
+NP.mas.sg.loc.i,1,NP,Proper noun,NS,Confirmed,
+V.sg.2.pot.n,1,V,Finite verb,KP,Confirmed,
+NC.fem.pl.abl.v,1,NC,Common noun,N,Confirmed,
+NC.fem.sg.abl.v,1,NC,Common noun,N,Confirmed,
+NC.neu.sg.gen.i,1,NC,Common noun,N,Confirmed,
+NP.mas.sg.gen.i,1,NP,Proper noun,NS,Confirmed,
+V.du.3.gft.n,1,V,Finite verb,KP,Confirmed,
+NC.mas.sg.gen.i,1,NC,Common noun,N,Confirmed,
+NC.x.sg.gen.vi,1,NC,Common noun,N,Confirmed,
+NC.mas.pl.abl.x,1,NC,Common noun,N,Confirmed,
+NC.neu.pl.abl.v,1,NC,Common noun,N,Confirmed,
+V.sg.0.prs.n,1,V,Finite verb,KP,Confirmed,
+JJ.fem.sg.ins.iii.n.n.n,1,JJ,Adjective,A,Confirmed,
+NC.mas.du.dat.iv,1,NC,Common noun,N,Confirmed,
+JJ.mas.du.gen.vi.n.n.n,1,JJ,Adjective,A,Confirmed,
+V.du.1.imprf.n,1,V,Finite verb,KP,Confirmed,
+NC.x.sg.ins.i,1,NC,Common noun,N,Confirmed,
+V.sg.2.imprf.n,1,V,Finite verb,KP,Confirmed,
+NC.neu.sg.gen.iii,1,NC,Common noun,N,Confirmed,
+NC.neu.sg.gen.ii,1,NC,Common noun,N,Confirmed,
+NC.neu.sg.loc.viii,1,NC,Common noun,N,Confirmed,
+NP.mas.sg.gen.vii,1,NP,Proper noun,NS,Confirmed,
+V.sg.3.ben.n,1,V,Finite verb,KP,Confirmed,
+NC.neu.pl.dat.iv,1,NC,Common noun,N,Confirmed,
+NP.neu.pl.0.i,1,NP,Proper noun,NS,Confirmed,
+NC.neu.du.acc.ii,1,NC,Common noun,N,Confirmed,
+NP.mas.du.loc.vii,1,NP,Proper noun,NS,Confirmed,
+JJ.fem.pl.ins.iii.n.n.n,1,JJ,Adjective,A,Confirmed,
+NC.mas.sg.x.i,1,NC,Common noun,N,Confirmed,
+NC.neu.du.0.i,1,NC,Common noun,N,Confirmed,
+JJ.fem.du.nom.i.n.n.n,1,JJ,Adjective,A,Confirmed,
+NC.fem.du.nom.i,1,NC,Common noun,N,Confirmed,
+JJ.0.pl.nom.i.n.n.n,1,JJ,Adjective,A,Confirmed,
+NC.mas.sg.acc.iv,1,NC,Common noun,N,Confirmed,
+JJ.fem.sg.loc.vii.n.n.n,1,JJ,Adjective,A,Confirmed,
+JJ.fem.pl.loc.vii.n.n.n,1,JJ,Adjective,A,Confirmed,
+JJ.mas.sg.loc.viii.n.n.n,1,JJ,Adjective,A,Confirmed,
+JJ.mas.sg.dat.iv.n.n.n,1,JJ,Adjective,A,Confirmed,
+V.sg.1.imp.n,1,V,Finite verb,KP,Confirmed,
+NP.mas.sg.acc.i,1,NP,Proper noun,NS,Confirmed,
+JJ.fem.du.0.i.n.n.n,1,JJ,Adjective,A,Confirmed,
+VBP.mas.sg.0.i,235,VBP,Participle form,NV,Confirmed by agreed policy,
+VBP.neu.sg.0.i,87,VBP,Participle form,NV,Confirmed by agreed policy,
+VBP.fem.sg.0.i,61,VBP,Participle form,NV,Confirmed by agreed policy,
+VBP.mas.pl.0.i,33,VBP,Participle form,NV,Confirmed by agreed policy,
+VBP.mas.sg.loc.vii,9,VBP,Participle form,NV,Confirmed by agreed policy,
+VBP,8,VBP,Participle form,NV,Confirmed by agreed policy,
+VBP.mas.du.0.i,4,VBP,Participle form,NV,Confirmed by agreed policy,
+VBP.mas.sg.acc.ii,4,VBP,Participle form,NV,Confirmed by agreed policy,
+VBP.fem.pl.0.i,3,VBP,Participle form,NV,Confirmed by agreed policy,
+VBP.mas.pl.acc.ii,2,VBP,Participle form,NV,Confirmed by agreed policy,
+VBP.neu.pl.acc.ii,2,VBP,Participle form,NV,Confirmed by agreed policy,
+VBP.neu.sg.acc.ii,2,VBP,Participle form,NV,Confirmed by agreed policy,
+VBP.mas.pl.gen.vi,2,VBP,Participle form,NV,Confirmed by agreed policy,
+VBP.mas.sg.gen.vi,1,VBP,Participle form,NV,Confirmed by agreed policy,
+VBP.fem.sg.acc.ii,1,VBP,Participle form,NV,Confirmed by agreed policy,
+VBP.mas.pl.ins.iii,1,VBP,Participle form,NV,Confirmed by agreed policy,
+VBP.mas.sg.loc.viii,1,VBP,Participle form,NV,Confirmed by agreed policy,
+VBP.fem.sg.nom.i,1,VBP,Participle form,NV,Confirmed by agreed policy,
+VBP.neu.du.0.i,1,VBP,Participle form,NV,Confirmed by agreed policy,
+VBP.fem.pl.nom.i,1,VBP,Participle form,NV,Confirmed by agreed policy,
+VBP.fem.sg.gen.vi,1,VBP,Participle form,NV,Confirmed by agreed policy,
+VBP.0.0.0.0,1,VBP,Participle form,NV,Confirmed by agreed policy,
+VBP.mas.sg.nom.i,1,VBP,Participle form,NV,Confirmed by agreed policy,
+VBP.0.sg.0.i,1,VBP,Participle form,NV,Confirmed by agreed policy,
+VBP.neu.sg.ins.iii,1,VBP,Participle form,NV,Confirmed by agreed policy,
+VBP.mas.pl.nom.i,1,VBP,Participle form,NV,Confirmed by agreed policy,
+VBP.0.0.0.i,1,VBP,Participle form,NV,Confirmed by agreed policy,
+VBP.neu.pl.0.i,1,VBP,Participle form,NV,Confirmed by agreed policy,
+PPR.mas.sg.3.nom.i.n.n.dst,121,PPR,Pronoun: distinguish independent pronoun (SN) from pronominal adjective (SNV).,,Context-dependent,Pronoun: distinguish independent pronoun (SN) from pronominal adjective (SNV).
+PPR.0.sg.1.gen.vi.n.n.prx,80,PPR,Pronoun: distinguish independent pronoun (SN) from pronominal adjective (SNV).,,Context-dependent,Pronoun: distinguish independent pronoun (SN) from pronominal adjective (SNV).
+PPR.0.sg.1.nom.i.n.n.prx,65,PPR,Pronoun: distinguish independent pronoun (SN) from pronominal adjective (SNV).,,Context-dependent,Pronoun: distinguish independent pronoun (SN) from pronominal adjective (SNV).
+PPR.mas.sg.3.gen.vi.n.n.dst,60,PPR,Pronoun: distinguish independent pronoun (SN) from pronominal adjective (SNV).,,Context-dependent,Pronoun: distinguish independent pronoun (SN) from pronominal adjective (SNV).
+PPR.mas.sg.3.gen.vi.n.n.prx,48,PPR,Pronoun: distinguish independent pronoun (SN) from pronominal adjective (SNV).,,Context-dependent,Pronoun: distinguish independent pronoun (SN) from pronominal adjective (SNV).
+PPR.mas.sg.3.nom.i.n.n.prx,42,PPR,Pronoun: distinguish independent pronoun (SN) from pronominal adjective (SNV).,,Context-dependent,Pronoun: distinguish independent pronoun (SN) from pronominal adjective (SNV).
+PWH.neu.sg.3.0.i,31,PWH,Wh-pronoun: inspect its grammatical function.,,Context-dependent,Wh-pronoun: inspect its grammatical function.
+PPR.0.sg.1.ins.iii.n.n.prx,24,PPR,Pronoun: distinguish independent pronoun (SN) from pronominal adjective (SNV).,,Context-dependent,Pronoun: distinguish independent pronoun (SN) from pronominal adjective (SNV).
+PPR.0.sg.2.gen.vi.n.n.prx,23,PPR,Pronoun: distinguish independent pronoun (SN) from pronominal adjective (SNV).,,Context-dependent,Pronoun: distinguish independent pronoun (SN) from pronominal adjective (SNV).
+PPR.mas.sg.3.acc.ii.n.n.dst,23,PPR,Pronoun: distinguish independent pronoun (SN) from pronominal adjective (SNV).,,Context-dependent,Pronoun: distinguish independent pronoun (SN) from pronominal adjective (SNV).
+PPR.0.sg.2.nom.i.n.n.prx,22,PPR,Pronoun: distinguish independent pronoun (SN) from pronominal adjective (SNV).,,Context-dependent,Pronoun: distinguish independent pronoun (SN) from pronominal adjective (SNV).
+PPR.0.sg.1.acc.ii.n.n.prx,21,PPR,Pronoun: distinguish independent pronoun (SN) from pronominal adjective (SNV).,,Context-dependent,Pronoun: distinguish independent pronoun (SN) from pronominal adjective (SNV).
+PPR.fem.sg.3.nom.i.n.n.dst,20,PPR,Pronoun: distinguish independent pronoun (SN) from pronominal adjective (SNV).,,Context-dependent,Pronoun: distinguish independent pronoun (SN) from pronominal adjective (SNV).
+PPR.fem.sg.3.gen.vi.n.n.prx,19,PPR,Pronoun: distinguish independent pronoun (SN) from pronominal adjective (SNV).,,Context-dependent,Pronoun: distinguish independent pronoun (SN) from pronominal adjective (SNV).
+PPR.mas.sg.3.ins.iii.n.n.dst,18,PPR,Pronoun: distinguish independent pronoun (SN) from pronominal adjective (SNV).,,Context-dependent,Pronoun: distinguish independent pronoun (SN) from pronominal adjective (SNV).
+PWH.neu.sg.0.0.i,17,PWH,Wh-pronoun: inspect its grammatical function.,,Context-dependent,Wh-pronoun: inspect its grammatical function.
+PPR.0.pl.1.gen.vi.n.n.prx,17,PPR,Pronoun: distinguish independent pronoun (SN) from pronominal adjective (SNV).,,Context-dependent,Pronoun: distinguish independent pronoun (SN) from pronominal adjective (SNV).
+PPR.fem.sg.3.nom.i.n.n.prx,16,PPR,Pronoun: distinguish independent pronoun (SN) from pronominal adjective (SNV).,,Context-dependent,Pronoun: distinguish independent pronoun (SN) from pronominal adjective (SNV).
+PPR.mas.pl.3.nom.i.n.n.dst,14,PPR,Pronoun: distinguish independent pronoun (SN) from pronominal adjective (SNV).,,Context-dependent,Pronoun: distinguish independent pronoun (SN) from pronominal adjective (SNV).
+PPR.mas.pl.3.gen.vi.n.n.dst,13,PPR,Pronoun: distinguish independent pronoun (SN) from pronominal adjective (SNV).,,Context-dependent,Pronoun: distinguish independent pronoun (SN) from pronominal adjective (SNV).
+PPR.neu.sg.3.nom.i.n.n.prx,12,PPR,Pronoun: distinguish independent pronoun (SN) from pronominal adjective (SNV).,,Context-dependent,Pronoun: distinguish independent pronoun (SN) from pronominal adjective (SNV).
+PPR.mas.sg.3.ins.iii.n.n.prx,12,PPR,Pronoun: distinguish independent pronoun (SN) from pronominal adjective (SNV).,,Context-dependent,Pronoun: distinguish independent pronoun (SN) from pronominal adjective (SNV).
+PPR.neu.sg.3.0.i.n.n.prx,9,PPR,Pronoun: distinguish independent pronoun (SN) from pronominal adjective (SNV).,,Context-dependent,Pronoun: distinguish independent pronoun (SN) from pronominal adjective (SNV).
+PWH.mas.sg.3.nom.i,8,PWH,Wh-pronoun: inspect its grammatical function.,,Context-dependent,Wh-pronoun: inspect its grammatical function.
+PPR.neu.sg.3.acc.ii.n.n.prx,8,PPR,Pronoun: distinguish independent pronoun (SN) from pronominal adjective (SNV).,,Context-dependent,Pronoun: distinguish independent pronoun (SN) from pronominal adjective (SNV).
+PPR.0.sg.2.0.i.n.n.prx,7,PPR,Pronoun: distinguish independent pronoun (SN) from pronominal adjective (SNV).,,Context-dependent,Pronoun: distinguish independent pronoun (SN) from pronominal adjective (SNV).
+PPR.fem.sg.3.gen.vi.n.n.dst,7,PPR,Pronoun: distinguish independent pronoun (SN) from pronominal adjective (SNV).,,Context-dependent,Pronoun: distinguish independent pronoun (SN) from pronominal adjective (SNV).
+PPR.0.pl.1.nom.i.n.n.prx,7,PPR,Pronoun: distinguish independent pronoun (SN) from pronominal adjective (SNV).,,Context-dependent,Pronoun: distinguish independent pronoun (SN) from pronominal adjective (SNV).
+PPR.neu.sg.3.0.i.n.n.dst,7,PPR,Pronoun: distinguish independent pronoun (SN) from pronominal adjective (SNV).,,Context-dependent,Pronoun: distinguish independent pronoun (SN) from pronominal adjective (SNV).
+PPR.neu.sg.3.nom.i.n.n.dst,7,PPR,Pronoun: distinguish independent pronoun (SN) from pronominal adjective (SNV).,,Context-dependent,Pronoun: distinguish independent pronoun (SN) from pronominal adjective (SNV).
+PPR.mas.pl.3.nom.i.n.n.0,6,PPR,Pronoun: distinguish independent pronoun (SN) from pronominal adjective (SNV).,,Context-dependent,Pronoun: distinguish independent pronoun (SN) from pronominal adjective (SNV).
+PWH.neu.sg.0.acc.ii,6,PWH,Wh-pronoun: inspect its grammatical function.,,Context-dependent,Wh-pronoun: inspect its grammatical function.
+PRF.mas.sg.gen.vi,6,PRF,Reflexive pronoun: inspect its grammatical function.,,Context-dependent,Reflexive pronoun: inspect its grammatical function.
+PRF.0.sg.gen.vi,6,PRF,Reflexive pronoun: inspect its grammatical function.,,Context-dependent,Reflexive pronoun: inspect its grammatical function.
+PPR.mas.sg.1.gen.vi.n.n.prx,6,PPR,Pronoun: distinguish independent pronoun (SN) from pronominal adjective (SNV).,,Context-dependent,Pronoun: distinguish independent pronoun (SN) from pronominal adjective (SNV).
+PPR.mas.pl.3.ins.iii.n.n.dst,6,PPR,Pronoun: distinguish independent pronoun (SN) from pronominal adjective (SNV).,,Context-dependent,Pronoun: distinguish independent pronoun (SN) from pronominal adjective (SNV).
+PPR.0.sg.1.dat.iv.n.n.prx,6,PPR,Pronoun: distinguish independent pronoun (SN) from pronominal adjective (SNV).,,Context-dependent,Pronoun: distinguish independent pronoun (SN) from pronominal adjective (SNV).
+PWH.mas.sg.0.nom.i,6,PWH,Wh-pronoun: inspect its grammatical function.,,Context-dependent,Wh-pronoun: inspect its grammatical function.
+PPR.fem.sg.3.acc.ii.n.n.prx,5,PPR,Pronoun: distinguish independent pronoun (SN) from pronominal adjective (SNV).,,Context-dependent,Pronoun: distinguish independent pronoun (SN) from pronominal adjective (SNV).
+PPR.mas.pl.3.acc.ii.n.n.dst,5,PPR,Pronoun: distinguish independent pronoun (SN) from pronominal adjective (SNV).,,Context-dependent,Pronoun: distinguish independent pronoun (SN) from pronominal adjective (SNV).
+PRF.0.sg.acc.ii,5,PRF,Reflexive pronoun: inspect its grammatical function.,,Context-dependent,Reflexive pronoun: inspect its grammatical function.
+PPR.neu.sg.3.acc.ii.n.n.dst,5,PPR,Pronoun: distinguish independent pronoun (SN) from pronominal adjective (SNV).,,Context-dependent,Pronoun: distinguish independent pronoun (SN) from pronominal adjective (SNV).
+PRL.mas.sg.3.nom.i,5,PRL,Relative pronoun: inspect its grammatical function.,,Context-dependent,Relative pronoun: inspect its grammatical function.
+PPR.0.pl.1.ins.iii.n.n.prx,5,PPR,Pronoun: distinguish independent pronoun (SN) from pronominal adjective (SNV).,,Context-dependent,Pronoun: distinguish independent pronoun (SN) from pronominal adjective (SNV).
+PPR.fem.pl.3.0.i.n.n.0,5,PPR,Pronoun: distinguish independent pronoun (SN) from pronominal adjective (SNV).,,Context-dependent,Pronoun: distinguish independent pronoun (SN) from pronominal adjective (SNV).
+PPR.neu.sg.3.ins.iii.n.n.prx,4,PPR,Pronoun: distinguish independent pronoun (SN) from pronominal adjective (SNV).,,Context-dependent,Pronoun: distinguish independent pronoun (SN) from pronominal adjective (SNV).
+PPR.mas.pl.3.gen.vi.n.n.prx,4,PPR,Pronoun: distinguish independent pronoun (SN) from pronominal adjective (SNV).,,Context-dependent,Pronoun: distinguish independent pronoun (SN) from pronominal adjective (SNV).
+PPR.0.sg.1.0.i.n.n.prx,4,PPR,Pronoun: distinguish independent pronoun (SN) from pronominal adjective (SNV).,,Context-dependent,Pronoun: distinguish independent pronoun (SN) from pronominal adjective (SNV).
+PRL.mas.pl.3.nom.i,4,PRL,Relative pronoun: inspect its grammatical function.,,Context-dependent,Relative pronoun: inspect its grammatical function.
+PPR.mas.sg.3.acc.ii.n.n.prx,4,PPR,Pronoun: distinguish independent pronoun (SN) from pronominal adjective (SNV).,,Context-dependent,Pronoun: distinguish independent pronoun (SN) from pronominal adjective (SNV).
+PWH.0.sg.0.0.i,4,PWH,Wh-pronoun: inspect its grammatical function.,,Context-dependent,Wh-pronoun: inspect its grammatical function.
+PPR.0.sg.2.dat.iv.n.n.prx,4,PPR,Pronoun: distinguish independent pronoun (SN) from pronominal adjective (SNV).,,Context-dependent,Pronoun: distinguish independent pronoun (SN) from pronominal adjective (SNV).
+PWH.mas.sg.3.gen.vi,3,PWH,Wh-pronoun: inspect its grammatical function.,,Context-dependent,Wh-pronoun: inspect its grammatical function.
+PWH.neu.sg.3.acc.ii,3,PWH,Wh-pronoun: inspect its grammatical function.,,Context-dependent,Wh-pronoun: inspect its grammatical function.
+PRL.mas.sg.3.acc.ii,3,PRL,Relative pronoun: inspect its grammatical function.,,Context-dependent,Relative pronoun: inspect its grammatical function.
+PRC.neu.sg.0.i,3,PRC,Reciprocal pronoun: inspect its grammatical function.,,Context-dependent,Reciprocal pronoun: inspect its grammatical function.
+PPR.mas.sg.1.nom.i.n.n.prx,3,PPR,Pronoun: distinguish independent pronoun (SN) from pronominal adjective (SNV).,,Context-dependent,Pronoun: distinguish independent pronoun (SN) from pronominal adjective (SNV).
+PPR.0.sg.2.ins.iii.n.n.prx,3,PPR,Pronoun: distinguish independent pronoun (SN) from pronominal adjective (SNV).,,Context-dependent,Pronoun: distinguish independent pronoun (SN) from pronominal adjective (SNV).
+PPR.mas.sg.3.0.i.n.n.dst,3,PPR,Pronoun: distinguish independent pronoun (SN) from pronominal adjective (SNV).,,Context-dependent,Pronoun: distinguish independent pronoun (SN) from pronominal adjective (SNV).
+PWH.fem.sg.0.nom.i,3,PWH,Wh-pronoun: inspect its grammatical function.,,Context-dependent,Wh-pronoun: inspect its grammatical function.
+PPR.fem.pl.3.nom.i.n.n.prx,3,PPR,Pronoun: distinguish independent pronoun (SN) from pronominal adjective (SNV).,,Context-dependent,Pronoun: distinguish independent pronoun (SN) from pronominal adjective (SNV).
+PPR.neu.pl.3.nom.i.n.n.dst,3,PPR,Pronoun: distinguish independent pronoun (SN) from pronominal adjective (SNV).,,Context-dependent,Pronoun: distinguish independent pronoun (SN) from pronominal adjective (SNV).
+PPR.fem.sg.3.loc.vii.n.n.prx,2,PPR,Pronoun: distinguish independent pronoun (SN) from pronominal adjective (SNV).,,Context-dependent,Pronoun: distinguish independent pronoun (SN) from pronominal adjective (SNV).
+PWH.neu.sg.3.ins.iii,2,PWH,Wh-pronoun: inspect its grammatical function.,,Context-dependent,Wh-pronoun: inspect its grammatical function.
+PPR.mas.pl.3.nom.i.n.n.prx,2,PPR,Pronoun: distinguish independent pronoun (SN) from pronominal adjective (SNV).,,Context-dependent,Pronoun: distinguish independent pronoun (SN) from pronominal adjective (SNV).
+PPR.neu.pl.3.loc.vii.n.n.prx,2,PPR,Pronoun: distinguish independent pronoun (SN) from pronominal adjective (SNV).,,Context-dependent,Pronoun: distinguish independent pronoun (SN) from pronominal adjective (SNV).
+PPR.0.du.1.nom.i.n.n.prx,2,PPR,Pronoun: distinguish independent pronoun (SN) from pronominal adjective (SNV).,,Context-dependent,Pronoun: distinguish independent pronoun (SN) from pronominal adjective (SNV).
+PPR.mas.du.3.nom.i.n.n.dst,2,PPR,Pronoun: distinguish independent pronoun (SN) from pronominal adjective (SNV).,,Context-dependent,Pronoun: distinguish independent pronoun (SN) from pronominal adjective (SNV).
+PPR.neu.sg.3.gen.vi.n.n.prx,2,PPR,Pronoun: distinguish independent pronoun (SN) from pronominal adjective (SNV).,,Context-dependent,Pronoun: distinguish independent pronoun (SN) from pronominal adjective (SNV).
+PWH.neu.sg.3.nom.i,2,PWH,Wh-pronoun: inspect its grammatical function.,,Context-dependent,Wh-pronoun: inspect its grammatical function.
+PPR.0.pl.1.dat.iv.n.n.prx,2,PPR,Pronoun: distinguish independent pronoun (SN) from pronominal adjective (SNV).,,Context-dependent,Pronoun: distinguish independent pronoun (SN) from pronominal adjective (SNV).
+PRF.mas.sg.0.i,2,PRF,Reflexive pronoun: inspect its grammatical function.,,Context-dependent,Reflexive pronoun: inspect its grammatical function.
+PPR.0.sg.2.loc.vii.n.n.prx,2,PPR,Pronoun: distinguish independent pronoun (SN) from pronominal adjective (SNV).,,Context-dependent,Pronoun: distinguish independent pronoun (SN) from pronominal adjective (SNV).
+PWH.fem.sg.3.0.i,2,PWH,Wh-pronoun: inspect its grammatical function.,,Context-dependent,Wh-pronoun: inspect its grammatical function.
+PWH.mas.sg.3.0.i,2,PWH,Wh-pronoun: inspect its grammatical function.,,Context-dependent,Wh-pronoun: inspect its grammatical function.
+PPR.mas.pl.1.gen.vi.n.n.prx,2,PPR,Pronoun: distinguish independent pronoun (SN) from pronominal adjective (SNV).,,Context-dependent,Pronoun: distinguish independent pronoun (SN) from pronominal adjective (SNV).
+PPR.mas.sg.1.acc.ii.n.n.prx,2,PPR,Pronoun: distinguish independent pronoun (SN) from pronominal adjective (SNV).,,Context-dependent,Pronoun: distinguish independent pronoun (SN) from pronominal adjective (SNV).
+PPR.mas.sg.3.dat.iv.n.n.dst,2,PPR,Pronoun: distinguish independent pronoun (SN) from pronominal adjective (SNV).,,Context-dependent,Pronoun: distinguish independent pronoun (SN) from pronominal adjective (SNV).
+PPR.fem.sg.3.acc.ii.n.n.dst,2,PPR,Pronoun: distinguish independent pronoun (SN) from pronominal adjective (SNV).,,Context-dependent,Pronoun: distinguish independent pronoun (SN) from pronominal adjective (SNV).
+PRF.mas.sg.acc.ii,2,PRF,Reflexive pronoun: inspect its grammatical function.,,Context-dependent,Reflexive pronoun: inspect its grammatical function.
+PPR.0.pl.2.nom.i.n.n.prx,2,PPR,Pronoun: distinguish independent pronoun (SN) from pronominal adjective (SNV).,,Context-dependent,Pronoun: distinguish independent pronoun (SN) from pronominal adjective (SNV).
+PPR.mas.sg.3.dat.iv.n.n.prx,2,PPR,Pronoun: distinguish independent pronoun (SN) from pronominal adjective (SNV).,,Context-dependent,Pronoun: distinguish independent pronoun (SN) from pronominal adjective (SNV).
+PRC.0.sg.0.i,2,PRC,Reciprocal pronoun: inspect its grammatical function.,,Context-dependent,Reciprocal pronoun: inspect its grammatical function.
+PPR.fem.du.3.gen.vi.n.n.dst,2,PPR,Pronoun: distinguish independent pronoun (SN) from pronominal adjective (SNV).,,Context-dependent,Pronoun: distinguish independent pronoun (SN) from pronominal adjective (SNV).
+PPR.fem.du.3.gen.vi.n.n.prx,2,PPR,Pronoun: distinguish independent pronoun (SN) from pronominal adjective (SNV).,,Context-dependent,Pronoun: distinguish independent pronoun (SN) from pronominal adjective (SNV).
+PPR.0.sg.2.acc.ii.n.n.prx,2,PPR,Pronoun: distinguish independent pronoun (SN) from pronominal adjective (SNV).,,Context-dependent,Pronoun: distinguish independent pronoun (SN) from pronominal adjective (SNV).
+PWH.mas.sg.0.gen.vi,2,PWH,Wh-pronoun: inspect its grammatical function.,,Context-dependent,Wh-pronoun: inspect its grammatical function.
+PWH.mas.sg.0.0.i,2,PWH,Wh-pronoun: inspect its grammatical function.,,Context-dependent,Wh-pronoun: inspect its grammatical function.
+PPR.neu.pl.3.nom.i.n.n.0,2,PPR,Pronoun: distinguish independent pronoun (SN) from pronominal adjective (SNV).,,Context-dependent,Pronoun: distinguish independent pronoun (SN) from pronominal adjective (SNV).
+PPR.fem.sg.3.ins.iii.n.n.dst,2,PPR,Pronoun: distinguish independent pronoun (SN) from pronominal adjective (SNV).,,Context-dependent,Pronoun: distinguish independent pronoun (SN) from pronominal adjective (SNV).
+PPR.fem.sg.3.loc.vii.n.n.dst,1,PPR,Pronoun: distinguish independent pronoun (SN) from pronominal adjective (SNV).,,Context-dependent,Pronoun: distinguish independent pronoun (SN) from pronominal adjective (SNV).
+PWH.mas.sg.0.acc.ii,1,PWH,Wh-pronoun: inspect its grammatical function.,,Context-dependent,Wh-pronoun: inspect its grammatical function.
+PPR.mas.pl.3.dat.iv.n.n.prx,1,PPR,Pronoun: distinguish independent pronoun (SN) from pronominal adjective (SNV).,,Context-dependent,Pronoun: distinguish independent pronoun (SN) from pronominal adjective (SNV).
+PPR.mas.pl.3.0.i.n.n.0,1,PPR,Pronoun: distinguish independent pronoun (SN) from pronominal adjective (SNV).,,Context-dependent,Pronoun: distinguish independent pronoun (SN) from pronominal adjective (SNV).
+PRF.fem.sg.acc.ii,1,PRF,Reflexive pronoun: inspect its grammatical function.,,Context-dependent,Reflexive pronoun: inspect its grammatical function.
+PPR.0.du.1.gen.vi.n.n.prx,1,PPR,Pronoun: distinguish independent pronoun (SN) from pronominal adjective (SNV).,,Context-dependent,Pronoun: distinguish independent pronoun (SN) from pronominal adjective (SNV).
+PRF.0.sg.0.i,1,PRF,Reflexive pronoun: inspect its grammatical function.,,Context-dependent,Reflexive pronoun: inspect its grammatical function.
+PPR.neu.sg.3.loc.vii.n.n.prx,1,PPR,Pronoun: distinguish independent pronoun (SN) from pronominal adjective (SNV).,,Context-dependent,Pronoun: distinguish independent pronoun (SN) from pronominal adjective (SNV).
+PRL.neu.sg.3.loc.vii,1,PRL,Relative pronoun: inspect its grammatical function.,,Context-dependent,Relative pronoun: inspect its grammatical function.
+PRC.mas.sg.acc.ii,1,PRC,Reciprocal pronoun: inspect its grammatical function.,,Context-dependent,Reciprocal pronoun: inspect its grammatical function.
+PPR.0.sg.1.0.iii.n.n.prx,1,PPR,Pronoun: distinguish independent pronoun (SN) from pronominal adjective (SNV).,,Context-dependent,Pronoun: distinguish independent pronoun (SN) from pronominal adjective (SNV).
+PPR.neu.sg.3.abl.v.n.n.prx,1,PPR,Pronoun: distinguish independent pronoun (SN) from pronominal adjective (SNV).,,Context-dependent,Pronoun: distinguish independent pronoun (SN) from pronominal adjective (SNV).
+PRC.mas.sg.nom.i,1,PRC,Reciprocal pronoun: inspect its grammatical function.,,Context-dependent,Reciprocal pronoun: inspect its grammatical function.
+PPR.mas.pl.3.gen.vi.n.n.0,1,PPR,Pronoun: distinguish independent pronoun (SN) from pronominal adjective (SNV).,,Context-dependent,Pronoun: distinguish independent pronoun (SN) from pronominal adjective (SNV).
+PPR.mas.pl.3.dat.iv.n.n.dst,1,PPR,Pronoun: distinguish independent pronoun (SN) from pronominal adjective (SNV).,,Context-dependent,Pronoun: distinguish independent pronoun (SN) from pronominal adjective (SNV).
+PPR.mas.sg.3.loc.vii.n.n.dst,1,PPR,Pronoun: distinguish independent pronoun (SN) from pronominal adjective (SNV).,,Context-dependent,Pronoun: distinguish independent pronoun (SN) from pronominal adjective (SNV).
+PPR.mas.pl.3.abl.v.n.n.dst,1,PPR,Pronoun: distinguish independent pronoun (SN) from pronominal adjective (SNV).,,Context-dependent,Pronoun: distinguish independent pronoun (SN) from pronominal adjective (SNV).
+PPR.neu.du.3.dat.iv.n.n.prx,1,PPR,Pronoun: distinguish independent pronoun (SN) from pronominal adjective (SNV).,,Context-dependent,Pronoun: distinguish independent pronoun (SN) from pronominal adjective (SNV).
+PPR.neu.sg.1.nom.i.n.n.prx,1,PPR,Pronoun: distinguish independent pronoun (SN) from pronominal adjective (SNV).,,Context-dependent,Pronoun: distinguish independent pronoun (SN) from pronominal adjective (SNV).
+PRL.neu.sg.3.abl.v,1,PRL,Relative pronoun: inspect its grammatical function.,,Context-dependent,Relative pronoun: inspect its grammatical function.
+PPR.neu.sg.3.ins.iii.n.n.dst,1,PPR,Pronoun: distinguish independent pronoun (SN) from pronominal adjective (SNV).,,Context-dependent,Pronoun: distinguish independent pronoun (SN) from pronominal adjective (SNV).
+PPR.0.du.1.abl.v.n.n.prx,1,PPR,Pronoun: distinguish independent pronoun (SN) from pronominal adjective (SNV).,,Context-dependent,Pronoun: distinguish independent pronoun (SN) from pronominal adjective (SNV).
+PPR.0.sg.1.nom.i.n.n.prx.n,1,PPR,Pronoun: distinguish independent pronoun (SN) from pronominal adjective (SNV).,,Context-dependent,Pronoun: distinguish independent pronoun (SN) from pronominal adjective (SNV).
+PWH.neu.sg.3.loc.vii,1,PWH,Wh-pronoun: inspect its grammatical function.,,Context-dependent,Wh-pronoun: inspect its grammatical function.
+PPR.mas.du.3.gen.vi.n.n.dst,1,PPR,Pronoun: distinguish independent pronoun (SN) from pronominal adjective (SNV).,,Context-dependent,Pronoun: distinguish independent pronoun (SN) from pronominal adjective (SNV).
+PPR.fem.sg.1.nom.i.n.n.prx,1,PPR,Pronoun: distinguish independent pronoun (SN) from pronominal adjective (SNV).,,Context-dependent,Pronoun: distinguish independent pronoun (SN) from pronominal adjective (SNV).
+PRL.fem.sg.3.nom.i,1,PRL,Relative pronoun: inspect its grammatical function.,,Context-dependent,Relative pronoun: inspect its grammatical function.
+PWH.0.sg.0.nom.i,1,PWH,Wh-pronoun: inspect its grammatical function.,,Context-dependent,Wh-pronoun: inspect its grammatical function.
+PRL.neu.sg.3.0.i,1,PRL,Relative pronoun: inspect its grammatical function.,,Context-dependent,Relative pronoun: inspect its grammatical function.
+PPR.neu.sg.3.loc.vii.n.n.dst,1,PPR,Pronoun: distinguish independent pronoun (SN) from pronominal adjective (SNV).,,Context-dependent,Pronoun: distinguish independent pronoun (SN) from pronominal adjective (SNV).
+PRL.neu.sg.3.ins.iii,1,PRL,Relative pronoun: inspect its grammatical function.,,Context-dependent,Relative pronoun: inspect its grammatical function.
+PPR.neu.sg.3.loc.viii.n.n.prx,1,PPR,Pronoun: distinguish independent pronoun (SN) from pronominal adjective (SNV).,,Context-dependent,Pronoun: distinguish independent pronoun (SN) from pronominal adjective (SNV).
+PPR.mas.du.2.gen.vi.n.n.dst,1,PPR,Pronoun: distinguish independent pronoun (SN) from pronominal adjective (SNV).,,Context-dependent,Pronoun: distinguish independent pronoun (SN) from pronominal adjective (SNV).
+PPR.0.sg.3.gen.vi.n.n.prx,1,PPR,Pronoun: distinguish independent pronoun (SN) from pronominal adjective (SNV).,,Context-dependent,Pronoun: distinguish independent pronoun (SN) from pronominal adjective (SNV).
+PPR.mas.pl.3.acc.ii.n.n.prx,1,PPR,Pronoun: distinguish independent pronoun (SN) from pronominal adjective (SNV).,,Context-dependent,Pronoun: distinguish independent pronoun (SN) from pronominal adjective (SNV).
+PPR.mas.sg.2.loc.vii.n.n.prx,1,PPR,Pronoun: distinguish independent pronoun (SN) from pronominal adjective (SNV).,,Context-dependent,Pronoun: distinguish independent pronoun (SN) from pronominal adjective (SNV).
+PPR.neu.sg.3.gen.vi.n.n.dst,1,PPR,Pronoun: distinguish independent pronoun (SN) from pronominal adjective (SNV).,,Context-dependent,Pronoun: distinguish independent pronoun (SN) from pronominal adjective (SNV).
+PRF.neu.pl.acc.ii,1,PRF,Reflexive pronoun: inspect its grammatical function.,,Context-dependent,Reflexive pronoun: inspect its grammatical function.
+PPR.fem.pl.3.gen.vi.n.n.prx,1,PPR,Pronoun: distinguish independent pronoun (SN) from pronominal adjective (SNV).,,Context-dependent,Pronoun: distinguish independent pronoun (SN) from pronominal adjective (SNV).
+PRF.mas.pl.ins.iii,1,PRF,Reflexive pronoun: inspect its grammatical function.,,Context-dependent,Reflexive pronoun: inspect its grammatical function.
+PPR.fem.pl.3.nom.i.n.n.dst,1,PPR,Pronoun: distinguish independent pronoun (SN) from pronominal adjective (SNV).,,Context-dependent,Pronoun: distinguish independent pronoun (SN) from pronominal adjective (SNV).
+PPR.mas.sg.2.dat.iv.n.n.prx,1,PPR,Pronoun: distinguish independent pronoun (SN) from pronominal adjective (SNV).,,Context-dependent,Pronoun: distinguish independent pronoun (SN) from pronominal adjective (SNV).
+PPR.mas.sg.3.abl.v.n.n.dst,1,PPR,Pronoun: distinguish independent pronoun (SN) from pronominal adjective (SNV).,,Context-dependent,Pronoun: distinguish independent pronoun (SN) from pronominal adjective (SNV).
+PPR.fem.du.3.loc.vii.n.n.dst,1,PPR,Pronoun: distinguish independent pronoun (SN) from pronominal adjective (SNV).,,Context-dependent,Pronoun: distinguish independent pronoun (SN) from pronominal adjective (SNV).
+PPR.fem.du.3.nom.i.n.n.dst,1,PPR,Pronoun: distinguish independent pronoun (SN) from pronominal adjective (SNV).,,Context-dependent,Pronoun: distinguish independent pronoun (SN) from pronominal adjective (SNV).
+PRL.fem.sg.3.gen.vi,1,PRL,Relative pronoun: inspect its grammatical function.,,Context-dependent,Relative pronoun: inspect its grammatical function.
+PRL.mas.sg.3.gen.vi,1,PRL,Relative pronoun: inspect its grammatical function.,,Context-dependent,Relative pronoun: inspect its grammatical function.
+PRL.neu.sg.0.0.i,1,PRL,Relative pronoun: inspect its grammatical function.,,Context-dependent,Relative pronoun: inspect its grammatical function.
+PPR.mas.pl.3.0.i.n.n.prx,1,PPR,Pronoun: distinguish independent pronoun (SN) from pronominal adjective (SNV).,,Context-dependent,Pronoun: distinguish independent pronoun (SN) from pronominal adjective (SNV).
+PPR.mas.sg.2.gen.vi.n.n.prx,1,PPR,Pronoun: distinguish independent pronoun (SN) from pronominal adjective (SNV).,,Context-dependent,Pronoun: distinguish independent pronoun (SN) from pronominal adjective (SNV).
+PWH.neu.sg.0.dat.i,1,PWH,Wh-pronoun: inspect its grammatical function.,,Context-dependent,Wh-pronoun: inspect its grammatical function.
+PWH.neu.sg.nom.0.i,1,PWH,Wh-pronoun: inspect its grammatical function.,,Context-dependent,Wh-pronoun: inspect its grammatical function.
+PWH.neu.sg.0.abl.v,1,PWH,Wh-pronoun: inspect its grammatical function.,,Context-dependent,Wh-pronoun: inspect its grammatical function.
+PPR.mas.sg.0.gen.vi.n.n.dst,1,PPR,Pronoun: distinguish independent pronoun (SN) from pronominal adjective (SNV).,,Context-dependent,Pronoun: distinguish independent pronoun (SN) from pronominal adjective (SNV).
+PPR.mas.sg.3.abl.v.n.n.prx,1,PPR,Pronoun: distinguish independent pronoun (SN) from pronominal adjective (SNV).,,Context-dependent,Pronoun: distinguish independent pronoun (SN) from pronominal adjective (SNV).
+PPR.neu.pl.3.0.i.n.n.0,1,PPR,Pronoun: distinguish independent pronoun (SN) from pronominal adjective (SNV).,,Context-dependent,Pronoun: distinguish independent pronoun (SN) from pronominal adjective (SNV).
+PRL.mas.pl.3.acc.ii,1,PRL,Relative pronoun: inspect its grammatical function.,,Context-dependent,Relative pronoun: inspect its grammatical function.
+PPR.mas.pl.3.ins.iii.n.n.prx,1,PPR,Pronoun: distinguish independent pronoun (SN) from pronominal adjective (SNV).,,Context-dependent,Pronoun: distinguish independent pronoun (SN) from pronominal adjective (SNV).
+PPR.mas.sg.3.0.i.n.n.prx,1,PPR,Pronoun: distinguish independent pronoun (SN) from pronominal adjective (SNV).,,Context-dependent,Pronoun: distinguish independent pronoun (SN) from pronominal adjective (SNV).
+PRF.neu.sg.acc.ii,1,PRF,Reflexive pronoun: inspect its grammatical function.,,Context-dependent,Reflexive pronoun: inspect its grammatical function.
+PPR.mas.sg.0.nom.i.n.n.prx,1,PPR,Pronoun: distinguish independent pronoun (SN) from pronominal adjective (SNV).,,Context-dependent,Pronoun: distinguish independent pronoun (SN) from pronominal adjective (SNV).
+PPR.0.du.3.ins.iii.n.n.prx,1,PPR,Pronoun: distinguish independent pronoun (SN) from pronominal adjective (SNV).,,Context-dependent,Pronoun: distinguish independent pronoun (SN) from pronominal adjective (SNV).
+PWH.fem.sg.0.0.i,1,PWH,Wh-pronoun: inspect its grammatical function.,,Context-dependent,Wh-pronoun: inspect its grammatical function.
+PRL.fem.sg.3.ins.iii,1,PRL,Relative pronoun: inspect its grammatical function.,,Context-dependent,Relative pronoun: inspect its grammatical function.
+VBG.neu.sg.0.i,36,VBG,Gerundive/participle candidate; source encoding needs verification,,Needs verification,Check the source corpus convention before mapping to NV.
+VBG.mas.sg.0.i,14,VBG,Gerundive/participle candidate; source encoding needs verification,,Needs verification,Check the source corpus convention before mapping to NV.
+VBG.fem.sg.0.i,7,VBG,Gerundive/participle candidate; source encoding needs verification,,Needs verification,Check the source corpus convention before mapping to NV.
+VBG,1,VBG,Gerundive/participle candidate; source encoding needs verification,,Needs verification,Check the source corpus convention before mapping to NV.
+VBG.fem.sg.nom.i,1,VBG,Gerundive/participle candidate; source encoding needs verification,,Needs verification,Check the source corpus convention before mapping to NV.
+VBG.neu.sg.acc.ii,1,VBG,Gerundive/participle candidate; source encoding needs verification,,Needs verification,Check the source corpus convention before mapping to NV.
+VBG.neu.du.0.i,1,VBG,Gerundive/participle candidate; source encoding needs verification,,Needs verification,Check the source corpus convention before mapping to NV.
+VBG.neu.pl.0.i,1,VBG,Gerundive/participle candidate; source encoding needs verification,,Needs verification,Check the source corpus convention before mapping to NV.
+CX,827,CX,Not established from the available source documentation,,Unresolved,Do not use as supervised source label until its meaning is verified.
+ALC,347,ALC,Not established from the available source documentation,,Unresolved,Do not use as supervised source label until its meaning is verified.
+AMN,251,AMN,Not established from the available source documentation,,Unresolved,Do not use as supervised source label until its meaning is verified.
+RDX,63,RDX,Not established from the available source documentation,,Unresolved,Do not use as supervised source label until its meaning is verified.
+CCL,32,CCL,Not established from the available source documentation,,Unresolved,Do not use as supervised source label until its meaning is verified.
+RDF,25,RDF,Not established from the available source documentation,,Unresolved,Do not use as supervised source label until its meaning is verified.
+DAB.mas.sg.3.nom.i.prx.n,23,DAB,Not established from the available source documentation,,Unresolved,Do not use as supervised source label until its meaning is verified.
+JQ.mas.pl.nom.i.nnm.n.n,21,JQ,Not established from the available source documentation,,Unresolved,Do not use as supervised source label until its meaning is verified.
+JQ.neu.sg.0.i.nnm.n.n,21,JQ,Not established from the available source documentation,,Unresolved,Do not use as supervised source label until its meaning is verified.
+JQ.neu.sg.loc.vii.ord.n.n,16,JQ,Not established from the available source documentation,,Unresolved,Do not use as supervised source label until its meaning is verified.
+DAB.mas.sg.3.loc.vii.prx.n,15,DAB,Not established from the available source documentation,,Unresolved,Do not use as supervised source label until its meaning is verified.
+JQ.neu.sg.acc.ii.crd.n.n,13,JQ,Not established from the available source documentation,,Unresolved,Do not use as supervised source label until its meaning is verified.
+JQ.mas.sg.0.i.n.n,12,JQ,Not established from the available source documentation,,Unresolved,Do not use as supervised source label until its meaning is verified.
+JQ.neu.sg.acc.ii.nnm.n.n,12,JQ,Not established from the available source documentation,,Unresolved,Do not use as supervised source label until its meaning is verified.
+JQ.fem.sg.0.i.ord.n.n,12,JQ,Not established from the available source documentation,,Unresolved,Do not use as supervised source label until its meaning is verified.
+AMN.0,11,AMN,Not established from the available source documentation,,Unresolved,Do not use as supervised source label until its meaning is verified.
+JQ.mas.sg.0.i.crd.n.n,10,JQ,Not established from the available source documentation,,Unresolved,Do not use as supervised source label until its meaning is verified.
+RDS,9,RDS,Not established from the available source documentation,,Unresolved,Do not use as supervised source label until its meaning is verified.
+DAB.mas.sg.3.gen.vi.prx.n,9,DAB,Not established from the available source documentation,,Unresolved,Do not use as supervised source label until its meaning is verified.
+DAB.mas.sg.3.nom.i.dst.n,9,DAB,Not established from the available source documentation,,Unresolved,Do not use as supervised source label until its meaning is verified.
+DAB.fem.sg.3.nom.i.prx.n,9,DAB,Not established from the available source documentation,,Unresolved,Do not use as supervised source label until its meaning is verified.
+JQ.mas.sg.0.i.nnm.n.n,8,JQ,Not established from the available source documentation,,Unresolved,Do not use as supervised source label until its meaning is verified.
+DAB.mas.sg.3.acc.ii.dst.n,8,DAB,Not established from the available source documentation,,Unresolved,Do not use as supervised source label until its meaning is verified.
+JQ.fem.sg.0.i.crd.n.n,8,JQ,Not established from the available source documentation,,Unresolved,Do not use as supervised source label until its meaning is verified.
+DAB.neu.sg.3.acc.ii.prx.n,7,DAB,Not established from the available source documentation,,Unresolved,Do not use as supervised source label until its meaning is verified.
+DAB.neu.sg.3.abl.v.prx.n,7,DAB,Not established from the available source documentation,,Unresolved,Do not use as supervised source label until its meaning is verified.
+JQ.mas.sg.0.i.ord.n.n,7,JQ,Not established from the available source documentation,,Unresolved,Do not use as supervised source label until its meaning is verified.
+DAB.mas.sg.3.0.i.prx.n,7,DAB,Not established from the available source documentation,,Unresolved,Do not use as supervised source label until its meaning is verified.
+DAB.mas.pl.3.nom.i.dst.n,6,DAB,Not established from the available source documentation,,Unresolved,Do not use as supervised source label until its meaning is verified.
+JQ.neu.sg.0.i.crd.n.n,6,JQ,Not established from the available source documentation,,Unresolved,Do not use as supervised source label until its meaning is verified.
+DAB.neu.sg.3.loc.vii.dst.n,6,DAB,Not established from the available source documentation,,Unresolved,Do not use as supervised source label until its meaning is verified.
+DAB.neu.sg.3.nom.i.dst.n,6,DAB,Not established from the available source documentation,,Unresolved,Do not use as supervised source label until its meaning is verified.
+DAB.neu.sg.3.acc.ii.dst.n,6,DAB,Not established from the available source documentation,,Unresolved,Do not use as supervised source label until its meaning is verified.
+DAB.mas.sg.3.loc.vii.dst.n,6,DAB,Not established from the available source documentation,,Unresolved,Do not use as supervised source label until its meaning is verified.
+JQ.neu.sg.0.i.ord.n.n,6,JQ,Not established from the available source documentation,,Unresolved,Do not use as supervised source label until its meaning is verified.
+DAB.mas.sg.3.acc.ii.prx.n,6,DAB,Not established from the available source documentation,,Unresolved,Do not use as supervised source label until its meaning is verified.
+ALC.0,5,ALC,Not established from the available source documentation,,Unresolved,Do not use as supervised source label until its meaning is verified.
+DAB.neu.sg.3.0.i.prx.n,5,DAB,Not established from the available source documentation,,Unresolved,Do not use as supervised source label until its meaning is verified.
+JQ.0.sg.0.i.nnm.n.n,5,JQ,Not established from the available source documentation,,Unresolved,Do not use as supervised source label until its meaning is verified.
+JQ.fem.sg.acc.ii.nnm.n.n,5,JQ,Not established from the available source documentation,,Unresolved,Do not use as supervised source label until its meaning is verified.
+JQ.mas.sg.acc.ii.crd.n.n,5,JQ,Not established from the available source documentation,,Unresolved,Do not use as supervised source label until its meaning is verified.
+DAB.mas.pl.3.loc.vii.prx.n,4,DAB,Not established from the available source documentation,,Unresolved,Do not use as supervised source label until its meaning is verified.
+DAB.neu.sg.3.nom.i.prx.n,4,DAB,Not established from the available source documentation,,Unresolved,Do not use as supervised source label until its meaning is verified.
+DAB.neu.sg.3.gen.vi.prx.n,4,DAB,Not established from the available source documentation,,Unresolved,Do not use as supervised source label until its meaning is verified.
+JQ.mas.pl.gen.vi.nnm.n.n,4,JQ,Not established from the available source documentation,,Unresolved,Do not use as supervised source label until its meaning is verified.
+JQ.fem.sg.nom.i.nnm.n.n,4,JQ,Not established from the available source documentation,,Unresolved,Do not use as supervised source label until its meaning is verified.
+DAB.neu.sg.3.loc.vii.prx.n,4,DAB,Not established from the available source documentation,,Unresolved,Do not use as supervised source label until its meaning is verified.
+JQ.mas.sg.loc.vii.ord.n.n,4,JQ,Not established from the available source documentation,,Unresolved,Do not use as supervised source label until its meaning is verified.
+JQ.mas.sg.loc.vii.crd.n.n,4,JQ,Not established from the available source documentation,,Unresolved,Do not use as supervised source label until its meaning is verified.
+JQ.mas.pl.acc.ii.nnm.n.n,4,JQ,Not established from the available source documentation,,Unresolved,Do not use as supervised source label until its meaning is verified.
+JQ.fem.sg.0.i.nnm.n.n,4,JQ,Not established from the available source documentation,,Unresolved,Do not use as supervised source label until its meaning is verified.
+JQ.mas.sg.nom.i.crd.n.n,4,JQ,Not established from the available source documentation,,Unresolved,Do not use as supervised source label until its meaning is verified.
+JQ.neu.sg.acc.ii.n.n,3,JQ,Not established from the available source documentation,,Unresolved,Do not use as supervised source label until its meaning is verified.
+JQ.mas.sg.loc.vii.n.n,3,JQ,Not established from the available source documentation,,Unresolved,Do not use as supervised source label until its meaning is verified.
+DAB.mas.pl.3.ins.iii.dst.n,3,DAB,Not established from the available source documentation,,Unresolved,Do not use as supervised source label until its meaning is verified.
+DAB.neu.sg.3.0.i.dst.n,3,DAB,Not established from the available source documentation,,Unresolved,Do not use as supervised source label until its meaning is verified.
+DAB.mas.pl.3.nom.i.prx.n,3,DAB,Not established from the available source documentation,,Unresolved,Do not use as supervised source label until its meaning is verified.
+DAB.mas.sg.3.gen.vi.dst.n,3,DAB,Not established from the available source documentation,,Unresolved,Do not use as supervised source label until its meaning is verified.
+JQ.fem.sg.acc.ii.crd.n.n,3,JQ,Not established from the available source documentation,,Unresolved,Do not use as supervised source label until its meaning is verified.
+JQ.mas.sg.loc.vii.nnm.n.n,3,JQ,Not established from the available source documentation,,Unresolved,Do not use as supervised source label until its meaning is verified.
+DWH.mas.sg.3.nom.i.0.n,3,DWH,Not established from the available source documentation,,Unresolved,Do not use as supervised source label until its meaning is verified.
+JQ.mas.pl.0.i.nnm.n.n,3,JQ,Not established from the available source documentation,,Unresolved,Do not use as supervised source label until its meaning is verified.
+DAB.fem.sg.3.0.i.prx.n,3,DAB,Not established from the available source documentation,,Unresolved,Do not use as supervised source label until its meaning is verified.
+JQ.neu.sg.acc.ii.ord.n.n,3,JQ,Not established from the available source documentation,,Unresolved,Do not use as supervised source label until its meaning is verified.
+JQ.neu.sg.nom.i.nnm.n.n,3,JQ,Not established from the available source documentation,,Unresolved,Do not use as supervised source label until its meaning is verified.
+DAB.neu.sg.3.ins.iii.prx.n,3,DAB,Not established from the available source documentation,,Unresolved,Do not use as supervised source label until its meaning is verified.
+JQ.neu.sg.loc.vii.nnm.n.n,3,JQ,Not established from the available source documentation,,Unresolved,Do not use as supervised source label until its meaning is verified.
+JQ.fem.sg.loc.vii.ord.n.n,3,JQ,Not established from the available source documentation,,Unresolved,Do not use as supervised source label until its meaning is verified.
+JQ.fem.du.0.i.crd.n.n,3,JQ,Not established from the available source documentation,,Unresolved,Do not use as supervised source label until its meaning is verified.
+JQ.fem.sg.0.i.n.n,2,JQ,Not established from the available source documentation,,Unresolved,Do not use as supervised source label until its meaning is verified.
+JQ.neu.pl.nom.i.n.n,2,JQ,Not established from the available source documentation,,Unresolved,Do not use as supervised source label until its meaning is verified.
+JQ.neu.sg.0.i.n.n,2,JQ,Not established from the available source documentation,,Unresolved,Do not use as supervised source label until its meaning is verified.
+ALC.loc,2,ALC,Not established from the available source documentation,,Unresolved,Do not use as supervised source label until its meaning is verified.
+AMN.ins,2,AMN,Not established from the available source documentation,,Unresolved,Do not use as supervised source label until its meaning is verified.
+DAB.mas.sg.3.ins.iii.dst.n,2,DAB,Not established from the available source documentation,,Unresolved,Do not use as supervised source label until its meaning is verified.
+DAB.fem.sg.3.loc.vii.dst.n,2,DAB,Not established from the available source documentation,,Unresolved,Do not use as supervised source label until its meaning is verified.
+JQ.fem.pl.nom.i.nnm.n.n,2,JQ,Not established from the available source documentation,,Unresolved,Do not use as supervised source label until its meaning is verified.
+DAB.neu.sg.3.abl.v.dst.n,2,DAB,Not established from the available source documentation,,Unresolved,Do not use as supervised source label until its meaning is verified.
+JQ.mas.sg.ins.iii.crd.n.n,2,JQ,Not established from the available source documentation,,Unresolved,Do not use as supervised source label until its meaning is verified.
+JQ.fem.sg.loc.vii.crd.n.n,2,JQ,Not established from the available source documentation,,Unresolved,Do not use as supervised source label until its meaning is verified.
+JQ.mas.du.nom.i.crd.n.n,2,JQ,Not established from the available source documentation,,Unresolved,Do not use as supervised source label until its meaning is verified.
+DAB.fem.sg.3.nom.i.dst.n,2,DAB,Not established from the available source documentation,,Unresolved,Do not use as supervised source label until its meaning is verified.
+JQ.fem.sg.nom.i.crd.n.n,2,JQ,Not established from the available source documentation,,Unresolved,Do not use as supervised source label until its meaning is verified.
+JQ.mas.pl.nom.i.crd.n.n,2,JQ,Not established from the available source documentation,,Unresolved,Do not use as supervised source label until its meaning is verified.
+DAB.fem.sg.3.loc.vii.prx.n,2,DAB,Not established from the available source documentation,,Unresolved,Do not use as supervised source label until its meaning is verified.
+JQ.mas.sg.gen.vi.nnm.n.n,2,JQ,Not established from the available source documentation,,Unresolved,Do not use as supervised source label until its meaning is verified.
+JQ.0.0.0.0.nnm.n.n,2,JQ,Not established from the available source documentation,,Unresolved,Do not use as supervised source label until its meaning is verified.
+JQ.mas.pl.loc.vii.nnm.n.n,2,JQ,Not established from the available source documentation,,Unresolved,Do not use as supervised source label until its meaning is verified.
+JQ.fem.pl.loc.vii.nnm.n.n,2,JQ,Not established from the available source documentation,,Unresolved,Do not use as supervised source label until its meaning is verified.
+JQ.neu.pl.0.i.nnm.n.n,2,JQ,Not established from the available source documentation,,Unresolved,Do not use as supervised source label until its meaning is verified.
+JQ.neu.pl.nom.i.crd.n.n,2,JQ,Not established from the available source documentation,,Unresolved,Do not use as supervised source label until its meaning is verified.
+JQ.mas.sg.nom.i.ord.n.n,2,JQ,Not established from the available source documentation,,Unresolved,Do not use as supervised source label until its meaning is verified.
+JQ.neu.pl.acc.ii.crd.n.n,2,JQ,Not established from the available source documentation,,Unresolved,Do not use as supervised source label until its meaning is verified.
+JQ.mas.pl.dat.iv.nnm.n.n,2,JQ,Not established from the available source documentation,,Unresolved,Do not use as supervised source label until its meaning is verified.
+JQ.neu.du.0.i.crd.n.n,2,JQ,Not established from the available source documentation,,Unresolved,Do not use as supervised source label until its meaning is verified.
+JQ.fem.du.nom.i.crd.n.n,2,JQ,Not established from the available source documentation,,Unresolved,Do not use as supervised source label until its meaning is verified.
+DAB.mas.sg.3.ins.iii.prx.n,2,DAB,Not established from the available source documentation,,Unresolved,Do not use as supervised source label until its meaning is verified.
+JQ.mas.pl.ins.iii.nnm.n.n,2,JQ,Not established from the available source documentation,,Unresolved,Do not use as supervised source label until its meaning is verified.
+JQ.mas.pl.0.i.crd.n.n,2,JQ,Not established from the available source documentation,,Unresolved,Do not use as supervised source label until its meaning is verified.
+JQ.neu.pl.nom.i.nnm.n.n,2,JQ,Not established from the available source documentation,,Unresolved,Do not use as supervised source label until its meaning is verified.
+DRL.neu.sg.3.acc.ii.0.n,2,DRL,Not established from the available source documentation,,Unresolved,Do not use as supervised source label until its meaning is verified.
+DRL.neu.pl.3.nom.i.0.n,2,DRL,Not established from the available source documentation,,Unresolved,Do not use as supervised source label until its meaning is verified.
+JQ.fem.pl.loc.vii.n.n,1,JQ,Not established from the available source documentation,,Unresolved,Do not use as supervised source label until its meaning is verified.
+JQ.mas.pl.nom.i.n.n,1,JQ,Not established from the available source documentation,,Unresolved,Do not use as supervised source label until its meaning is verified.
+CCL.n,1,CCL,Not established from the available source documentation,,Unresolved,Do not use as supervised source label until its meaning is verified.
+DRL.mas.pl.3.gen.vi.0.n,1,DRL,Not established from the available source documentation,,Unresolved,Do not use as supervised source label until its meaning is verified.
+DWH.sg.acc.n.0,1,DWH,Not established from the available source documentation,,Unresolved,Do not use as supervised source label until its meaning is verified.
+DWH.pl.acc.n.0,1,DWH,Not established from the available source documentation,,Unresolved,Do not use as supervised source label until its meaning is verified.
+DAB.neu.sg.0.acc.ii.prx.n,1,DAB,Not established from the available source documentation,,Unresolved,Do not use as supervised source label until its meaning is verified.
+JQ.mas.sg.nom.i.n.n,1,JQ,Not established from the available source documentation,,Unresolved,Do not use as supervised source label until its meaning is verified.
+JQ.neu.pl.acc.ii.n.n,1,JQ,Not established from the available source documentation,,Unresolved,Do not use as supervised source label until its meaning is verified.
+DAB.neu.pl.3.nom.i.dst.n,1,DAB,Not established from the available source documentation,,Unresolved,Do not use as supervised source label until its meaning is verified.
+DAB.neu.sg.3.ins.iii.0.n,1,DAB,Not established from the available source documentation,,Unresolved,Do not use as supervised source label until its meaning is verified.
+JQ.mas.du.0.i.n.n,1,JQ,Not established from the available source documentation,,Unresolved,Do not use as supervised source label until its meaning is verified.
+JQ.mas.du.acc.ii.n.n,1,JQ,Not established from the available source documentation,,Unresolved,Do not use as supervised source label until its meaning is verified.
+DAB.mas.pl.3.loc.vii.dst.n,1,DAB,Not established from the available source documentation,,Unresolved,Do not use as supervised source label until its meaning is verified.
+JQ.neu.pl.0.i.crd.n.n,1,JQ,Not established from the available source documentation,,Unresolved,Do not use as supervised source label until its meaning is verified.
+JQ.neu.pl.0.i.ord.n.n,1,JQ,Not established from the available source documentation,,Unresolved,Do not use as supervised source label until its meaning is verified.
+DAB.neu.sg.3.gen.vi.dst.n,1,DAB,Not established from the available source documentation,,Unresolved,Do not use as supervised source label until its meaning is verified.
+JQ.mas.sg.acc.ii.nnm.n.n,1,JQ,Not established from the available source documentation,,Unresolved,Do not use as supervised source label until its meaning is verified.
+JQ.0.sg.nom.i.ord.n.n,1,JQ,Not established from the available source documentation,,Unresolved,Do not use as supervised source label until its meaning is verified.
+JQ.0.sg.loc.vii.ord.n.n,1,JQ,Not established from the available source documentation,,Unresolved,Do not use as supervised source label until its meaning is verified.
+DWH.0.sg.0.0.i.0.n,1,DWH,Not established from the available source documentation,,Unresolved,Do not use as supervised source label until its meaning is verified.
+JQ.neu.sg.ins.iii.nnm.n.n,1,JQ,Not established from the available source documentation,,Unresolved,Do not use as supervised source label until its meaning is verified.
+JQ.neu.pl.gen.vi.nnm.n.n,1,JQ,Not established from the available source documentation,,Unresolved,Do not use as supervised source label until its meaning is verified.
+DAB.mas.du.3.nom.i.prx.n,1,DAB,Not established from the available source documentation,,Unresolved,Do not use as supervised source label until its meaning is verified.
+DAB.fem.sg.3.0.i.dst.n,1,DAB,Not established from the available source documentation,,Unresolved,Do not use as supervised source label until its meaning is verified.
+DAB.mas.sg.3.0.i.dst.n,1,DAB,Not established from the available source documentation,,Unresolved,Do not use as supervised source label until its meaning is verified.
+DWH.fem.sg.3.0.i.0.n,1,DWH,Not established from the available source documentation,,Unresolved,Do not use as supervised source label until its meaning is verified.
+JQ.neu.sg.ins.iii.crd.n.n,1,JQ,Not established from the available source documentation,,Unresolved,Do not use as supervised source label until its meaning is verified.
+DAB.neu.sg.3.ins.i.prx.n,1,DAB,Not established from the available source documentation,,Unresolved,Do not use as supervised source label until its meaning is verified.
+DAB.neu.pl.3.0.i.prx.n,1,DAB,Not established from the available source documentation,,Unresolved,Do not use as supervised source label until its meaning is verified.
+DAB.neu.sg.1.acc.ii.prx.n,1,DAB,Not established from the available source documentation,,Unresolved,Do not use as supervised source label until its meaning is verified.
+DAB.fem.sg.3.ins.iii.prx.n,1,DAB,Not established from the available source documentation,,Unresolved,Do not use as supervised source label until its meaning is verified.
+DAB.neu.pl.3.loc.vii.prx.n,1,DAB,Not established from the available source documentation,,Unresolved,Do not use as supervised source label until its meaning is verified.
+DRL.mas.sg.3.gen.vi.0.n,1,DRL,Not established from the available source documentation,,Unresolved,Do not use as supervised source label until its meaning is verified.
+DAB.mas.sg.3.dat.iv.dst.n,1,DAB,Not established from the available source documentation,,Unresolved,Do not use as supervised source label until its meaning is verified.
+JQ.neu.sg.nom.i.crd.n.n,1,JQ,Not established from the available source documentation,,Unresolved,Do not use as supervised source label until its meaning is verified.
+DAB.mas.pl.3.gen.vi.dst.n,1,DAB,Not established from the available source documentation,,Unresolved,Do not use as supervised source label until its meaning is verified.
+JQ.neu.sg.loc.vii.crd.n.n,1,JQ,Not established from the available source documentation,,Unresolved,Do not use as supervised source label until its meaning is verified.
+JQ.neu.du.acc.ii.crd.n.n,1,JQ,Not established from the available source documentation,,Unresolved,Do not use as supervised source label until its meaning is verified.
+JQ.neu.pl.loc.vii.nnm.n.n,1,JQ,Not established from the available source documentation,,Unresolved,Do not use as supervised source label until its meaning is verified.
+JQ.fem.sg.acc.ii.nnm.y.n,1,JQ,Not established from the available source documentation,,Unresolved,Do not use as supervised source label until its meaning is verified.
+DAB.mas.sg.3.abl.v.dst.n,1,DAB,Not established from the available source documentation,,Unresolved,Do not use as supervised source label until its meaning is verified.
+DAB.mas.pl.3.gen.vi.prx.n,1,DAB,Not established from the available source documentation,,Unresolved,Do not use as supervised source label until its meaning is verified.
+DAB.fem.sg.3.ins.iii.dst.n,1,DAB,Not established from the available source documentation,,Unresolved,Do not use as supervised source label until its meaning is verified.
+DAB.0.sg.1.0.i.prx.n,1,DAB,Not established from the available source documentation,,Unresolved,Do not use as supervised source label until its meaning is verified.
+DAB.neu.pl.3.acc.ii.prx.n,1,DAB,Not established from the available source documentation,,Unresolved,Do not use as supervised source label until its meaning is verified.
+JQ.mas.sg.ins.iii.nnm.n.n,1,JQ,Not established from the available source documentation,,Unresolved,Do not use as supervised source label until its meaning is verified.
+DAB.neu.du.3.0.i.prx.n,1,DAB,Not established from the available source documentation,,Unresolved,Do not use as supervised source label until its meaning is verified.
+DWH.mas.sg.0.0.i.0.n,1,DWH,Not established from the available source documentation,,Unresolved,Do not use as supervised source label until its meaning is verified.
+DAB.fem.pl.3.gen.vi.prx.n,1,DAB,Not established from the available source documentation,,Unresolved,Do not use as supervised source label until its meaning is verified.
+JQ.mas.pl.acc.ii.crd.n.n,1,JQ,Not established from the available source documentation,,Unresolved,Do not use as supervised source label until its meaning is verified.
+JQ.mas.sg.acc.ii.ord.n.n,1,JQ,Not established from the available source documentation,,Unresolved,Do not use as supervised source label until its meaning is verified.
+JQ.0.du.0.i.crd.n.n,1,JQ,Not established from the available source documentation,,Unresolved,Do not use as supervised source label until its meaning is verified.
+JQ.mas.du.0.i.ord.n.n,1,JQ,Not established from the available source documentation,,Unresolved,Do not use as supervised source label until its meaning is verified.
+DWH.mas.sg.0.nom.i.0.n,1,DWH,Not established from the available source documentation,,Unresolved,Do not use as supervised source label until its meaning is verified.
+DRL.fem.sg.3.nom.i.0.n,1,DRL,Not established from the available source documentation,,Unresolved,Do not use as supervised source label until its meaning is verified.
+DRL.neu.sg.3.nom.i.0.n,1,DRL,Not established from the available source documentation,,Unresolved,Do not use as supervised source label until its meaning is verified.
+DRL.mas.sg.3.nom.i.0.n,1,DRL,Not established from the available source documentation,,Unresolved,Do not use as supervised source label until its meaning is verified.

@@ -1,0 +1,21 @@
+# Model Performance Summary
+
+Only successfully executed evaluations are included. Missing models or settings are pending and are not represented by placeholder metrics.
+
+| model         | setting                      |   accuracy |   macro_f1 |   weighted_f1 |   tokens |
+|:--------------|:-----------------------------|-----------:|-----------:|--------------:|---------:|
+| BiLSTM-CRF    | literature_in_domain         |     0.6884 |     0.3691 |        0.6743 |     1807 |
+| BiLSTM-CRF    | news_in_domain               |     0.6617 |     0.2319 |        0.6246 |     7324 |
+| BiLSTM-CRF    | literature_to_news_zero_shot |     0.2358 |     0.1015 |        0.2858 |     7324 |
+| XLM-RoBERTa   | literature_in_domain         |     0.896  |     0.5423 |        0.8954 |     1807 |
+| XLM-RoBERTa   | news_in_domain               |     0.7845 |     0.349  |        0.7853 |     7324 |
+| XLM-RoBERTa   | literature_to_news_zero_shot |     0.5457 |     0.2047 |        0.595  |     7324 |
+| IndicBERT-v2  | literature_in_domain         |     0.9225 |     0.5446 |        0.9221 |     1807 |
+| IndicBERT-v2  | news_in_domain               |     0.7784 |     0.3368 |        0.779  |     7324 |
+| IndicBERT-v2  | literature_to_news_zero_shot |     0.5427 |     0.1933 |        0.5883 |     7324 |
+| MuRIL         | literature_in_domain         |     0.8993 |     0.4677 |        0.8944 |     1807 |
+| MuRIL         | news_in_domain               |     0.785  |     0.2707 |        0.7482 |     7324 |
+| MuRIL         | literature_to_news_zero_shot |     0.5841 |     0.1934 |        0.6193 |     7324 |
+| Sanskrit-BERT | literature_in_domain         |     0.8644 |     0.5078 |        0.86   |     1807 |
+| Sanskrit-BERT | news_in_domain               |     0.7587 |     0.3283 |        0.7561 |     7324 |
+| Sanskrit-BERT | literature_to_news_zero_shot |     0.5344 |     0.1959 |        0.5832 |     7324 |

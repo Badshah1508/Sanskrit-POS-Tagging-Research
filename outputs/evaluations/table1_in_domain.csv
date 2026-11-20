@@ -1,0 +1,11 @@
+model_id,model,domain,setting,val_macro_f1,test_macro_f1,test_accuracy,test_weighted_f1
+M1,BiLSTM_CRF,Literature,literature_in_domain,0.3791,0.3691,0.6884,0.6743
+M1,BiLSTM_CRF,News,news_in_domain,0.2511,0.2319,0.6617,0.6246
+M2,XLM_RoBERTa,Literature,literature_in_domain,0.4996,0.5423,0.896,0.8954
+M2,XLM_RoBERTa,News,news_in_domain,0.3459,0.349,0.7845,0.7853
+M3,IndicBERT_v2,Literature,literature_in_domain,0.514,0.5446,0.9225,0.9221
+M3,IndicBERT_v2,News,news_in_domain,0.3233,0.3368,0.7784,0.779
+M4,MuRIL,Literature,literature_in_domain,0.4717,0.4677,0.8993,0.8944
+M4,MuRIL,News,news_in_domain,0.2631,0.2707,0.785,0.7482
+M5,Sanskrit_BERT,Literature,literature_in_domain,0.4786,0.5078,0.8644,0.86
+M5,Sanskrit_BERT,News,news_in_domain,0.3205,0.3283,0.7587,0.7561

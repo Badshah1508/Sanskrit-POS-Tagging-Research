@@ -1,0 +1,8 @@
+metric,value
+total_source_tokens,11899.0
+mapped_tokens,10744.0
+unmapped_tokens,1155.0
+coverage_percentage,90.29
+manual_review_tokens_applied,1988.0
+prefix_rule_tokens_applied,8756.0
+unresolved_queue_remaining,218.0

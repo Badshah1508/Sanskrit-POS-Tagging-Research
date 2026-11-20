@@ -1,0 +1,69 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Caches and Virtual Environments
+.cache/
+.pytest_cache/
+.coverage
+htmlcov/
+.env
+.venv/
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Jupyter Notebook checkpoints and backups
+.ipynb_checkpoints/
+*.ipynb.bak
+*.ipynb.bak_*
+*.bak
+*.bak_*
+
+# Editor & OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*~
+*.swp
+
+# Slurm and Runtime logs
+logs/*.out
+logs/*.err
+*.log
+*.tfevents.*
+
+# ==============================================================================
+# Model Weights, Large Checkpoints, and Binary Artifacts (> 50-100MB)
+# (Excluded from GitHub to prevent repository bloat and file size limits)
+# ==============================================================================
+*.pt
+*.pth
+*.bin
+*.safetensors
+*.ckpt
+*.h5
+*.onnx
+
+# Checkpoint directories across all experiments
+checkpoint/
+checkpoints/
+**/checkpoint/
+**/checkpoints/
+outputs/models/
+
+# ==============================================================================
+# Temporary Staging, Remote Kaggle Sync & Scratch Directories
+# ==============================================================================
+outputs/tmp_v2_check/
+outputs/kaggle_dataset_upload/
+outputs/kaggle_gpu_check/
+outputs/kaggle_kernel/
+outputs/experiments/kaggle_results/
+scratch/
+tmp/

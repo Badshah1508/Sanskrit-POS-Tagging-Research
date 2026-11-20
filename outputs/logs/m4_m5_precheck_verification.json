@@ -1,0 +1,149 @@
+{
+  "M4": {
+    "checkpoint_loaded": true,
+    "total_params": 236984088,
+    "vocab_size": 197258,
+    "devanagari_unk_count": 0,
+    "requires_transliteration": false,
+    "devanagari_compatible": true,
+    "coverage_stats": {
+      "Literature Held-Out Test": {
+        "total_words": 755,
+        "total_subwords": 1253,
+        "subwords_per_word": 1.6596026490066225,
+        "total_unks": 0,
+        "unk_rate_pct": 0.0
+      },
+      "News Locked Test": {
+        "total_words": 869,
+        "total_subwords": 2457,
+        "subwords_per_word": 2.8273878020713465,
+        "total_unks": 0,
+        "unk_rate_pct": 0.0
+      }
+    },
+    "sample_audit": [
+      {
+        "word": "\u0927\u0930\u094d\u092e\u0915\u094d\u0937\u0947\u0924\u094d\u0930\u0947",
+        "input": "\u0927\u0930\u094d\u092e\u0915\u094d\u0937\u0947\u0924\u094d\u0930\u0947",
+        "subwords": [
+          "\u0927\u0930\u094d\u092e",
+          "##\u0915\u094d\u0937\u0947\u0924\u094d\u0930\u0947"
+        ]
+      },
+      {
+        "word": "\u0915\u0941\u0930\u0941\u0915\u094d\u0937\u0947\u0924\u094d\u0930\u0947",
+        "input": "\u0915\u0941\u0930\u0941\u0915\u094d\u0937\u0947\u0924\u094d\u0930\u0947",
+        "subwords": [
+          "\u0915\u0941\u0930\u0941\u0915\u094d\u0937\u0947\u0924\u094d\u0930",
+          "##\u0947"
+        ]
+      },
+      {
+        "word": "\u092a\u094d\u0930\u0924\u093f\u0935\u0930\u094d\u0937\u0902",
+        "input": "\u092a\u094d\u0930\u0924\u093f\u0935\u0930\u094d\u0937\u0902",
+        "subwords": [
+          "\u092a\u094d\u0930\u0924\u093f\u0935\u0930\u094d\u0937\u0902"
+        ]
+      },
+      {
+        "word": "\u0938\u0902\u0938\u094d\u0915\u0943\u0924\u092d\u093e\u0930\u0924\u0940",
+        "input": "\u0938\u0902\u0938\u094d\u0915\u0943\u0924\u092d\u093e\u0930\u0924\u0940",
+        "subwords": [
+          "\u0938\u0902\u0938\u094d\u0915\u0943\u0924\u092d\u093e\u0930\u0924\u0940"
+        ]
+      },
+      {
+        "word": "\u0935\u093f\u0936\u094d\u0935\u0935\u093f\u0926\u094d\u092f\u093e\u0932\u092f\u0938\u094d\u092f",
+        "input": "\u0935\u093f\u0936\u094d\u0935\u0935\u093f\u0926\u094d\u092f\u093e\u0932\u092f\u0938\u094d\u092f",
+        "subwords": [
+          "\u0935\u093f\u0936\u094d\u0935\u0935\u093f\u0926\u094d\u092f\u093e\u0932\u092f\u0938\u094d\u092f"
+        ]
+      }
+    ],
+    "finetuning_supported": true,
+    "loss_computed": 3.182398557662964,
+    "grad_norm": 0.5652986764907837,
+    "gpu_mem_bs_8_mb": 4960.77490234375,
+    "gpu_mem_bs_16_mb": 6188.50927734375
+  },
+  "M5": {
+    "checkpoint_loaded": true,
+    "total_params": 108910104,
+    "vocab_size": 30000,
+    "devanagari_unk_count": 4,
+    "iast_unk_count": 0,
+    "requires_transliteration": true,
+    "transliteration_compatible": true,
+    "coverage_stats": {
+      "Literature Held-Out Test": {
+        "total_words": 755,
+        "total_subwords": 1269,
+        "subwords_per_word": 1.680794701986755,
+        "total_unks": 8,
+        "unk_rate_pct": 0.6304176516942475
+      },
+      "News Locked Test": {
+        "total_words": 869,
+        "total_subwords": 2803,
+        "subwords_per_word": 3.2255466052934407,
+        "total_unks": 9,
+        "unk_rate_pct": 0.3210845522654299
+      }
+    },
+    "sample_audit": [
+      {
+        "word": "\u0927\u0930\u094d\u092e\u0915\u094d\u0937\u0947\u0924\u094d\u0930\u0947",
+        "input": "dharmak\u1e63etre",
+        "subwords": [
+          "dharma",
+          "##k\u1e63et",
+          "##re"
+        ]
+      },
+      {
+        "word": "\u0915\u0941\u0930\u0941\u0915\u094d\u0937\u0947\u0924\u094d\u0930\u0947",
+        "input": "kuruk\u1e63etre",
+        "subwords": [
+          "kuruk\u1e63et",
+          "##re"
+        ]
+      },
+      {
+        "word": "\u092a\u094d\u0930\u0924\u093f\u0935\u0930\u094d\u0937\u0902",
+        "input": "prativar\u1e63a\u1e41",
+        "subwords": [
+          "prativar",
+          "##\u1e63a",
+          "##\u1e41"
+        ]
+      },
+      {
+        "word": "\u0938\u0902\u0938\u094d\u0915\u0943\u0924\u092d\u093e\u0930\u0924\u0940",
+        "input": "sa\u1e41sk\u1e5btabh\u0101rat\u012b",
+        "subwords": [
+          "sa\u1e41",
+          "##s",
+          "##k\u1e5bta",
+          "##bh\u0101",
+          "##rat\u012b"
+        ]
+      },
+      {
+        "word": "\u0935\u093f\u0936\u094d\u0935\u0935\u093f\u0926\u094d\u092f\u093e\u0932\u092f\u0938\u094d\u092f",
+        "input": "vi\u015bvavidy\u0101layasya",
+        "subwords": [
+          "vi\u015bva",
+          "##vidy\u0101",
+          "##laya",
+          "##sya"
+        ]
+      }
+    ],
+    "finetuning_supported": true,
+    "loss_computed": 3.307443380355835,
+    "grad_norm": 17.206443786621094,
+    "gpu_mem_bs_8_mb": 3019.70458984375,
+    "gpu_mem_bs_16_mb": 4247.67919921875
+  }
+}
