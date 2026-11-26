@@ -1,0 +1,13 @@
+{
+  "model": "ai4bharat/IndicBERTv2-MLM-only",
+  "learning_rate": 3e-05,
+  "batch_size": 8,
+  "epochs": 10,
+  "weight_decay": 0.01,
+  "max_length": 256,
+  "warmup_ratio": 0.1,
+  "gradient_accumulation_steps": 1,
+  "early_stopping_patience": 2,
+  "seed": 42,
+  "selection_metric": "validation_macro_f1"
+}
